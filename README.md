@@ -13,3 +13,9 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
 
 ![Choropleth map of population density by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/dccb1134351ffcb94e14b93772cb4177e6a908d0/img/chnPopDenWard.svg)
+
+### 4) [Individual details nominations of candidates and party GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/wardCouncillorNominations.csv) 
+   [Ward wise summary of nominations filed for GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/2022NominationsUrbanBody.csv)
+
+
+![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/355b388a371653c1195dd9cfa1799ea71744306c/img/2022nominationsByWard.svg)
