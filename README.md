@@ -24,4 +24,4 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 |ஏற்கப்பட்டது|2670|
 
 
-![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/355b388a371653c1195dd9cfa1799ea71744306c/img/2022nominationsByWard.svg)
+![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/9216c74f662e3e2fff7b013465953faba52dae73/img/2022nominationsByWardupdated.svg)
