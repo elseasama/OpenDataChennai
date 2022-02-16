@@ -20,7 +20,7 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
    [Individual details nominations of candidates and party GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/wardCouncillorNominations.csv) 
    
    [Ward wise summary of nominations filed for GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/2022NominationsUrbanBody.csv)
-   
+![Candidate nomination status](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationStatus.png)
 
 |வேட்புமனுவின் நிலை|வேட்பாளர்கள்|
 |---|---|
@@ -30,3 +30,4 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
 
 ![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/9216c74f662e3e2fff7b013465953faba52dae73/img/2022nominationsByWardupdated.svg)
+![Candidate nominations by political party, age, and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationPartyAgeSex.png)
