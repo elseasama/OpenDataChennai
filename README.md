@@ -27,6 +27,8 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 ### 4) [Individual details nominations of candidates and party Tamil Nadu urban body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/tnUrbanBodyElectionCandidates.csv) 
    [Candidates that won unopposed](https://datawrapper.dwcdn.net/9sJcW/1/)
    
+   [Google maps of wards](https://www.google.com/maps/d/u/1/edit?mid=1zDSJzA7t_C3mbMErfzT4Ag6L7jO1mpek&usp=sharing)
+   
    [Individual details nominations of candidates and party GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/wardCouncillorNominations.csv) 
    
    [Ward wise summary of nominations filed for GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/2022NominationsUrbanBody.csv)
