@@ -2,6 +2,14 @@
 
 Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
+# COVID-19
+
+##### Chennai COVID-19 
+   [Data](https://github.com/elseasama/covid19chennai)
+     
+   [Dashboard](http://dash.cov19.in/goto/mbkCzVB7k)
+
+# City
 ### 1) [Completed GCC projects](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/GCCProjectsCompleted.csv)
    Containts the list of completed projects by GCC in the past 5 years.
    ![Projects by source of Funds](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/projectsSourceOfFunds.jpg)
@@ -20,7 +28,7 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
    [Individual details nominations of candidates and party GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/wardCouncillorNominations.csv) 
    
    [Ward wise summary of nominations filed for GCC local body elections-2022](https://github.com/elseasama/OpenDataChennai/blob/main/2022NominationsUrbanBody.csv)
-   
+![Candidate nomination status](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationStatus.png)
 
 |வேட்புமனுவின் நிலை|வேட்பாளர்கள்|
 |---|---|
@@ -30,3 +38,4 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
 
 ![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/9216c74f662e3e2fff7b013465953faba52dae73/img/2022nominationsByWardupdated.svg)
+![Candidate nominations by political party, age, and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationPartyAgeSex.png)
