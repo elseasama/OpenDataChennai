@@ -42,4 +42,5 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
 
 ![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/9216c74f662e3e2fff7b013465953faba52dae73/img/2022nominationsByWardupdated.svg)
+![Candidate nominations by age and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/chndistbyagesex.png)
 ![Candidate nominations by political party, age, and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationPartyAgeSex.png)
