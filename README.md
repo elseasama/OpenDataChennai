@@ -4,7 +4,10 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
 # COVID-19
 
-##### Chennai COVID-19 [data](https://github.com/elseasama/covid19chennai)
+##### Chennai COVID-19 
+   [Data](https://github.com/elseasama/covid19chennai)
+     
+   [Dashboard](http://dash.cov19.in/goto/mbkCzVB7k)
 
 # City
 ### 1) [Completed GCC projects](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/GCCProjectsCompleted.csv)
