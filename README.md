@@ -48,4 +48,6 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 ![Reservation by wards in Chennai](https://github.com/elseasama/OpenDataChennai/blob/main/img/chennaiwardreservation.svg)
 
 ![Candidate nominations by age and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/chndistbyagesex.png)
+
+[Interactive version](https://elseasama.github.io/dataviz/chn/chnageparty.html)
 ![Candidate nominations by political party, age, and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationPartyAgeSex.png)
