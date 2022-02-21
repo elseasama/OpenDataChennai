@@ -1,0 +1,191 @@
+,State,Disease,Outbreaks
+0,Andhra Pradesh,Acute Diarrheal Disease,2.0
+1,Andhra Pradesh,Food Poisoning,5.0
+2,Arunachal Pradesh,Chickenpox,1.0
+3,Arunachal Pradesh,Enteric Fever,1.0
+4,Arunachal Pradesh,Food Poisoning,1.0
+5,Arunachal Pradesh,Scrub Typhus,2.0
+6,Assam,Acute Diarrheal Disease,5.0
+7,Assam,Acute Enchephilities Syndrome,29.0
+8,Assam,Acute Respiratory Infection (ARI),1.0
+9,Assam,Chickenpox,11.0
+10,Assam,Dysentery,1.0
+11,Assam,Enteric Fever,2.0
+12,Assam,Food Poisoning,17.0
+13,Assam,Leptospirosis,3.0
+14,Assam,Malaria,1.0
+15,Assam,Measles,1.0
+16,Assam,Scrub Typhus,2.0
+17,Assam,Viral Fever,2.0
+18,Assam,Viral Hepatitis A,1.0
+19,Assam,Others*,5.0
+20,Bihar,Acute Diarrheal Disease,1.0
+21,Bihar,Chickenpox,11.0
+22,Bihar,Malaria,1.0
+23,Bihar,Measles,2.0
+24,Bihar,Visceral Leishmaniasis,1.0
+25,Chandigarh,Dengue,2.0
+26,Chhattisgarh,Acute Diarrheal Disease,4.0
+27,Chhattisgarh,Acute Enchephilities Syndrome,1.0
+28,Chhattisgarh,Chickenpox,3.0
+29,Chhattisgarh,Food Poisoning,2.0
+30,Chhattisgarh,Malaria,1.0
+31,Chhattisgarh,Viral Hepatitis E,2.0
+32,Dadra & Nagar Haveli,Acute Diarrheal Disease,1.0
+33,Dadra & Nagar Haveli,Chickenpox,3.0
+34,Dadra & Nagar Haveli,Enteric Fever,1.0
+35,Dadra & Nagar Haveli,Mumps,2.0
+36,Daman and Diu,Acute Diarrheal Disease,1.0
+37,Delhi,Measles,1.0
+38,Gujarat,Acute Diarrheal Disease,3.0
+39,Gujarat,Chickenpox,1.0
+40,Gujarat,Crimean Congo Haemorrhagic Fever,3.0
+41,Gujarat,Food Poisoning,2.0
+42,Gujarat,Measles,7.0
+43,Gujarat,Viral Hepatitis,1.0
+44,Gujarat,Viral Hepatitis E,1.0
+45,Gujarat,Others*,1.0
+46,Haryana,Chickenpox,4.0
+47,Haryana,Diphtheria,2.0
+48,Haryana,Pertussis,1.0
+49,Haryana,Viral Hepatitis A & E,1.0
+50,Haryana,Viral Hepatitis E,1.0
+51,Himachal Pradesh,Acute Diarrheal Disease,3.0
+52,Himachal Pradesh,Viral Hepatitis,1.0
+53,Jammu and Kashmir,Acute Diarrheal Disease,2.0
+54,Jammu and Kashmir,Acute Respiratory Infection (ARI),2.0
+55,Jammu and Kashmir,Chickenpox,1.0
+56,Jammu and Kashmir,Food Poisoning,1.0
+57,Jammu and Kashmir,Viral Hepatitis A,4.0
+58,Jammu and Kashmir,Viral Hepatitis E,1.0
+59,Jharkhand,Acute Diarrheal Disease,1.0
+60,Jharkhand,Acute Enchephilities Syndrome,4.0
+61,Jharkhand,Chickenpox,19.0
+62,Jharkhand,Food Poisoning,4.0
+63,Jharkhand,Measles,3.0
+64,Jharkhand,Others*,1.0
+65,Karnataka,Acute Diarrheal Disease,7.0
+66,Karnataka,Acute Enchephilities Syndrome,1.0
+67,Karnataka,Chickenpox,1.0
+68,Karnataka,Chikungunya,8.0
+69,Karnataka,Cholera,1.0
+70,Karnataka,Dengue,6.0
+71,Karnataka,Diphtheria,1.0
+72,Karnataka,Food Poisoning,12.0
+73,Karnataka,Kyasanur Forest Disease,1.0
+74,Karnataka,Measles,1.0
+75,Karnataka,Viral Fever,2.0
+76,Karnataka,Viral Hepatitis A,1.0
+77,Kerala,Acute Diarrheal Disease,5.0
+78,Kerala,Chickenpox,4.0
+79,Kerala,Chikungunya,1.0
+80,Kerala,Cholera,1.0
+81,Kerala,Dengue,16.0
+82,Kerala,Dysentery,1.0
+83,Kerala,Food Poisoning,8.0
+84,Kerala,Kyasanur Forest Disease,1.0
+85,Kerala,Malaria,1.0
+86,Kerala,Mumps,2.0
+87,Kerala,Viral Hepatitis A,8.0
+88,Kerala,Visceral Leishmaniasis,1.0
+89,Madhya Pradesh,Acute Diarrheal Disease,1.0
+90,Madhya Pradesh,Chickenpox,4.0
+91,Madhya Pradesh,Dengue,1.0
+92,Madhya Pradesh,Food Poisoning,6.0
+93,Madhya Pradesh,Leptospirosis,4.0
+94,Madhya Pradesh,Measles,1.0
+95,Madhya Pradesh,Scrub Typhus,3.0
+96,Madhya Pradesh,Others*,1.0
+97,Maharashtra,Acute Diarrheal Disease,13.0
+98,Maharashtra,Acute Enchephilities Syndrome,1.0
+99,Maharashtra,Chickenpox,3.0
+100,Maharashtra,Chikungunya,16.0
+101,Maharashtra,Cholera,2.0
+102,Maharashtra,Dengue,16.0
+103,Maharashtra,Food Poisoning,9.0
+104,Maharashtra,Kyasanur Forest Disease,1.0
+105,Maharashtra,Leptospirosis,6.0
+106,Maharashtra,Malaria,7.0
+107,Maharashtra,Measles,2.0
+108,Maharashtra,Mumps,1.0
+109,Maharashtra,Viral Fever,4.0
+110,Maharashtra,Viral Hepatitis,1.0
+111,Maharashtra,Viral Hepatitis A,1.0
+112,Maharashtra,Others*,2.0
+113,Manipur,Acute Enchephilities Syndrome,1.0
+114,Meghalaya,Acute Diarrheal Disease,2.0
+115,Meghalaya,Chickenpox,2.0
+116,Meghalaya,Food Poisoning,1.0
+117,Meghalaya,Scrub Typhus,1.0
+118,Meghalaya,Others*,1.0
+119,Mizoram,Acute Diarrheal Disease,1.0
+120,Mizoram,Food Poisoning,1.0
+121,Mizoram,Measles,1.0
+122,Nagaland,Malaria,1.0
+123,Nagaland,Measles,1.0
+124,Nagaland,Scrub Typhus,1.0
+125,Odisha,Acute Diarrheal Disease,5.0
+126,Odisha,Anthrax,1.0
+127,Odisha,Chickenpox,8.0
+128,Odisha,Food Poisoning,18.0
+129,Odisha,Jaundice,2.0
+130,Odisha,Viral Hepatitis A,1.0
+131,Puducherry,Acute Enchephilities Syndrome,1.0
+132,Puducherry,Cholera,1.0
+133,Puducherry,Scrub Typhus,1.0
+134,Punjab,Acute Diarrheal Disease,3.0
+135,Punjab,Chickenpox,9.0
+136,Punjab,Mumps,5.0
+137,Punjab,Viral Hepatitis,1.0
+138,Punjab,Viral Hepatitis A,1.0
+139,Punjab,Viral Hepatitis E,3.0
+140,Rajasthan,Food Poisoning,2.0
+141,Sikkim,Acute Diarrheal Disease,1.0
+142,Tamil Nadu,Acute Diarrheal Disease,10.0
+143,Tamil Nadu,Chickenpox,7.0
+144,Tamil Nadu,Chikungunya,2.0
+145,Tamil Nadu,Dengue,4.0
+146,Tamil Nadu,Enteric Fever,2.0
+147,Tamil Nadu,Food Poisoning,7.0
+148,Tamil Nadu,Viral Hepatitis A,1.0
+149,Telangana,Acute Diarrheal Disease,2.0
+150,Telangana,Dengue,1.0
+151,Telangana,Food Poisoning,4.0
+152,Uttar Pradesh,Acute Diarrheal Disease,1.0
+153,Uttar Pradesh,Chickenpox,2.0
+154,Uttar Pradesh,Dengue,3.0
+155,Uttar Pradesh,Diphtheria,1.0
+156,Uttar Pradesh,Food Poisoning,2.0
+157,Uttarakhand,Food Poisoning,2.0
+158,Uttarakhand,Mumps,1.0
+159,West Bengal,Acute Diarrheal Disease,2.0
+160,West Bengal,Food Poisoning,6.0
+161,West Bengal,Scrub Typhus,1.0
+162,India,Acute Diarrheal Disease,76.0
+163,India,Acute Enchephilities Syndrome,38.0
+164,India,Acute Respiratory Infection (ARI),3.0
+165,India,Anthrax,1.0
+166,India,Chickenpox,94.0
+167,India,Chikungunya,27.0
+168,India,Cholera,5.0
+169,India,Crimean Congo Haemorrhagic Fever,3.0
+170,India,Dengue,49.0
+171,India,Diphtheria,4.0
+172,India,Dysentery,2.0
+173,India,Enteric Fever,6.0
+174,India,Food Poisoning,110.0
+175,India,Jaundice,2.0
+176,India,Kyasanur Forest Disease,3.0
+177,India,Leptospirosis,13.0
+178,India,Malaria,12.0
+179,India,Measles,20.0
+180,India,Mumps,11.0
+181,India,Pertussis,1.0
+182,India,Scrub Typhus,11.0
+183,India,Viral Fever,8.0
+184,India,Viral Hepatitis,4.0
+185,India,Viral Hepatitis A,18.0
+186,India,Viral Hepatitis A & E,1.0
+187,India,Viral Hepatitis E,8.0
+188,India,Visceral Leishmaniasis,2.0
+189,India,Others*,11.0

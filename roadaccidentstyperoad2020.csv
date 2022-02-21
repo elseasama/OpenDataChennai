@@ -1,0 +1,637 @@
+City,Incidents,Type of road,Injury
+AGRA,70,National Highways,Cases
+AGRA,7,National Highways,Injured
+AGRA,70,National Highways,Died
+AGRA,40,State Highways,Cases
+AGRA,6,State Highways,Injured
+AGRA,40,State Highways,Died
+AGRA,2,Expressways,Cases
+AGRA,0,Expressways,Injured
+AGRA,2,Expressways,Died
+AGRA,12,Other Roads,Cases
+AGRA,13,Other Roads,Injured
+AGRA,14,Other Roads,Died
+AHMEDABAD,57,National Highways,Cases
+AHMEDABAD,31,National Highways,Injured
+AHMEDABAD,30,National Highways,Died
+AHMEDABAD,51,State Highways,Cases
+AHMEDABAD,46,State Highways,Injured
+AHMEDABAD,10,State Highways,Died
+AHMEDABAD,5,Expressways,Cases
+AHMEDABAD,2,Expressways,Injured
+AHMEDABAD,3,Expressways,Died
+AHMEDABAD,104,Other Roads,Cases
+AHMEDABAD,5,Other Roads,Injured
+AHMEDABAD,104,Other Roads,Died
+ALLAHABAD,0,National Highways,Cases
+ALLAHABAD,0,National Highways,Injured
+ALLAHABAD,0,National Highways,Died
+ALLAHABAD,132,State Highways,Cases
+ALLAHABAD,78,State Highways,Injured
+ALLAHABAD,28,State Highways,Died
+ALLAHABAD,0,Expressways,Cases
+ALLAHABAD,0,Expressways,Injured
+ALLAHABAD,0,Expressways,Died
+ALLAHABAD,1072,Other Roads,Cases
+ALLAHABAD,707,Other Roads,Injured
+ALLAHABAD,297,Other Roads,Died
+AMRITSAR,12,National Highways,Cases
+AMRITSAR,0,National Highways,Injured
+AMRITSAR,12,National Highways,Died
+AMRITSAR,0,State Highways,Cases
+AMRITSAR,0,State Highways,Injured
+AMRITSAR,0,State Highways,Died
+AMRITSAR,0,Expressways,Cases
+AMRITSAR,0,Expressways,Injured
+AMRITSAR,0,Expressways,Died
+AMRITSAR,89,Other Roads,Cases
+AMRITSAR,89,Other Roads,Injured
+AMRITSAR,32,Other Roads,Died
+ASANSOL,198,National Highways,Cases
+ASANSOL,146,National Highways,Injured
+ASANSOL,150,National Highways,Died
+ASANSOL,63,State Highways,Cases
+ASANSOL,39,State Highways,Injured
+ASANSOL,44,State Highways,Died
+ASANSOL,0,Expressways,Cases
+ASANSOL,0,Expressways,Injured
+ASANSOL,0,Expressways,Died
+ASANSOL,88,Other Roads,Cases
+ASANSOL,59,Other Roads,Injured
+ASANSOL,54,Other Roads,Died
+AURANGABAD,61,National Highways,Cases
+AURANGABAD,40,National Highways,Injured
+AURANGABAD,21,National Highways,Died
+AURANGABAD,72,State Highways,Cases
+AURANGABAD,29,State Highways,Injured
+AURANGABAD,43,State Highways,Died
+AURANGABAD,0,Expressways,Cases
+AURANGABAD,0,Expressways,Injured
+AURANGABAD,0,Expressways,Died
+AURANGABAD,166,Other Roads,Cases
+AURANGABAD,61,Other Roads,Injured
+AURANGABAD,120,Other Roads,Died
+BENGALURU,544,National Highways,Cases
+BENGALURU,486,National Highways,Injured
+BENGALURU,134,National Highways,Died
+BENGALURU,210,State Highways,Cases
+BENGALURU,175,State Highways,Injured
+BENGALURU,38,State Highways,Died
+BENGALURU,0,Expressways,Cases
+BENGALURU,0,Expressways,Injured
+BENGALURU,0,Expressways,Died
+BENGALURU,239,Other Roads,Cases
+BENGALURU,189,Other Roads,Injured
+BENGALURU,99,Other Roads,Died
+BHOPAL,226,National Highways,Cases
+BHOPAL,198,National Highways,Injured
+BHOPAL,23,National Highways,Died
+BHOPAL,534,State Highways,Cases
+BHOPAL,367,State Highways,Injured
+BHOPAL,27,State Highways,Died
+BHOPAL,0,Expressways,Cases
+BHOPAL,0,Expressways,Injured
+BHOPAL,0,Expressways,Died
+BHOPAL,2479,Other Roads,Cases
+BHOPAL,2090,Other Roads,Injured
+BHOPAL,474,Other Roads,Died
+CHANDIGARH CITY,21,National Highways,Cases
+CHANDIGARH CITY,12,National Highways,Injured
+CHANDIGARH CITY,6,National Highways,Died
+CHANDIGARH CITY,0,State Highways,Cases
+CHANDIGARH CITY,0,State Highways,Injured
+CHANDIGARH CITY,0,State Highways,Died
+CHANDIGARH CITY,0,Expressways,Cases
+CHANDIGARH CITY,0,Expressways,Injured
+CHANDIGARH CITY,0,Expressways,Died
+CHANDIGARH CITY,830,Other Roads,Cases
+CHANDIGARH CITY,662,Other Roads,Injured
+CHANDIGARH CITY,43,Other Roads,Died
+CHENNAI,926,National Highways,Cases
+CHENNAI,864,National Highways,Injured
+CHENNAI,199,National Highways,Died
+CHENNAI,867,State Highways,Cases
+CHENNAI,991,State Highways,Injured
+CHENNAI,154,State Highways,Died
+CHENNAI,0,Expressways,Cases
+CHENNAI,0,Expressways,Injured
+CHENNAI,0,Expressways,Died
+CHENNAI,136,Other Roads,Cases
+CHENNAI,136,Other Roads,Injured
+CHENNAI,47,Other Roads,Died
+COIMBATORE,210,National Highways,Cases
+COIMBATORE,216,National Highways,Injured
+COIMBATORE,21,National Highways,Died
+COIMBATORE,242,State Highways,Cases
+COIMBATORE,246,State Highways,Injured
+COIMBATORE,25,State Highways,Died
+COIMBATORE,0,Expressways,Cases
+COIMBATORE,0,Expressways,Injured
+COIMBATORE,0,Expressways,Died
+COIMBATORE,2596,Other Roads,Cases
+COIMBATORE,2408,Other Roads,Injured
+COIMBATORE,519,Other Roads,Died
+DELHI CITY,655,National Highways,Cases
+DELHI CITY,466,National Highways,Injured
+DELHI CITY,216,National Highways,Died
+DELHI CITY,261,State Highways,Cases
+DELHI CITY,257,State Highways,Injured
+DELHI CITY,49,State Highways,Died
+DELHI CITY,17,Expressways,Cases
+DELHI CITY,14,Expressways,Injured
+DELHI CITY,5,Expressways,Died
+DELHI CITY,255,Other Roads,Cases
+DELHI CITY,260,Other Roads,Injured
+DELHI CITY,19,Other Roads,Died
+DHANBAD,93,National Highways,Cases
+DHANBAD,54,National Highways,Injured
+DHANBAD,46,National Highways,Died
+DHANBAD,49,State Highways,Cases
+DHANBAD,28,State Highways,Injured
+DHANBAD,26,State Highways,Died
+DHANBAD,0,Expressways,Cases
+DHANBAD,0,Expressways,Injured
+DHANBAD,0,Expressways,Died
+DHANBAD,3095,Other Roads,Cases
+DHANBAD,2569,Other Roads,Injured
+DHANBAD,881,Other Roads,Died
+DURG BHILAINAGAR,146,National Highways,Cases
+DURG BHILAINAGAR,114,National Highways,Injured
+DURG BHILAINAGAR,33,National Highways,Died
+DURG BHILAINAGAR,71,State Highways,Cases
+DURG BHILAINAGAR,52,State Highways,Injured
+DURG BHILAINAGAR,19,State Highways,Died
+DURG BHILAINAGAR,0,Expressways,Cases
+DURG BHILAINAGAR,0,Expressways,Injured
+DURG BHILAINAGAR,0,Expressways,Died
+DURG BHILAINAGAR,22,Other Roads,Cases
+DURG BHILAINAGAR,16,Other Roads,Injured
+DURG BHILAINAGAR,11,Other Roads,Died
+FARIDABAD,121,National Highways,Cases
+FARIDABAD,100,National Highways,Injured
+FARIDABAD,60,National Highways,Died
+FARIDABAD,0,State Highways,Cases
+FARIDABAD,0,State Highways,Injured
+FARIDABAD,0,State Highways,Died
+FARIDABAD,9,Expressways,Cases
+FARIDABAD,4,Expressways,Injured
+FARIDABAD,8,Expressways,Died
+FARIDABAD,386,Other Roads,Cases
+FARIDABAD,372,Other Roads,Injured
+FARIDABAD,17,Other Roads,Died
+GHAZIABAD,52,National Highways,Cases
+GHAZIABAD,5,National Highways,Injured
+GHAZIABAD,55,National Highways,Died
+GHAZIABAD,16,State Highways,Cases
+GHAZIABAD,2,State Highways,Injured
+GHAZIABAD,17,State Highways,Died
+GHAZIABAD,7,Expressways,Cases
+GHAZIABAD,1,Expressways,Injured
+GHAZIABAD,7,Expressways,Died
+GHAZIABAD,394,Other Roads,Cases
+GHAZIABAD,317,Other Roads,Injured
+GHAZIABAD,162,Other Roads,Died
+GWALIOR,207,National Highways,Cases
+GWALIOR,173,National Highways,Injured
+GWALIOR,47,National Highways,Died
+GWALIOR,0,State Highways,Cases
+GWALIOR,0,State Highways,Injured
+GWALIOR,0,State Highways,Died
+GWALIOR,0,Expressways,Cases
+GWALIOR,0,Expressways,Injured
+GWALIOR,0,Expressways,Died
+GWALIOR,79,Other Roads,Cases
+GWALIOR,10,Other Roads,Injured
+GWALIOR,85,Other Roads,Died
+HYDERABAD,369,National Highways,Cases
+HYDERABAD,298,National Highways,Injured
+HYDERABAD,64,National Highways,Died
+HYDERABAD,129,State Highways,Cases
+HYDERABAD,117,State Highways,Injured
+HYDERABAD,17,State Highways,Died
+HYDERABAD,0,Expressways,Cases
+HYDERABAD,0,Expressways,Injured
+HYDERABAD,0,Expressways,Died
+HYDERABAD,806,Other Roads,Cases
+HYDERABAD,787,Other Roads,Injured
+HYDERABAD,83,Other Roads,Died
+INDORE,238,National Highways,Cases
+INDORE,282,National Highways,Injured
+INDORE,54,National Highways,Died
+INDORE,231,State Highways,Cases
+INDORE,225,State Highways,Injured
+INDORE,36,State Highways,Died
+INDORE,0,Expressways,Cases
+INDORE,0,Expressways,Injured
+INDORE,0,Expressways,Died
+INDORE,1566,Other Roads,Cases
+INDORE,1477,Other Roads,Injured
+INDORE,173,Other Roads,Died
+JABALPUR,432,National Highways,Cases
+JABALPUR,407,National Highways,Injured
+JABALPUR,102,National Highways,Died
+JABALPUR,302,State Highways,Cases
+JABALPUR,312,State Highways,Injured
+JABALPUR,23,State Highways,Died
+JABALPUR,0,Expressways,Cases
+JABALPUR,0,Expressways,Injured
+JABALPUR,0,Expressways,Died
+JABALPUR,1632,Other Roads,Cases
+JABALPUR,1288,Other Roads,Injured
+JABALPUR,123,Other Roads,Died
+JAIPUR,535,National Highways,Cases
+JAIPUR,453,National Highways,Injured
+JAIPUR,212,National Highways,Died
+JAIPUR,84,State Highways,Cases
+JAIPUR,62,State Highways,Injured
+JAIPUR,29,State Highways,Died
+JAIPUR,44,Expressways,Cases
+JAIPUR,34,Expressways,Injured
+JAIPUR,28,Expressways,Died
+JAIPUR,1182,Other Roads,Cases
+JAIPUR,1190,Other Roads,Injured
+JAIPUR,107,Other Roads,Died
+JAMSHEDPUR,0,National Highways,Cases
+JAMSHEDPUR,0,National Highways,Injured
+JAMSHEDPUR,0,National Highways,Died
+JAMSHEDPUR,54,State Highways,Cases
+JAMSHEDPUR,24,State Highways,Injured
+JAMSHEDPUR,19,State Highways,Died
+JAMSHEDPUR,0,Expressways,Cases
+JAMSHEDPUR,0,Expressways,Injured
+JAMSHEDPUR,0,Expressways,Died
+JAMSHEDPUR,1277,Other Roads,Cases
+JAMSHEDPUR,1017,Other Roads,Injured
+JAMSHEDPUR,337,Other Roads,Died
+JODHPUR,150,National Highways,Cases
+JODHPUR,99,National Highways,Injured
+JODHPUR,88,National Highways,Died
+JODHPUR,49,State Highways,Cases
+JODHPUR,30,State Highways,Injured
+JODHPUR,23,State Highways,Died
+JODHPUR,0,Expressways,Cases
+JODHPUR,0,Expressways,Injured
+JODHPUR,0,Expressways,Died
+JODHPUR,65,Other Roads,Cases
+JODHPUR,67,Other Roads,Injured
+JODHPUR,28,Other Roads,Died
+KANNUR,156,National Highways,Cases
+KANNUR,164,National Highways,Injured
+KANNUR,16,National Highways,Died
+KANNUR,94,State Highways,Cases
+KANNUR,118,State Highways,Injured
+KANNUR,17,State Highways,Died
+KANNUR,0,Expressways,Cases
+KANNUR,0,Expressways,Injured
+KANNUR,0,Expressways,Died
+KANNUR,282,Other Roads,Cases
+KANNUR,216,Other Roads,Injured
+KANNUR,95,Other Roads,Died
+KANPUR,69,National Highways,Cases
+KANPUR,38,National Highways,Injured
+KANPUR,69,National Highways,Died
+KANPUR,182,State Highways,Cases
+KANPUR,119,State Highways,Injured
+KANPUR,181,State Highways,Died
+KANPUR,41,Expressways,Cases
+KANPUR,20,Expressways,Injured
+KANPUR,42,Expressways,Died
+KANPUR,254,Other Roads,Cases
+KANPUR,291,Other Roads,Injured
+KANPUR,24,Other Roads,Died
+KOCHI,330,National Highways,Cases
+KOCHI,282,National Highways,Injured
+KOCHI,20,National Highways,Died
+KOCHI,225,State Highways,Cases
+KOCHI,192,State Highways,Injured
+KOCHI,19,State Highways,Died
+KOCHI,0,Expressways,Cases
+KOCHI,0,Expressways,Injured
+KOCHI,0,Expressways,Died
+KOCHI,126,Other Roads,Cases
+KOCHI,74,Other Roads,Injured
+KOCHI,124,Other Roads,Died
+KOLKATA,16,National Highways,Cases
+KOLKATA,0,National Highways,Injured
+KOLKATA,16,National Highways,Died
+KOLKATA,11,State Highways,Cases
+KOLKATA,5,State Highways,Injured
+KOLKATA,6,State Highways,Died
+KOLKATA,0,Expressways,Cases
+KOLKATA,0,Expressways,Injured
+KOLKATA,0,Expressways,Died
+KOLKATA,805,Other Roads,Cases
+KOLKATA,932,Other Roads,Injured
+KOLKATA,62,Other Roads,Died
+KOLLAM,757,National Highways,Cases
+KOLLAM,763,National Highways,Injured
+KOLLAM,110,National Highways,Died
+KOLLAM,0,State Highways,Cases
+KOLLAM,0,State Highways,Injured
+KOLLAM,0,State Highways,Died
+KOLLAM,0,Expressways,Cases
+KOLLAM,0,Expressways,Injured
+KOLLAM,0,Expressways,Died
+KOLLAM,1656,Other Roads,Cases
+KOLLAM,1396,Other Roads,Injured
+KOLLAM,179,Other Roads,Died
+KOTA,34,National Highways,Cases
+KOTA,35,National Highways,Injured
+KOTA,17,National Highways,Died
+KOTA,5,State Highways,Cases
+KOTA,6,State Highways,Injured
+KOTA,1,State Highways,Died
+KOTA,0,Expressways,Cases
+KOTA,0,Expressways,Injured
+KOTA,0,Expressways,Died
+KOTA,654,Other Roads,Cases
+KOTA,618,Other Roads,Injured
+KOTA,84,Other Roads,Died
+KOZHIKODE,382,National Highways,Cases
+KOZHIKODE,392,National Highways,Injured
+KOZHIKODE,36,National Highways,Died
+KOZHIKODE,149,State Highways,Cases
+KOZHIKODE,148,State Highways,Injured
+KOZHIKODE,16,State Highways,Died
+KOZHIKODE,0,Expressways,Cases
+KOZHIKODE,0,Expressways,Injured
+KOZHIKODE,0,Expressways,Died
+KOZHIKODE,314,Other Roads,Cases
+KOZHIKODE,321,Other Roads,Injured
+KOZHIKODE,42,Other Roads,Died
+LUCKNOW,373,National Highways,Cases
+LUCKNOW,258,National Highways,Injured
+LUCKNOW,206,National Highways,Died
+LUCKNOW,156,State Highways,Cases
+LUCKNOW,106,State Highways,Injured
+LUCKNOW,68,State Highways,Died
+LUCKNOW,49,Expressways,Cases
+LUCKNOW,29,Expressways,Injured
+LUCKNOW,26,Expressways,Died
+LUCKNOW,472,Other Roads,Cases
+LUCKNOW,472,Other Roads,Injured
+LUCKNOW,39,Other Roads,Died
+LUDHIANA,128,National Highways,Cases
+LUDHIANA,60,National Highways,Injured
+LUDHIANA,95,National Highways,Died
+LUDHIANA,35,State Highways,Cases
+LUDHIANA,17,State Highways,Injured
+LUDHIANA,33,State Highways,Died
+LUDHIANA,0,Expressways,Cases
+LUDHIANA,0,Expressways,Injured
+LUDHIANA,0,Expressways,Died
+LUDHIANA,432,Other Roads,Cases
+LUDHIANA,299,Other Roads,Injured
+LUDHIANA,141,Other Roads,Died
+MADURAI,36,National Highways,Cases
+MADURAI,35,National Highways,Injured
+MADURAI,7,National Highways,Died
+MADURAI,316,State Highways,Cases
+MADURAI,295,State Highways,Injured
+MADURAI,50,State Highways,Died
+MADURAI,0,Expressways,Cases
+MADURAI,0,Expressways,Injured
+MADURAI,0,Expressways,Died
+MADURAI,225,Other Roads,Cases
+MADURAI,106,Other Roads,Injured
+MADURAI,153,Other Roads,Died
+MALAPPURAM,225,National Highways,Cases
+MALAPPURAM,256,National Highways,Injured
+MALAPPURAM,36,National Highways,Died
+MALAPPURAM,137,State Highways,Cases
+MALAPPURAM,155,State Highways,Injured
+MALAPPURAM,22,State Highways,Died
+MALAPPURAM,0,Expressways,Cases
+MALAPPURAM,0,Expressways,Injured
+MALAPPURAM,0,Expressways,Died
+MALAPPURAM,178,Other Roads,Cases
+MALAPPURAM,169,Other Roads,Injured
+MALAPPURAM,24,Other Roads,Died
+MEERUT,165,National Highways,Cases
+MEERUT,96,National Highways,Injured
+MEERUT,82,National Highways,Died
+MEERUT,89,State Highways,Cases
+MEERUT,65,State Highways,Injured
+MEERUT,25,State Highways,Died
+MEERUT,0,Expressways,Cases
+MEERUT,0,Expressways,Injured
+MEERUT,0,Expressways,Died
+MEERUT,250,Other Roads,Cases
+MEERUT,210,Other Roads,Injured
+MEERUT,36,Other Roads,Died
+MUMBAI,0,National Highways,Cases
+MUMBAI,0,National Highways,Injured
+MUMBAI,0,National Highways,Died
+MUMBAI,0,State Highways,Cases
+MUMBAI,0,State Highways,Injured
+MUMBAI,0,State Highways,Died
+MUMBAI,0,Expressways,Cases
+MUMBAI,0,Expressways,Injured
+MUMBAI,0,Expressways,Died
+MUMBAI,123,Other Roads,Cases
+MUMBAI,94,Other Roads,Injured
+MUMBAI,45,Other Roads,Died
+NAGPUR,100,National Highways,Cases
+NAGPUR,72,National Highways,Injured
+NAGPUR,45,National Highways,Died
+NAGPUR,90,State Highways,Cases
+NAGPUR,73,State Highways,Injured
+NAGPUR,30,State Highways,Died
+NAGPUR,0,Expressways,Cases
+NAGPUR,0,Expressways,Injured
+NAGPUR,0,Expressways,Died
+NAGPUR,418,Other Roads,Cases
+NAGPUR,75,Other Roads,Injured
+NAGPUR,418,Other Roads,Died
+NASIK,6,National Highways,Cases
+NASIK,0,National Highways,Injured
+NASIK,6,National Highways,Died
+NASIK,4,State Highways,Cases
+NASIK,0,State Highways,Injured
+NASIK,4,State Highways,Died
+NASIK,0,Expressways,Cases
+NASIK,0,Expressways,Injured
+NASIK,0,Expressways,Died
+NASIK,700,Other Roads,Cases
+NASIK,603,Other Roads,Injured
+NASIK,149,Other Roads,Died
+PATNA,239,National Highways,Cases
+PATNA,127,National Highways,Injured
+PATNA,126,National Highways,Died
+PATNA,29,State Highways,Cases
+PATNA,36,State Highways,Injured
+PATNA,15,State Highways,Died
+PATNA,0,Expressways,Cases
+PATNA,0,Expressways,Injured
+PATNA,0,Expressways,Died
+PATNA,88,Other Roads,Cases
+PATNA,0,Other Roads,Injured
+PATNA,94,Other Roads,Died
+PUNE,9,National Highways,Cases
+PUNE,0,National Highways,Injured
+PUNE,9,National Highways,Died
+PUNE,40,State Highways,Cases
+PUNE,8,State Highways,Injured
+PUNE,42,State Highways,Died
+PUNE,0,Expressways,Cases
+PUNE,0,Expressways,Injured
+PUNE,0,Expressways,Died
+PUNE,105,Other Roads,Cases
+PUNE,80,Other Roads,Injured
+PUNE,40,Other Roads,Died
+RAIPUR,255,National Highways,Cases
+RAIPUR,112,National Highways,Injured
+RAIPUR,56,National Highways,Died
+RAIPUR,139,State Highways,Cases
+RAIPUR,94,State Highways,Injured
+RAIPUR,27,State Highways,Died
+RAIPUR,0,Expressways,Cases
+RAIPUR,0,Expressways,Injured
+RAIPUR,0,Expressways,Died
+RAIPUR,125,Other Roads,Cases
+RAIPUR,34,Other Roads,Injured
+RAIPUR,94,Other Roads,Died
+RAJKOT,83,National Highways,Cases
+RAJKOT,52,National Highways,Injured
+RAJKOT,35,National Highways,Died
+RAJKOT,88,State Highways,Cases
+RAJKOT,72,State Highways,Injured
+RAJKOT,30,State Highways,Died
+RAJKOT,0,Expressways,Cases
+RAJKOT,0,Expressways,Injured
+RAJKOT,0,Expressways,Died
+RAJKOT,513,Other Roads,Cases
+RAJKOT,323,Other Roads,Injured
+RAJKOT,76,Other Roads,Died
+RANCHI,0,National Highways,Cases
+RANCHI,0,National Highways,Injured
+RANCHI,0,National Highways,Died
+RANCHI,0,State Highways,Cases
+RANCHI,0,State Highways,Injured
+RANCHI,0,State Highways,Died
+RANCHI,0,Expressways,Cases
+RANCHI,0,Expressways,Injured
+RANCHI,0,Expressways,Died
+RANCHI,261,Other Roads,Cases
+RANCHI,200,Other Roads,Injured
+RANCHI,73,Other Roads,Died
+SRINAGAR,60,National Highways,Cases
+SRINAGAR,58,National Highways,Injured
+SRINAGAR,16,National Highways,Died
+SRINAGAR,0,State Highways,Cases
+SRINAGAR,0,State Highways,Injured
+SRINAGAR,0,State Highways,Died
+SRINAGAR,0,Expressways,Cases
+SRINAGAR,0,Expressways,Injured
+SRINAGAR,0,Expressways,Died
+SRINAGAR,247,Other Roads,Cases
+SRINAGAR,144,Other Roads,Injured
+SRINAGAR,164,Other Roads,Died
+SURAT,45,National Highways,Cases
+SURAT,25,National Highways,Injured
+SURAT,24,National Highways,Died
+SURAT,20,State Highways,Cases
+SURAT,14,State Highways,Injured
+SURAT,8,State Highways,Died
+SURAT,0,Expressways,Cases
+SURAT,0,Expressways,Injured
+SURAT,0,Expressways,Died
+SURAT,216,Other Roads,Cases
+SURAT,217,Other Roads,Injured
+SURAT,29,Other Roads,Died
+THIRUVANANTHAPURAM,390,National Highways,Cases
+THIRUVANANTHAPURAM,443,National Highways,Injured
+THIRUVANANTHAPURAM,33,National Highways,Died
+THIRUVANANTHAPURAM,289,State Highways,Cases
+THIRUVANANTHAPURAM,307,State Highways,Injured
+THIRUVANANTHAPURAM,28,State Highways,Died
+THIRUVANANTHAPURAM,0,Expressways,Cases
+THIRUVANANTHAPURAM,0,Expressways,Injured
+THIRUVANANTHAPURAM,0,Expressways,Died
+THIRUVANANTHAPURAM,510,Other Roads,Cases
+THIRUVANANTHAPURAM,384,Other Roads,Injured
+THIRUVANANTHAPURAM,159,Other Roads,Died
+THRISSUR,165,National Highways,Cases
+THRISSUR,201,National Highways,Injured
+THRISSUR,36,National Highways,Died
+THRISSUR,619,State Highways,Cases
+THRISSUR,682,State Highways,Injured
+THRISSUR,57,State Highways,Died
+THRISSUR,0,Expressways,Cases
+THRISSUR,0,Expressways,Injured
+THRISSUR,0,Expressways,Died
+THRISSUR,535,Other Roads,Cases
+THRISSUR,512,Other Roads,Injured
+THRISSUR,47,Other Roads,Died
+TIRUCHIRAPPALLI,161,National Highways,Cases
+TIRUCHIRAPPALLI,168,National Highways,Injured
+TIRUCHIRAPPALLI,47,National Highways,Died
+TIRUCHIRAPPALLI,13,State Highways,Cases
+TIRUCHIRAPPALLI,11,State Highways,Injured
+TIRUCHIRAPPALLI,3,State Highways,Died
+TIRUCHIRAPPALLI,0,Expressways,Cases
+TIRUCHIRAPPALLI,0,Expressways,Injured
+TIRUCHIRAPPALLI,0,Expressways,Died
+TIRUCHIRAPPALLI,680,Other Roads,Cases
+TIRUCHIRAPPALLI,749,Other Roads,Injured
+TIRUCHIRAPPALLI,41,Other Roads,Died
+VADODARA,135,National Highways,Cases
+VADODARA,101,National Highways,Injured
+VADODARA,86,National Highways,Died
+VADODARA,0,State Highways,Cases
+VADODARA,0,State Highways,Injured
+VADODARA,0,State Highways,Died
+VADODARA,2,Expressways,Cases
+VADODARA,2,Expressways,Injured
+VADODARA,0,Expressways,Died
+VADODARA,224,Other Roads,Cases
+VADODARA,222,Other Roads,Injured
+VADODARA,37,Other Roads,Died
+VARANASI,52,National Highways,Cases
+VARANASI,30,National Highways,Injured
+VARANASI,24,National Highways,Died
+VARANASI,37,State Highways,Cases
+VARANASI,20,State Highways,Injured
+VARANASI,10,State Highways,Died
+VARANASI,0,Expressways,Cases
+VARANASI,0,Expressways,Injured
+VARANASI,0,Expressways,Died
+VARANASI,344,Other Roads,Cases
+VARANASI,305,Other Roads,Injured
+VARANASI,67,Other Roads,Died
+VASAI VIRAR,150,National Highways,Cases
+VASAI VIRAR,67,National Highways,Injured
+VASAI VIRAR,113,National Highways,Died
+VASAI VIRAR,14,State Highways,Cases
+VASAI VIRAR,6,State Highways,Injured
+VASAI VIRAR,12,State Highways,Died
+VASAI VIRAR,0,Expressways,Cases
+VASAI VIRAR,0,Expressways,Injured
+VASAI VIRAR,0,Expressways,Died
+VASAI VIRAR,31,Other Roads,Cases
+VASAI VIRAR,16,Other Roads,Injured
+VASAI VIRAR,17,Other Roads,Died
+VIJAYAWADA,503,National Highways,Cases
+VIJAYAWADA,491,National Highways,Injured
+VIJAYAWADA,165,National Highways,Died
+VIJAYAWADA,75,State Highways,Cases
+VIJAYAWADA,66,State Highways,Injured
+VIJAYAWADA,24,State Highways,Died
+VIJAYAWADA,0,Expressways,Cases
+VIJAYAWADA,0,Expressways,Injured
+VIJAYAWADA,0,Expressways,Died
+VIJAYAWADA,110,Other Roads,Cases
+VIJAYAWADA,95,Other Roads,Injured
+VIJAYAWADA,35,Other Roads,Died
+VISHAKHAPATNAM,361,National Highways,Cases
+VISHAKHAPATNAM,400,National Highways,Injured
+VISHAKHAPATNAM,97,National Highways,Died
+VISHAKHAPATNAM,39,State Highways,Cases
+VISHAKHAPATNAM,43,State Highways,Injured
+VISHAKHAPATNAM,18,State Highways,Died
+VISHAKHAPATNAM,0,Expressways,Cases
+VISHAKHAPATNAM,0,Expressways,Injured
+VISHAKHAPATNAM,0,Expressways,Died
+VISHAKHAPATNAM,413,Other Roads,Cases
+VISHAKHAPATNAM,420,Other Roads,Injured
+VISHAKHAPATNAM,85,Other Roads,Died

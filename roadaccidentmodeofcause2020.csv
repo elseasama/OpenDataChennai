@@ -1,0 +1,1750 @@
+City,Result,Cause of accident,Type
+AGRA,135.0,Careless driving/overtaking,Cases
+AGRA,13.0,Careless driving/overtaking,Injured
+AGRA,135.0,Careless driving/overtaking,Died
+AGRA,81.0,Over speeding,Cases
+AGRA,5.0,Over speeding,Injured
+AGRA,81.0,Over speeding,Died
+AGRA,0.0,DUI,Cases
+AGRA,0.0,DUI,Injured
+AGRA,0.0,DUI,Died
+AGRA,0.0,Physical Fatigue of Drivers,Cases
+AGRA,0.0,Physical Fatigue of Drivers,Injured
+AGRA,0.0,Physical Fatigue of Drivers,Died
+AGRA,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+AGRA,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+AGRA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+AGRA,0.0,Animal Crossing,Cases
+AGRA,0.0,Animal Crossing,Injured
+AGRA,0.0,Animal Crossing,Died
+AGRA,0.0,Weather Condition (Poor Visibility),Cases
+AGRA,0.0,Weather Condition (Poor Visibility),Injured
+AGRA,0.0,Weather Condition (Poor Visibility),Died
+AGRA,0.0,Weather Condition (Others Causes),Cases
+AGRA,0.0,Weather Condition (Others Causes),Injured
+AGRA,0.0,Weather Condition (Others Causes),Died
+AGRA,0.0,Lack of Road Infrastructure,Cases
+AGRA,0.0,Lack of Road Infrastructure,Injured
+AGRA,0.0,Lack of Road Infrastructure,Died
+AGRA,0.0,Vehicles parked at road  Shoulders,Cases
+AGRA,0.0,Vehicles parked at road  Shoulders,Injured
+AGRA,0.0,Vehicles parked at road  Shoulders,Died
+AGRA,0.0,Causes Not Known,Cases
+AGRA,0.0,Causes Not Known,Injured
+AGRA,0.0,Causes Not Known,Died
+AHMEDABAD,0.0,Careless driving/overtaking,Cases
+AHMEDABAD,0.0,Careless driving/overtaking,Injured
+AHMEDABAD,0.0,Careless driving/overtaking,Died
+AHMEDABAD,1181.0,Over speeding,Cases
+AHMEDABAD,786.0,Over speeding,Injured
+AHMEDABAD,336.0,Over speeding,Died
+AHMEDABAD,0.0,DUI,Cases
+AHMEDABAD,0.0,DUI,Injured
+AHMEDABAD,0.0,DUI,Died
+AHMEDABAD,0.0,Physical Fatigue of Drivers,Cases
+AHMEDABAD,0.0,Physical Fatigue of Drivers,Injured
+AHMEDABAD,0.0,Physical Fatigue of Drivers,Died
+AHMEDABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+AHMEDABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+AHMEDABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+AHMEDABAD,4.0,Animal Crossing,Cases
+AHMEDABAD,0.0,Animal Crossing,Injured
+AHMEDABAD,4.0,Animal Crossing,Died
+AHMEDABAD,0.0,Weather Condition (Poor Visibility),Cases
+AHMEDABAD,0.0,Weather Condition (Poor Visibility),Injured
+AHMEDABAD,0.0,Weather Condition (Poor Visibility),Died
+AHMEDABAD,0.0,Weather Condition (Others Causes),Cases
+AHMEDABAD,0.0,Weather Condition (Others Causes),Injured
+AHMEDABAD,0.0,Weather Condition (Others Causes),Died
+AHMEDABAD,0.0,Lack of Road Infrastructure,Cases
+AHMEDABAD,0.0,Lack of Road Infrastructure,Injured
+AHMEDABAD,0.0,Lack of Road Infrastructure,Died
+AHMEDABAD,0.0,Vehicles parked at road  Shoulders,Cases
+AHMEDABAD,0.0,Vehicles parked at road  Shoulders,Injured
+AHMEDABAD,0.0,Vehicles parked at road  Shoulders,Died
+AHMEDABAD,0.0,Causes Not Known,Cases
+AHMEDABAD,0.0,Causes Not Known,Injured
+AHMEDABAD,0.0,Causes Not Known,Died
+ALLAHABAD,15.0,Careless driving/overtaking,Cases
+ALLAHABAD,7.0,Careless driving/overtaking,Injured
+ALLAHABAD,8.0,Careless driving/overtaking,Died
+ALLAHABAD,13.0,Over speeding,Cases
+ALLAHABAD,7.0,Over speeding,Injured
+ALLAHABAD,6.0,Over speeding,Died
+ALLAHABAD,9.0,DUI,Cases
+ALLAHABAD,5.0,DUI,Injured
+ALLAHABAD,4.0,DUI,Died
+ALLAHABAD,12.0,Physical Fatigue of Drivers,Cases
+ALLAHABAD,10.0,Physical Fatigue of Drivers,Injured
+ALLAHABAD,2.0,Physical Fatigue of Drivers,Died
+ALLAHABAD,10.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+ALLAHABAD,7.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+ALLAHABAD,3.0,Defect in Mechanical Condition of Motor Vehicle,Died
+ALLAHABAD,16.0,Animal Crossing,Cases
+ALLAHABAD,10.0,Animal Crossing,Injured
+ALLAHABAD,6.0,Animal Crossing,Died
+ALLAHABAD,22.0,Weather Condition (Poor Visibility),Cases
+ALLAHABAD,19.0,Weather Condition (Poor Visibility),Injured
+ALLAHABAD,3.0,Weather Condition (Poor Visibility),Died
+ALLAHABAD,26.0,Weather Condition (Others Causes),Cases
+ALLAHABAD,18.0,Weather Condition (Others Causes),Injured
+ALLAHABAD,8.0,Weather Condition (Others Causes),Died
+ALLAHABAD,15.0,Lack of Road Infrastructure,Cases
+ALLAHABAD,11.0,Lack of Road Infrastructure,Injured
+ALLAHABAD,4.0,Lack of Road Infrastructure,Died
+ALLAHABAD,19.0,Vehicles parked at road  Shoulders,Cases
+ALLAHABAD,15.0,Vehicles parked at road  Shoulders,Injured
+ALLAHABAD,4.0,Vehicles parked at road  Shoulders,Died
+ALLAHABAD,15.0,Causes Not Known,Cases
+ALLAHABAD,11.0,Causes Not Known,Injured
+ALLAHABAD,5.0,Causes Not Known,Died
+AMRITSAR,2.0,Careless driving/overtaking,Cases
+AMRITSAR,0.0,Careless driving/overtaking,Injured
+AMRITSAR,2.0,Careless driving/overtaking,Died
+AMRITSAR,55.0,Over speeding,Cases
+AMRITSAR,30.0,Over speeding,Injured
+AMRITSAR,37.0,Over speeding,Died
+AMRITSAR,1.0,DUI,Cases
+AMRITSAR,1.0,DUI,Injured
+AMRITSAR,0.0,DUI,Died
+AMRITSAR,0.0,Physical Fatigue of Drivers,Cases
+AMRITSAR,0.0,Physical Fatigue of Drivers,Injured
+AMRITSAR,0.0,Physical Fatigue of Drivers,Died
+AMRITSAR,41.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+AMRITSAR,28.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+AMRITSAR,26.0,Defect in Mechanical Condition of Motor Vehicle,Died
+AMRITSAR,1.0,Animal Crossing,Cases
+AMRITSAR,0.0,Animal Crossing,Injured
+AMRITSAR,1.0,Animal Crossing,Died
+AMRITSAR,0.0,Weather Condition (Poor Visibility),Cases
+AMRITSAR,0.0,Weather Condition (Poor Visibility),Injured
+AMRITSAR,0.0,Weather Condition (Poor Visibility),Died
+AMRITSAR,0.0,Weather Condition (Others Causes),Cases
+AMRITSAR,0.0,Weather Condition (Others Causes),Injured
+AMRITSAR,0.0,Weather Condition (Others Causes),Died
+AMRITSAR,0.0,Lack of Road Infrastructure,Cases
+AMRITSAR,0.0,Lack of Road Infrastructure,Injured
+AMRITSAR,0.0,Lack of Road Infrastructure,Died
+AMRITSAR,0.0,Vehicles parked at road  Shoulders,Cases
+AMRITSAR,0.0,Vehicles parked at road  Shoulders,Injured
+AMRITSAR,0.0,Vehicles parked at road  Shoulders,Died
+AMRITSAR,0.0,Causes Not Known,Cases
+AMRITSAR,0.0,Causes Not Known,Injured
+AMRITSAR,0.0,Causes Not Known,Died
+ASANSOL,258.0,Careless driving/overtaking,Cases
+ASANSOL,131.0,Careless driving/overtaking,Injured
+ASANSOL,189.0,Careless driving/overtaking,Died
+ASANSOL,153.0,Over speeding,Cases
+ASANSOL,87.0,Over speeding,Injured
+ASANSOL,113.0,Over speeding,Died
+ASANSOL,0.0,DUI,Cases
+ASANSOL,0.0,DUI,Injured
+ASANSOL,0.0,DUI,Died
+ASANSOL,0.0,Physical Fatigue of Drivers,Cases
+ASANSOL,0.0,Physical Fatigue of Drivers,Injured
+ASANSOL,0.0,Physical Fatigue of Drivers,Died
+ASANSOL,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+ASANSOL,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+ASANSOL,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+ASANSOL,0.0,Animal Crossing,Cases
+ASANSOL,0.0,Animal Crossing,Injured
+ASANSOL,0.0,Animal Crossing,Died
+ASANSOL,0.0,Weather Condition (Poor Visibility),Cases
+ASANSOL,0.0,Weather Condition (Poor Visibility),Injured
+ASANSOL,0.0,Weather Condition (Poor Visibility),Died
+ASANSOL,0.0,Weather Condition (Others Causes),Cases
+ASANSOL,0.0,Weather Condition (Others Causes),Injured
+ASANSOL,0.0,Weather Condition (Others Causes),Died
+ASANSOL,0.0,Lack of Road Infrastructure,Cases
+ASANSOL,0.0,Lack of Road Infrastructure,Injured
+ASANSOL,0.0,Lack of Road Infrastructure,Died
+ASANSOL,0.0,Vehicles parked at road  Shoulders,Cases
+ASANSOL,0.0,Vehicles parked at road  Shoulders,Injured
+ASANSOL,0.0,Vehicles parked at road  Shoulders,Died
+ASANSOL,16.0,Causes Not Known,Cases
+ASANSOL,28.0,Causes Not Known,Injured
+ASANSOL,12.0,Causes Not Known,Died
+AURANGABAD,0.0,Careless driving/overtaking,Cases
+AURANGABAD,0.0,Careless driving/overtaking,Injured
+AURANGABAD,0.0,Careless driving/overtaking,Died
+AURANGABAD,372.0,Over speeding,Cases
+AURANGABAD,258.0,Over speeding,Injured
+AURANGABAD,163.0,Over speeding,Died
+AURANGABAD,0.0,DUI,Cases
+AURANGABAD,0.0,DUI,Injured
+AURANGABAD,0.0,DUI,Died
+AURANGABAD,0.0,Physical Fatigue of Drivers,Cases
+AURANGABAD,0.0,Physical Fatigue of Drivers,Injured
+AURANGABAD,0.0,Physical Fatigue of Drivers,Died
+AURANGABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+AURANGABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+AURANGABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+AURANGABAD,0.0,Animal Crossing,Cases
+AURANGABAD,0.0,Animal Crossing,Injured
+AURANGABAD,0.0,Animal Crossing,Died
+AURANGABAD,0.0,Weather Condition (Poor Visibility),Cases
+AURANGABAD,0.0,Weather Condition (Poor Visibility),Injured
+AURANGABAD,0.0,Weather Condition (Poor Visibility),Died
+AURANGABAD,0.0,Weather Condition (Others Causes),Cases
+AURANGABAD,0.0,Weather Condition (Others Causes),Injured
+AURANGABAD,0.0,Weather Condition (Others Causes),Died
+AURANGABAD,0.0,Lack of Road Infrastructure,Cases
+AURANGABAD,0.0,Lack of Road Infrastructure,Injured
+AURANGABAD,0.0,Lack of Road Infrastructure,Died
+AURANGABAD,0.0,Vehicles parked at road  Shoulders,Cases
+AURANGABAD,0.0,Vehicles parked at road  Shoulders,Injured
+AURANGABAD,0.0,Vehicles parked at road  Shoulders,Died
+AURANGABAD,0.0,Causes Not Known,Cases
+AURANGABAD,0.0,Causes Not Known,Injured
+AURANGABAD,0.0,Causes Not Known,Died
+BENGALURU,213.0,Careless driving/overtaking,Cases
+BENGALURU,88.0,Careless driving/overtaking,Injured
+BENGALURU,39.0,Careless driving/overtaking,Died
+BENGALURU,2993.0,Over speeding,Cases
+BENGALURU,2650.0,Over speeding,Injured
+BENGALURU,596.0,Over speeding,Died
+BENGALURU,27.0,DUI,Cases
+BENGALURU,13.0,DUI,Injured
+BENGALURU,11.0,DUI,Died
+BENGALURU,0.0,Physical Fatigue of Drivers,Cases
+BENGALURU,0.0,Physical Fatigue of Drivers,Injured
+BENGALURU,0.0,Physical Fatigue of Drivers,Died
+BENGALURU,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+BENGALURU,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+BENGALURU,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+BENGALURU,0.0,Animal Crossing,Cases
+BENGALURU,0.0,Animal Crossing,Injured
+BENGALURU,0.0,Animal Crossing,Died
+BENGALURU,0.0,Weather Condition (Poor Visibility),Cases
+BENGALURU,0.0,Weather Condition (Poor Visibility),Injured
+BENGALURU,0.0,Weather Condition (Poor Visibility),Died
+BENGALURU,0.0,Weather Condition (Others Causes),Cases
+BENGALURU,0.0,Weather Condition (Others Causes),Injured
+BENGALURU,0.0,Weather Condition (Others Causes),Died
+BENGALURU,0.0,Lack of Road Infrastructure,Cases
+BENGALURU,0.0,Lack of Road Infrastructure,Injured
+BENGALURU,0.0,Lack of Road Infrastructure,Died
+BENGALURU,0.0,Vehicles parked at road  Shoulders,Cases
+BENGALURU,0.0,Vehicles parked at road  Shoulders,Injured
+BENGALURU,0.0,Vehicles parked at road  Shoulders,Died
+BENGALURU,0.0,Causes Not Known,Cases
+BENGALURU,0.0,Causes Not Known,Injured
+BENGALURU,0.0,Causes Not Known,Died
+BHOPAL,1061.0,Careless driving/overtaking,Cases
+BHOPAL,874.0,Careless driving/overtaking,Injured
+BHOPAL,57.0,Careless driving/overtaking,Died
+BHOPAL,139.0,Over speeding,Cases
+BHOPAL,133.0,Over speeding,Injured
+BHOPAL,16.0,Over speeding,Died
+BHOPAL,0.0,DUI,Cases
+BHOPAL,0.0,DUI,Injured
+BHOPAL,0.0,DUI,Died
+BHOPAL,0.0,Physical Fatigue of Drivers,Cases
+BHOPAL,0.0,Physical Fatigue of Drivers,Injured
+BHOPAL,0.0,Physical Fatigue of Drivers,Died
+BHOPAL,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+BHOPAL,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+BHOPAL,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+BHOPAL,0.0,Animal Crossing,Cases
+BHOPAL,0.0,Animal Crossing,Injured
+BHOPAL,0.0,Animal Crossing,Died
+BHOPAL,0.0,Weather Condition (Poor Visibility),Cases
+BHOPAL,0.0,Weather Condition (Poor Visibility),Injured
+BHOPAL,0.0,Weather Condition (Poor Visibility),Died
+BHOPAL,0.0,Weather Condition (Others Causes),Cases
+BHOPAL,0.0,Weather Condition (Others Causes),Injured
+BHOPAL,0.0,Weather Condition (Others Causes),Died
+BHOPAL,19.0,Lack of Road Infrastructure,Cases
+BHOPAL,15.0,Lack of Road Infrastructure,Injured
+BHOPAL,0.0,Lack of Road Infrastructure,Died
+BHOPAL,0.0,Vehicles parked at road  Shoulders,Cases
+BHOPAL,0.0,Vehicles parked at road  Shoulders,Injured
+BHOPAL,0.0,Vehicles parked at road  Shoulders,Died
+BHOPAL,131.0,Causes Not Known,Cases
+BHOPAL,57.0,Causes Not Known,Injured
+BHOPAL,5.0,Causes Not Known,Died
+CHANDIGARH (CITY),10.0,Careless driving/overtaking,Cases
+CHANDIGARH (CITY),9.0,Careless driving/overtaking,Injured
+CHANDIGARH (CITY),2.0,Careless driving/overtaking,Died
+CHANDIGARH (CITY),132.0,Over speeding,Cases
+CHANDIGARH (CITY),130.0,Over speeding,Injured
+CHANDIGARH (CITY),49.0,Over speeding,Died
+CHANDIGARH (CITY),3.0,DUI,Cases
+CHANDIGARH (CITY),3.0,DUI,Injured
+CHANDIGARH (CITY),1.0,DUI,Died
+CHANDIGARH (CITY),0.0,Physical Fatigue of Drivers,Cases
+CHANDIGARH (CITY),0.0,Physical Fatigue of Drivers,Injured
+CHANDIGARH (CITY),0.0,Physical Fatigue of Drivers,Died
+CHANDIGARH (CITY),0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+CHANDIGARH (CITY),0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+CHANDIGARH (CITY),0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+CHANDIGARH (CITY),0.0,Animal Crossing,Cases
+CHANDIGARH (CITY),0.0,Animal Crossing,Injured
+CHANDIGARH (CITY),0.0,Animal Crossing,Died
+CHANDIGARH (CITY),0.0,Weather Condition (Poor Visibility),Cases
+CHANDIGARH (CITY),0.0,Weather Condition (Poor Visibility),Injured
+CHANDIGARH (CITY),0.0,Weather Condition (Poor Visibility),Died
+CHANDIGARH (CITY),0.0,Weather Condition (Others Causes),Cases
+CHANDIGARH (CITY),0.0,Weather Condition (Others Causes),Injured
+CHANDIGARH (CITY),0.0,Weather Condition (Others Causes),Died
+CHANDIGARH (CITY),0.0,Lack of Road Infrastructure,Cases
+CHANDIGARH (CITY),0.0,Lack of Road Infrastructure,Injured
+CHANDIGARH (CITY),0.0,Lack of Road Infrastructure,Died
+CHANDIGARH (CITY),0.0,Vehicles parked at road  Shoulders,Cases
+CHANDIGARH (CITY),0.0,Vehicles parked at road  Shoulders,Injured
+CHANDIGARH (CITY),0.0,Vehicles parked at road  Shoulders,Died
+CHANDIGARH (CITY),0.0,Causes Not Known,Cases
+CHANDIGARH (CITY),0.0,Causes Not Known,Injured
+CHANDIGARH (CITY),0.0,Causes Not Known,Died
+CHENNAI,589.0,Careless driving/overtaking,Cases
+CHENNAI,461.0,Careless driving/overtaking,Injured
+CHENNAI,176.0,Careless driving/overtaking,Died
+CHENNAI,1126.0,Over speeding,Cases
+CHENNAI,895.0,Over speeding,Injured
+CHENNAI,265.0,Over speeding,Died
+CHENNAI,589.0,DUI,Cases
+CHENNAI,726.0,DUI,Injured
+CHENNAI,236.0,DUI,Died
+CHENNAI,257.0,Physical Fatigue of Drivers,Cases
+CHENNAI,334.0,Physical Fatigue of Drivers,Injured
+CHENNAI,29.0,Physical Fatigue of Drivers,Died
+CHENNAI,237.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+CHENNAI,417.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+CHENNAI,52.0,Defect in Mechanical Condition of Motor Vehicle,Died
+CHENNAI,128.0,Animal Crossing,Cases
+CHENNAI,427.0,Animal Crossing,Injured
+CHENNAI,27.0,Animal Crossing,Died
+CHENNAI,115.0,Weather Condition (Poor Visibility),Cases
+CHENNAI,167.0,Weather Condition (Poor Visibility),Injured
+CHENNAI,11.0,Weather Condition (Poor Visibility),Died
+CHENNAI,79.0,Weather Condition (Others Causes),Cases
+CHENNAI,167.0,Weather Condition (Others Causes),Injured
+CHENNAI,10.0,Weather Condition (Others Causes),Died
+CHENNAI,428.0,Lack of Road Infrastructure,Cases
+CHENNAI,377.0,Lack of Road Infrastructure,Injured
+CHENNAI,19.0,Lack of Road Infrastructure,Died
+CHENNAI,187.0,Vehicles parked at road  Shoulders,Cases
+CHENNAI,107.0,Vehicles parked at road  Shoulders,Injured
+CHENNAI,7.0,Vehicles parked at road  Shoulders,Died
+CHENNAI,365.0,Causes Not Known,Cases
+CHENNAI,112.0,Causes Not Known,Injured
+CHENNAI,16.0,Causes Not Known,Died
+COIMBATORE,181.0,Careless driving/overtaking,Cases
+COIMBATORE,199.0,Careless driving/overtaking,Injured
+COIMBATORE,7.0,Careless driving/overtaking,Died
+COIMBATORE,516.0,Over speeding,Cases
+COIMBATORE,514.0,Over speeding,Injured
+COIMBATORE,58.0,Over speeding,Died
+COIMBATORE,10.0,DUI,Cases
+COIMBATORE,9.0,DUI,Injured
+COIMBATORE,0.0,DUI,Died
+COIMBATORE,0.0,Physical Fatigue of Drivers,Cases
+COIMBATORE,0.0,Physical Fatigue of Drivers,Injured
+COIMBATORE,0.0,Physical Fatigue of Drivers,Died
+COIMBATORE,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+COIMBATORE,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+COIMBATORE,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+COIMBATORE,0.0,Animal Crossing,Cases
+COIMBATORE,0.0,Animal Crossing,Injured
+COIMBATORE,0.0,Animal Crossing,Died
+COIMBATORE,0.0,Weather Condition (Poor Visibility),Cases
+COIMBATORE,0.0,Weather Condition (Poor Visibility),Injured
+COIMBATORE,0.0,Weather Condition (Poor Visibility),Died
+COIMBATORE,0.0,Weather Condition (Others Causes),Cases
+COIMBATORE,0.0,Weather Condition (Others Causes),Injured
+COIMBATORE,0.0,Weather Condition (Others Causes),Died
+COIMBATORE,0.0,Lack of Road Infrastructure,Cases
+COIMBATORE,0.0,Lack of Road Infrastructure,Injured
+COIMBATORE,0.0,Lack of Road Infrastructure,Died
+COIMBATORE,0.0,Vehicles parked at road  Shoulders,Cases
+COIMBATORE,0.0,Vehicles parked at road  Shoulders,Injured
+COIMBATORE,0.0,Vehicles parked at road  Shoulders,Died
+COIMBATORE,0.0,Causes Not Known,Cases
+COIMBATORE,0.0,Causes Not Known,Injured
+COIMBATORE,0.0,Causes Not Known,Died
+DELHI (CITY),1729.0,Careless driving/overtaking,Cases
+DELHI (CITY),1527.0,Careless driving/overtaking,Injured
+DELHI (CITY),430.0,Careless driving/overtaking,Died
+DELHI (CITY),1493.0,Over speeding,Cases
+DELHI (CITY),1100.0,Over speeding,Injured
+DELHI (CITY),505.0,Over speeding,Died
+DELHI (CITY),71.0,DUI,Cases
+DELHI (CITY),74.0,DUI,Injured
+DELHI (CITY),15.0,DUI,Died
+DELHI (CITY),6.0,Physical Fatigue of Drivers,Cases
+DELHI (CITY),4.0,Physical Fatigue of Drivers,Injured
+DELHI (CITY),1.0,Physical Fatigue of Drivers,Died
+DELHI (CITY),6.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+DELHI (CITY),6.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+DELHI (CITY),0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+DELHI (CITY),21.0,Animal Crossing,Cases
+DELHI (CITY),24.0,Animal Crossing,Injured
+DELHI (CITY),2.0,Animal Crossing,Died
+DELHI (CITY),66.0,Weather Condition (Poor Visibility),Cases
+DELHI (CITY),60.0,Weather Condition (Poor Visibility),Injured
+DELHI (CITY),19.0,Weather Condition (Poor Visibility),Died
+DELHI (CITY),31.0,Weather Condition (Others Causes),Cases
+DELHI (CITY),27.0,Weather Condition (Others Causes),Injured
+DELHI (CITY),6.0,Weather Condition (Others Causes),Died
+DELHI (CITY),29.0,Lack of Road Infrastructure,Cases
+DELHI (CITY),32.0,Lack of Road Infrastructure,Injured
+DELHI (CITY),1.0,Lack of Road Infrastructure,Died
+DELHI (CITY),27.0,Vehicles parked at road  Shoulders,Cases
+DELHI (CITY),27.0,Vehicles parked at road  Shoulders,Injured
+DELHI (CITY),3.0,Vehicles parked at road  Shoulders,Died
+DELHI (CITY),130.0,Causes Not Known,Cases
+DELHI (CITY),75.0,Causes Not Known,Injured
+DELHI (CITY),62.0,Causes Not Known,Died
+DHANBAD,65.0,Careless driving/overtaking,Cases
+DHANBAD,27.0,Careless driving/overtaking,Injured
+DHANBAD,32.0,Careless driving/overtaking,Died
+DHANBAD,71.0,Over speeding,Cases
+DHANBAD,65.0,Over speeding,Injured
+DHANBAD,47.0,Over speeding,Died
+DHANBAD,0.0,DUI,Cases
+DHANBAD,0.0,DUI,Injured
+DHANBAD,0.0,DUI,Died
+DHANBAD,0.0,Physical Fatigue of Drivers,Cases
+DHANBAD,0.0,Physical Fatigue of Drivers,Injured
+DHANBAD,0.0,Physical Fatigue of Drivers,Died
+DHANBAD,22.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+DHANBAD,4.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+DHANBAD,3.0,Defect in Mechanical Condition of Motor Vehicle,Died
+DHANBAD,0.0,Animal Crossing,Cases
+DHANBAD,0.0,Animal Crossing,Injured
+DHANBAD,0.0,Animal Crossing,Died
+DHANBAD,6.0,Weather Condition (Poor Visibility),Cases
+DHANBAD,2.0,Weather Condition (Poor Visibility),Injured
+DHANBAD,1.0,Weather Condition (Poor Visibility),Died
+DHANBAD,0.0,Weather Condition (Others Causes),Cases
+DHANBAD,0.0,Weather Condition (Others Causes),Injured
+DHANBAD,0.0,Weather Condition (Others Causes),Died
+DHANBAD,0.0,Lack of Road Infrastructure,Cases
+DHANBAD,0.0,Lack of Road Infrastructure,Injured
+DHANBAD,0.0,Lack of Road Infrastructure,Died
+DHANBAD,0.0,Vehicles parked at road  Shoulders,Cases
+DHANBAD,0.0,Vehicles parked at road  Shoulders,Injured
+DHANBAD,0.0,Vehicles parked at road  Shoulders,Died
+DHANBAD,0.0,Causes Not Known,Cases
+DHANBAD,0.0,Causes Not Known,Injured
+DHANBAD,0.0,Causes Not Known,Died
+DURG BHILAINAGAR,0.0,Careless driving/overtaking,Cases
+DURG BHILAINAGAR,0.0,Careless driving/overtaking,Injured
+DURG BHILAINAGAR,0.0,Careless driving/overtaking,Died
+DURG BHILAINAGAR,602.0,Over speeding,Cases
+DURG BHILAINAGAR,536.0,Over speeding,Injured
+DURG BHILAINAGAR,69.0,Over speeding,Died
+DURG BHILAINAGAR,1.0,DUI,Cases
+DURG BHILAINAGAR,2.0,DUI,Injured
+DURG BHILAINAGAR,0.0,DUI,Died
+DURG BHILAINAGAR,0.0,Physical Fatigue of Drivers,Cases
+DURG BHILAINAGAR,0.0,Physical Fatigue of Drivers,Injured
+DURG BHILAINAGAR,0.0,Physical Fatigue of Drivers,Died
+DURG BHILAINAGAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+DURG BHILAINAGAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+DURG BHILAINAGAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+DURG BHILAINAGAR,0.0,Animal Crossing,Cases
+DURG BHILAINAGAR,0.0,Animal Crossing,Injured
+DURG BHILAINAGAR,0.0,Animal Crossing,Died
+DURG BHILAINAGAR,0.0,Weather Condition (Poor Visibility),Cases
+DURG BHILAINAGAR,0.0,Weather Condition (Poor Visibility),Injured
+DURG BHILAINAGAR,0.0,Weather Condition (Poor Visibility),Died
+DURG BHILAINAGAR,0.0,Weather Condition (Others Causes),Cases
+DURG BHILAINAGAR,0.0,Weather Condition (Others Causes),Injured
+DURG BHILAINAGAR,0.0,Weather Condition (Others Causes),Died
+DURG BHILAINAGAR,0.0,Lack of Road Infrastructure,Cases
+DURG BHILAINAGAR,0.0,Lack of Road Infrastructure,Injured
+DURG BHILAINAGAR,0.0,Lack of Road Infrastructure,Died
+DURG BHILAINAGAR,0.0,Vehicles parked at road  Shoulders,Cases
+DURG BHILAINAGAR,0.0,Vehicles parked at road  Shoulders,Injured
+DURG BHILAINAGAR,0.0,Vehicles parked at road  Shoulders,Died
+DURG BHILAINAGAR,0.0,Causes Not Known,Cases
+DURG BHILAINAGAR,0.0,Causes Not Known,Injured
+DURG BHILAINAGAR,0.0,Causes Not Known,Died
+FARIDABAD,132.0,Careless driving/overtaking,Cases
+FARIDABAD,102.0,Careless driving/overtaking,Injured
+FARIDABAD,62.0,Careless driving/overtaking,Died
+FARIDABAD,253.0,Over speeding,Cases
+FARIDABAD,197.0,Over speeding,Injured
+FARIDABAD,115.0,Over speeding,Died
+FARIDABAD,1.0,DUI,Cases
+FARIDABAD,1.0,DUI,Injured
+FARIDABAD,0.0,DUI,Died
+FARIDABAD,6.0,Physical Fatigue of Drivers,Cases
+FARIDABAD,4.0,Physical Fatigue of Drivers,Injured
+FARIDABAD,2.0,Physical Fatigue of Drivers,Died
+FARIDABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+FARIDABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+FARIDABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+FARIDABAD,0.0,Animal Crossing,Cases
+FARIDABAD,0.0,Animal Crossing,Injured
+FARIDABAD,0.0,Animal Crossing,Died
+FARIDABAD,56.0,Weather Condition (Poor Visibility),Cases
+FARIDABAD,51.0,Weather Condition (Poor Visibility),Injured
+FARIDABAD,26.0,Weather Condition (Poor Visibility),Died
+FARIDABAD,12.0,Weather Condition (Others Causes),Cases
+FARIDABAD,9.0,Weather Condition (Others Causes),Injured
+FARIDABAD,4.0,Weather Condition (Others Causes),Died
+FARIDABAD,0.0,Lack of Road Infrastructure,Cases
+FARIDABAD,0.0,Lack of Road Infrastructure,Injured
+FARIDABAD,0.0,Lack of Road Infrastructure,Died
+FARIDABAD,0.0,Vehicles parked at road  Shoulders,Cases
+FARIDABAD,0.0,Vehicles parked at road  Shoulders,Injured
+FARIDABAD,0.0,Vehicles parked at road  Shoulders,Died
+FARIDABAD,64.0,Causes Not Known,Cases
+FARIDABAD,57.0,Causes Not Known,Injured
+FARIDABAD,21.0,Causes Not Known,Died
+GHAZIABAD,58.0,Careless driving/overtaking,Cases
+GHAZIABAD,4.0,Careless driving/overtaking,Injured
+GHAZIABAD,62.0,Careless driving/overtaking,Died
+GHAZIABAD,67.0,Over speeding,Cases
+GHAZIABAD,10.0,Over speeding,Injured
+GHAZIABAD,73.0,Over speeding,Died
+GHAZIABAD,2.0,DUI,Cases
+GHAZIABAD,0.0,DUI,Injured
+GHAZIABAD,2.0,DUI,Died
+GHAZIABAD,0.0,Physical Fatigue of Drivers,Cases
+GHAZIABAD,0.0,Physical Fatigue of Drivers,Injured
+GHAZIABAD,0.0,Physical Fatigue of Drivers,Died
+GHAZIABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+GHAZIABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+GHAZIABAD,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+GHAZIABAD,2.0,Animal Crossing,Cases
+GHAZIABAD,0.0,Animal Crossing,Injured
+GHAZIABAD,2.0,Animal Crossing,Died
+GHAZIABAD,3.0,Weather Condition (Poor Visibility),Cases
+GHAZIABAD,0.0,Weather Condition (Poor Visibility),Injured
+GHAZIABAD,3.0,Weather Condition (Poor Visibility),Died
+GHAZIABAD,4.0,Weather Condition (Others Causes),Cases
+GHAZIABAD,0.0,Weather Condition (Others Causes),Injured
+GHAZIABAD,4.0,Weather Condition (Others Causes),Died
+GHAZIABAD,0.0,Lack of Road Infrastructure,Cases
+GHAZIABAD,0.0,Lack of Road Infrastructure,Injured
+GHAZIABAD,0.0,Lack of Road Infrastructure,Died
+GHAZIABAD,0.0,Vehicles parked at road  Shoulders,Cases
+GHAZIABAD,0.0,Vehicles parked at road  Shoulders,Injured
+GHAZIABAD,0.0,Vehicles parked at road  Shoulders,Died
+GHAZIABAD,11.0,Causes Not Known,Cases
+GHAZIABAD,2.0,Causes Not Known,Injured
+GHAZIABAD,11.0,Causes Not Known,Died
+GWALIOR,22.0,Careless driving/overtaking,Cases
+GWALIOR,19.0,Careless driving/overtaking,Injured
+GWALIOR,5.0,Careless driving/overtaking,Died
+GWALIOR,835.0,Over speeding,Cases
+GWALIOR,792.0,Over speeding,Injured
+GWALIOR,86.0,Over speeding,Died
+GWALIOR,0.0,DUI,Cases
+GWALIOR,0.0,DUI,Injured
+GWALIOR,0.0,DUI,Died
+GWALIOR,0.0,Physical Fatigue of Drivers,Cases
+GWALIOR,0.0,Physical Fatigue of Drivers,Injured
+GWALIOR,0.0,Physical Fatigue of Drivers,Died
+GWALIOR,14.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+GWALIOR,7.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+GWALIOR,11.0,Defect in Mechanical Condition of Motor Vehicle,Died
+GWALIOR,0.0,Animal Crossing,Cases
+GWALIOR,0.0,Animal Crossing,Injured
+GWALIOR,0.0,Animal Crossing,Died
+GWALIOR,0.0,Weather Condition (Poor Visibility),Cases
+GWALIOR,0.0,Weather Condition (Poor Visibility),Injured
+GWALIOR,0.0,Weather Condition (Poor Visibility),Died
+GWALIOR,34.0,Weather Condition (Others Causes),Cases
+GWALIOR,33.0,Weather Condition (Others Causes),Injured
+GWALIOR,6.0,Weather Condition (Others Causes),Died
+GWALIOR,0.0,Lack of Road Infrastructure,Cases
+GWALIOR,0.0,Lack of Road Infrastructure,Injured
+GWALIOR,0.0,Lack of Road Infrastructure,Died
+GWALIOR,0.0,Vehicles parked at road  Shoulders,Cases
+GWALIOR,0.0,Vehicles parked at road  Shoulders,Injured
+GWALIOR,0.0,Vehicles parked at road  Shoulders,Died
+GWALIOR,0.0,Causes Not Known,Cases
+GWALIOR,0.0,Causes Not Known,Injured
+GWALIOR,0.0,Causes Not Known,Died
+HYDERABAD,134.0,Careless driving/overtaking,Cases
+HYDERABAD,167.0,Careless driving/overtaking,Injured
+HYDERABAD,11.0,Careless driving/overtaking,Died
+HYDERABAD,1785.0,Over speeding,Cases
+HYDERABAD,1548.0,Over speeding,Injured
+HYDERABAD,213.0,Over speeding,Died
+HYDERABAD,37.0,DUI,Cases
+HYDERABAD,44.0,DUI,Injured
+HYDERABAD,12.0,DUI,Died
+HYDERABAD,14.0,Physical Fatigue of Drivers,Cases
+HYDERABAD,18.0,Physical Fatigue of Drivers,Injured
+HYDERABAD,4.0,Physical Fatigue of Drivers,Died
+HYDERABAD,37.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+HYDERABAD,47.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+HYDERABAD,9.0,Defect in Mechanical Condition of Motor Vehicle,Died
+HYDERABAD,3.0,Animal Crossing,Cases
+HYDERABAD,4.0,Animal Crossing,Injured
+HYDERABAD,5.0,Animal Crossing,Died
+HYDERABAD,0.0,Weather Condition (Poor Visibility),Cases
+HYDERABAD,0.0,Weather Condition (Poor Visibility),Injured
+HYDERABAD,0.0,Weather Condition (Poor Visibility),Died
+HYDERABAD,0.0,Weather Condition (Others Causes),Cases
+HYDERABAD,0.0,Weather Condition (Others Causes),Injured
+HYDERABAD,0.0,Weather Condition (Others Causes),Died
+HYDERABAD,0.0,Lack of Road Infrastructure,Cases
+HYDERABAD,0.0,Lack of Road Infrastructure,Injured
+HYDERABAD,0.0,Lack of Road Infrastructure,Died
+HYDERABAD,54.0,Vehicles parked at road  Shoulders,Cases
+HYDERABAD,64.0,Vehicles parked at road  Shoulders,Injured
+HYDERABAD,0.0,Vehicles parked at road  Shoulders,Died
+HYDERABAD,0.0,Causes Not Known,Cases
+HYDERABAD,0.0,Causes Not Known,Injured
+HYDERABAD,0.0,Causes Not Known,Died
+INDORE,349.0,Careless driving/overtaking,Cases
+INDORE,263.0,Careless driving/overtaking,Injured
+INDORE,103.0,Careless driving/overtaking,Died
+INDORE,313.0,Over speeding,Cases
+INDORE,275.0,Over speeding,Injured
+INDORE,42.0,Over speeding,Died
+INDORE,2.0,DUI,Cases
+INDORE,0.0,DUI,Injured
+INDORE,0.0,DUI,Died
+INDORE,0.0,Physical Fatigue of Drivers,Cases
+INDORE,0.0,Physical Fatigue of Drivers,Injured
+INDORE,0.0,Physical Fatigue of Drivers,Died
+INDORE,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+INDORE,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+INDORE,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+INDORE,0.0,Animal Crossing,Cases
+INDORE,0.0,Animal Crossing,Injured
+INDORE,0.0,Animal Crossing,Died
+INDORE,0.0,Weather Condition (Poor Visibility),Cases
+INDORE,0.0,Weather Condition (Poor Visibility),Injured
+INDORE,0.0,Weather Condition (Poor Visibility),Died
+INDORE,0.0,Weather Condition (Others Causes),Cases
+INDORE,0.0,Weather Condition (Others Causes),Injured
+INDORE,0.0,Weather Condition (Others Causes),Died
+INDORE,0.0,Lack of Road Infrastructure,Cases
+INDORE,0.0,Lack of Road Infrastructure,Injured
+INDORE,0.0,Lack of Road Infrastructure,Died
+INDORE,0.0,Vehicles parked at road  Shoulders,Cases
+INDORE,0.0,Vehicles parked at road  Shoulders,Injured
+INDORE,0.0,Vehicles parked at road  Shoulders,Died
+INDORE,664.0,Causes Not Known,Cases
+INDORE,657.0,Causes Not Known,Injured
+INDORE,37.0,Causes Not Known,Died
+JABALPUR,450.0,Careless driving/overtaking,Cases
+JABALPUR,474.0,Careless driving/overtaking,Injured
+JABALPUR,35.0,Careless driving/overtaking,Died
+JABALPUR,1072.0,Over speeding,Cases
+JABALPUR,1085.0,Over speeding,Injured
+JABALPUR,126.0,Over speeding,Died
+JABALPUR,119.0,DUI,Cases
+JABALPUR,118.0,DUI,Injured
+JABALPUR,13.0,DUI,Died
+JABALPUR,0.0,Physical Fatigue of Drivers,Cases
+JABALPUR,0.0,Physical Fatigue of Drivers,Injured
+JABALPUR,0.0,Physical Fatigue of Drivers,Died
+JABALPUR,45.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+JABALPUR,34.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+JABALPUR,16.0,Defect in Mechanical Condition of Motor Vehicle,Died
+JABALPUR,39.0,Animal Crossing,Cases
+JABALPUR,32.0,Animal Crossing,Injured
+JABALPUR,11.0,Animal Crossing,Died
+JABALPUR,27.0,Weather Condition (Poor Visibility),Cases
+JABALPUR,21.0,Weather Condition (Poor Visibility),Injured
+JABALPUR,6.0,Weather Condition (Poor Visibility),Died
+JABALPUR,23.0,Weather Condition (Others Causes),Cases
+JABALPUR,17.0,Weather Condition (Others Causes),Injured
+JABALPUR,6.0,Weather Condition (Others Causes),Died
+JABALPUR,0.0,Lack of Road Infrastructure,Cases
+JABALPUR,0.0,Lack of Road Infrastructure,Injured
+JABALPUR,0.0,Lack of Road Infrastructure,Died
+JABALPUR,24.0,Vehicles parked at road  Shoulders,Cases
+JABALPUR,20.0,Vehicles parked at road  Shoulders,Injured
+JABALPUR,4.0,Vehicles parked at road  Shoulders,Died
+JABALPUR,0.0,Causes Not Known,Cases
+JABALPUR,0.0,Causes Not Known,Injured
+JABALPUR,0.0,Causes Not Known,Died
+JAIPUR,963.0,Careless driving/overtaking,Cases
+JAIPUR,792.0,Careless driving/overtaking,Injured
+JAIPUR,306.0,Careless driving/overtaking,Died
+JAIPUR,908.0,Over speeding,Cases
+JAIPUR,735.0,Over speeding,Injured
+JAIPUR,284.0,Over speeding,Died
+JAIPUR,36.0,DUI,Cases
+JAIPUR,28.0,DUI,Injured
+JAIPUR,6.0,DUI,Died
+JAIPUR,0.0,Physical Fatigue of Drivers,Cases
+JAIPUR,0.0,Physical Fatigue of Drivers,Injured
+JAIPUR,0.0,Physical Fatigue of Drivers,Died
+JAIPUR,1.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+JAIPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+JAIPUR,1.0,Defect in Mechanical Condition of Motor Vehicle,Died
+JAIPUR,4.0,Animal Crossing,Cases
+JAIPUR,0.0,Animal Crossing,Injured
+JAIPUR,4.0,Animal Crossing,Died
+JAIPUR,0.0,Weather Condition (Poor Visibility),Cases
+JAIPUR,0.0,Weather Condition (Poor Visibility),Injured
+JAIPUR,0.0,Weather Condition (Poor Visibility),Died
+JAIPUR,0.0,Weather Condition (Others Causes),Cases
+JAIPUR,0.0,Weather Condition (Others Causes),Injured
+JAIPUR,0.0,Weather Condition (Others Causes),Died
+JAIPUR,0.0,Lack of Road Infrastructure,Cases
+JAIPUR,0.0,Lack of Road Infrastructure,Injured
+JAIPUR,0.0,Lack of Road Infrastructure,Died
+JAIPUR,6.0,Vehicles parked at road  Shoulders,Cases
+JAIPUR,1.0,Vehicles parked at road  Shoulders,Injured
+JAIPUR,0.0,Vehicles parked at road  Shoulders,Died
+JAIPUR,2.0,Causes Not Known,Cases
+JAIPUR,0.0,Causes Not Known,Injured
+JAIPUR,0.0,Causes Not Known,Died
+JAMSHEDPUR,119.0,Careless driving/overtaking,Cases
+JAMSHEDPUR,91.0,Careless driving/overtaking,Injured
+JAMSHEDPUR,47.0,Careless driving/overtaking,Died
+JAMSHEDPUR,0.0,Over speeding,Cases
+JAMSHEDPUR,0.0,Over speeding,Injured
+JAMSHEDPUR,0.0,Over speeding,Died
+JAMSHEDPUR,0.0,DUI,Cases
+JAMSHEDPUR,0.0,DUI,Injured
+JAMSHEDPUR,0.0,DUI,Died
+JAMSHEDPUR,0.0,Physical Fatigue of Drivers,Cases
+JAMSHEDPUR,0.0,Physical Fatigue of Drivers,Injured
+JAMSHEDPUR,0.0,Physical Fatigue of Drivers,Died
+JAMSHEDPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+JAMSHEDPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+JAMSHEDPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+JAMSHEDPUR,0.0,Animal Crossing,Cases
+JAMSHEDPUR,0.0,Animal Crossing,Injured
+JAMSHEDPUR,0.0,Animal Crossing,Died
+JAMSHEDPUR,0.0,Weather Condition (Poor Visibility),Cases
+JAMSHEDPUR,0.0,Weather Condition (Poor Visibility),Injured
+JAMSHEDPUR,0.0,Weather Condition (Poor Visibility),Died
+JAMSHEDPUR,0.0,Weather Condition (Others Causes),Cases
+JAMSHEDPUR,0.0,Weather Condition (Others Causes),Injured
+JAMSHEDPUR,0.0,Weather Condition (Others Causes),Died
+JAMSHEDPUR,0.0,Lack of Road Infrastructure,Cases
+JAMSHEDPUR,0.0,Lack of Road Infrastructure,Injured
+JAMSHEDPUR,0.0,Lack of Road Infrastructure,Died
+JAMSHEDPUR,0.0,Vehicles parked at road  Shoulders,Cases
+JAMSHEDPUR,0.0,Vehicles parked at road  Shoulders,Injured
+JAMSHEDPUR,0.0,Vehicles parked at road  Shoulders,Died
+JAMSHEDPUR,0.0,Causes Not Known,Cases
+JAMSHEDPUR,0.0,Causes Not Known,Injured
+JAMSHEDPUR,0.0,Causes Not Known,Died
+JODHPUR,166.0,Careless driving/overtaking,Cases
+JODHPUR,113.0,Careless driving/overtaking,Injured
+JODHPUR,39.0,Careless driving/overtaking,Died
+JODHPUR,293.0,Over speeding,Cases
+JODHPUR,218.0,Over speeding,Injured
+JODHPUR,145.0,Over speeding,Died
+JODHPUR,3.0,DUI,Cases
+JODHPUR,0.0,DUI,Injured
+JODHPUR,2.0,DUI,Died
+JODHPUR,0.0,Physical Fatigue of Drivers,Cases
+JODHPUR,0.0,Physical Fatigue of Drivers,Injured
+JODHPUR,0.0,Physical Fatigue of Drivers,Died
+JODHPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+JODHPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+JODHPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+JODHPUR,4.0,Animal Crossing,Cases
+JODHPUR,4.0,Animal Crossing,Injured
+JODHPUR,3.0,Animal Crossing,Died
+JODHPUR,0.0,Weather Condition (Poor Visibility),Cases
+JODHPUR,0.0,Weather Condition (Poor Visibility),Injured
+JODHPUR,0.0,Weather Condition (Poor Visibility),Died
+JODHPUR,0.0,Weather Condition (Others Causes),Cases
+JODHPUR,0.0,Weather Condition (Others Causes),Injured
+JODHPUR,0.0,Weather Condition (Others Causes),Died
+JODHPUR,7.0,Lack of Road Infrastructure,Cases
+JODHPUR,5.0,Lack of Road Infrastructure,Injured
+JODHPUR,8.0,Lack of Road Infrastructure,Died
+JODHPUR,8.0,Vehicles parked at road  Shoulders,Cases
+JODHPUR,5.0,Vehicles parked at road  Shoulders,Injured
+JODHPUR,9.0,Vehicles parked at road  Shoulders,Died
+JODHPUR,0.0,Causes Not Known,Cases
+JODHPUR,0.0,Causes Not Known,Injured
+JODHPUR,0.0,Causes Not Known,Died
+KANNUR,242.0,Careless driving/overtaking,Cases
+KANNUR,285.0,Careless driving/overtaking,Injured
+KANNUR,25.0,Careless driving/overtaking,Died
+KANNUR,258.0,Over speeding,Cases
+KANNUR,287.0,Over speeding,Injured
+KANNUR,29.0,Over speeding,Died
+KANNUR,0.0,DUI,Cases
+KANNUR,0.0,DUI,Injured
+KANNUR,0.0,DUI,Died
+KANNUR,0.0,Physical Fatigue of Drivers,Cases
+KANNUR,0.0,Physical Fatigue of Drivers,Injured
+KANNUR,0.0,Physical Fatigue of Drivers,Died
+KANNUR,4.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KANNUR,1.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KANNUR,3.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KANNUR,0.0,Animal Crossing,Cases
+KANNUR,0.0,Animal Crossing,Injured
+KANNUR,0.0,Animal Crossing,Died
+KANNUR,0.0,Weather Condition (Poor Visibility),Cases
+KANNUR,0.0,Weather Condition (Poor Visibility),Injured
+KANNUR,0.0,Weather Condition (Poor Visibility),Died
+KANNUR,0.0,Weather Condition (Others Causes),Cases
+KANNUR,0.0,Weather Condition (Others Causes),Injured
+KANNUR,0.0,Weather Condition (Others Causes),Died
+KANNUR,0.0,Lack of Road Infrastructure,Cases
+KANNUR,0.0,Lack of Road Infrastructure,Injured
+KANNUR,0.0,Lack of Road Infrastructure,Died
+KANNUR,0.0,Vehicles parked at road  Shoulders,Cases
+KANNUR,0.0,Vehicles parked at road  Shoulders,Injured
+KANNUR,0.0,Vehicles parked at road  Shoulders,Died
+KANNUR,0.0,Causes Not Known,Cases
+KANNUR,0.0,Causes Not Known,Injured
+KANNUR,0.0,Causes Not Known,Died
+KANPUR,192.0,Careless driving/overtaking,Cases
+KANPUR,126.0,Careless driving/overtaking,Injured
+KANPUR,190.0,Careless driving/overtaking,Died
+KANPUR,134.0,Over speeding,Cases
+KANPUR,66.0,Over speeding,Injured
+KANPUR,131.0,Over speeding,Died
+KANPUR,0.0,DUI,Cases
+KANPUR,0.0,DUI,Injured
+KANPUR,0.0,DUI,Died
+KANPUR,0.0,Physical Fatigue of Drivers,Cases
+KANPUR,0.0,Physical Fatigue of Drivers,Injured
+KANPUR,0.0,Physical Fatigue of Drivers,Died
+KANPUR,11.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KANPUR,16.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KANPUR,17.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KANPUR,53.0,Animal Crossing,Cases
+KANPUR,33.0,Animal Crossing,Injured
+KANPUR,50.0,Animal Crossing,Died
+KANPUR,15.0,Weather Condition (Poor Visibility),Cases
+KANPUR,8.0,Weather Condition (Poor Visibility),Injured
+KANPUR,15.0,Weather Condition (Poor Visibility),Died
+KANPUR,1.0,Weather Condition (Others Causes),Cases
+KANPUR,0.0,Weather Condition (Others Causes),Injured
+KANPUR,1.0,Weather Condition (Others Causes),Died
+KANPUR,0.0,Lack of Road Infrastructure,Cases
+KANPUR,0.0,Lack of Road Infrastructure,Injured
+KANPUR,0.0,Lack of Road Infrastructure,Died
+KANPUR,5.0,Vehicles parked at road  Shoulders,Cases
+KANPUR,0.0,Vehicles parked at road  Shoulders,Injured
+KANPUR,5.0,Vehicles parked at road  Shoulders,Died
+KANPUR,5.0,Causes Not Known,Cases
+KANPUR,0.0,Causes Not Known,Injured
+KANPUR,5.0,Causes Not Known,Died
+KOCHI,539.0,Careless driving/overtaking,Cases
+KOCHI,492.0,Careless driving/overtaking,Injured
+KOCHI,45.0,Careless driving/overtaking,Died
+KOCHI,800.0,Over speeding,Cases
+KOCHI,894.0,Over speeding,Injured
+KOCHI,51.0,Over speeding,Died
+KOCHI,0.0,DUI,Cases
+KOCHI,0.0,DUI,Injured
+KOCHI,0.0,DUI,Died
+KOCHI,0.0,Physical Fatigue of Drivers,Cases
+KOCHI,0.0,Physical Fatigue of Drivers,Injured
+KOCHI,0.0,Physical Fatigue of Drivers,Died
+KOCHI,1.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KOCHI,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KOCHI,1.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KOCHI,0.0,Animal Crossing,Cases
+KOCHI,0.0,Animal Crossing,Injured
+KOCHI,0.0,Animal Crossing,Died
+KOCHI,5.0,Weather Condition (Poor Visibility),Cases
+KOCHI,5.0,Weather Condition (Poor Visibility),Injured
+KOCHI,1.0,Weather Condition (Poor Visibility),Died
+KOCHI,0.0,Weather Condition (Others Causes),Cases
+KOCHI,0.0,Weather Condition (Others Causes),Injured
+KOCHI,0.0,Weather Condition (Others Causes),Died
+KOCHI,14.0,Lack of Road Infrastructure,Cases
+KOCHI,14.0,Lack of Road Infrastructure,Injured
+KOCHI,3.0,Lack of Road Infrastructure,Died
+KOCHI,0.0,Vehicles parked at road  Shoulders,Cases
+KOCHI,0.0,Vehicles parked at road  Shoulders,Injured
+KOCHI,0.0,Vehicles parked at road  Shoulders,Died
+KOCHI,0.0,Causes Not Known,Cases
+KOCHI,0.0,Causes Not Known,Injured
+KOCHI,0.0,Causes Not Known,Died
+KOLKATA,612.0,Careless driving/overtaking,Cases
+KOLKATA,602.0,Careless driving/overtaking,Injured
+KOLKATA,7.0,Careless driving/overtaking,Died
+KOLKATA,389.0,Over speeding,Cases
+KOLKATA,375.0,Over speeding,Injured
+KOLKATA,13.0,Over speeding,Died
+KOLKATA,345.0,DUI,Cases
+KOLKATA,338.0,DUI,Injured
+KOLKATA,2.0,DUI,Died
+KOLKATA,32.0,Physical Fatigue of Drivers,Cases
+KOLKATA,27.0,Physical Fatigue of Drivers,Injured
+KOLKATA,2.0,Physical Fatigue of Drivers,Died
+KOLKATA,47.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KOLKATA,46.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KOLKATA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KOLKATA,0.0,Animal Crossing,Cases
+KOLKATA,0.0,Animal Crossing,Injured
+KOLKATA,0.0,Animal Crossing,Died
+KOLKATA,107.0,Weather Condition (Poor Visibility),Cases
+KOLKATA,0.0,Weather Condition (Poor Visibility),Injured
+KOLKATA,5.0,Weather Condition (Poor Visibility),Died
+KOLKATA,48.0,Weather Condition (Others Causes),Cases
+KOLKATA,0.0,Weather Condition (Others Causes),Injured
+KOLKATA,3.0,Weather Condition (Others Causes),Died
+KOLKATA,32.0,Lack of Road Infrastructure,Cases
+KOLKATA,0.0,Lack of Road Infrastructure,Injured
+KOLKATA,3.0,Lack of Road Infrastructure,Died
+KOLKATA,25.0,Vehicles parked at road  Shoulders,Cases
+KOLKATA,0.0,Vehicles parked at road  Shoulders,Injured
+KOLKATA,4.0,Vehicles parked at road  Shoulders,Died
+KOLKATA,22.0,Causes Not Known,Cases
+KOLKATA,6.0,Causes Not Known,Injured
+KOLKATA,17.0,Causes Not Known,Died
+KOLLAM,105.0,Careless driving/overtaking,Cases
+KOLLAM,92.0,Careless driving/overtaking,Injured
+KOLLAM,14.0,Careless driving/overtaking,Died
+KOLLAM,1124.0,Over speeding,Cases
+KOLLAM,1107.0,Over speeding,Injured
+KOLLAM,150.0,Over speeding,Died
+KOLLAM,4.0,DUI,Cases
+KOLLAM,4.0,DUI,Injured
+KOLLAM,0.0,DUI,Died
+KOLLAM,0.0,Physical Fatigue of Drivers,Cases
+KOLLAM,0.0,Physical Fatigue of Drivers,Injured
+KOLLAM,0.0,Physical Fatigue of Drivers,Died
+KOLLAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KOLLAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KOLLAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KOLLAM,0.0,Animal Crossing,Cases
+KOLLAM,0.0,Animal Crossing,Injured
+KOLLAM,0.0,Animal Crossing,Died
+KOLLAM,0.0,Weather Condition (Poor Visibility),Cases
+KOLLAM,0.0,Weather Condition (Poor Visibility),Injured
+KOLLAM,0.0,Weather Condition (Poor Visibility),Died
+KOLLAM,0.0,Weather Condition (Others Causes),Cases
+KOLLAM,0.0,Weather Condition (Others Causes),Injured
+KOLLAM,0.0,Weather Condition (Others Causes),Died
+KOLLAM,0.0,Lack of Road Infrastructure,Cases
+KOLLAM,0.0,Lack of Road Infrastructure,Injured
+KOLLAM,0.0,Lack of Road Infrastructure,Died
+KOLLAM,4.0,Vehicles parked at road  Shoulders,Cases
+KOLLAM,3.0,Vehicles parked at road  Shoulders,Injured
+KOLLAM,2.0,Vehicles parked at road  Shoulders,Died
+KOLLAM,174.0,Causes Not Known,Cases
+KOLLAM,175.0,Causes Not Known,Injured
+KOLLAM,28.0,Causes Not Known,Died
+KOTA,6.0,Careless driving/overtaking,Cases
+KOTA,9.0,Careless driving/overtaking,Injured
+KOTA,0.0,Careless driving/overtaking,Died
+KOTA,338.0,Over speeding,Cases
+KOTA,345.0,Over speeding,Injured
+KOTA,59.0,Over speeding,Died
+KOTA,1.0,DUI,Cases
+KOTA,1.0,DUI,Injured
+KOTA,0.0,DUI,Died
+KOTA,0.0,Physical Fatigue of Drivers,Cases
+KOTA,0.0,Physical Fatigue of Drivers,Injured
+KOTA,0.0,Physical Fatigue of Drivers,Died
+KOTA,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KOTA,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KOTA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KOTA,0.0,Animal Crossing,Cases
+KOTA,0.0,Animal Crossing,Injured
+KOTA,0.0,Animal Crossing,Died
+KOTA,0.0,Weather Condition (Poor Visibility),Cases
+KOTA,0.0,Weather Condition (Poor Visibility),Injured
+KOTA,0.0,Weather Condition (Poor Visibility),Died
+KOTA,0.0,Weather Condition (Others Causes),Cases
+KOTA,0.0,Weather Condition (Others Causes),Injured
+KOTA,0.0,Weather Condition (Others Causes),Died
+KOTA,0.0,Lack of Road Infrastructure,Cases
+KOTA,0.0,Lack of Road Infrastructure,Injured
+KOTA,0.0,Lack of Road Infrastructure,Died
+KOTA,0.0,Vehicles parked at road  Shoulders,Cases
+KOTA,0.0,Vehicles parked at road  Shoulders,Injured
+KOTA,0.0,Vehicles parked at road  Shoulders,Died
+KOTA,8.0,Causes Not Known,Cases
+KOTA,7.0,Causes Not Known,Injured
+KOTA,1.0,Causes Not Known,Died
+KOZHIKODE,627.0,Careless driving/overtaking,Cases
+KOZHIKODE,634.0,Careless driving/overtaking,Injured
+KOZHIKODE,63.0,Careless driving/overtaking,Died
+KOZHIKODE,333.0,Over speeding,Cases
+KOZHIKODE,337.0,Over speeding,Injured
+KOZHIKODE,21.0,Over speeding,Died
+KOZHIKODE,4.0,DUI,Cases
+KOZHIKODE,2.0,DUI,Injured
+KOZHIKODE,0.0,DUI,Died
+KOZHIKODE,0.0,Physical Fatigue of Drivers,Cases
+KOZHIKODE,0.0,Physical Fatigue of Drivers,Injured
+KOZHIKODE,0.0,Physical Fatigue of Drivers,Died
+KOZHIKODE,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+KOZHIKODE,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+KOZHIKODE,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+KOZHIKODE,0.0,Animal Crossing,Cases
+KOZHIKODE,0.0,Animal Crossing,Injured
+KOZHIKODE,0.0,Animal Crossing,Died
+KOZHIKODE,8.0,Weather Condition (Poor Visibility),Cases
+KOZHIKODE,7.0,Weather Condition (Poor Visibility),Injured
+KOZHIKODE,4.0,Weather Condition (Poor Visibility),Died
+KOZHIKODE,0.0,Weather Condition (Others Causes),Cases
+KOZHIKODE,0.0,Weather Condition (Others Causes),Injured
+KOZHIKODE,0.0,Weather Condition (Others Causes),Died
+KOZHIKODE,0.0,Lack of Road Infrastructure,Cases
+KOZHIKODE,0.0,Lack of Road Infrastructure,Injured
+KOZHIKODE,0.0,Lack of Road Infrastructure,Died
+KOZHIKODE,9.0,Vehicles parked at road  Shoulders,Cases
+KOZHIKODE,12.0,Vehicles parked at road  Shoulders,Injured
+KOZHIKODE,0.0,Vehicles parked at road  Shoulders,Died
+KOZHIKODE,19.0,Causes Not Known,Cases
+KOZHIKODE,20.0,Causes Not Known,Injured
+KOZHIKODE,3.0,Causes Not Known,Died
+LUCKNOW,354.0,Careless driving/overtaking,Cases
+LUCKNOW,280.0,Careless driving/overtaking,Injured
+LUCKNOW,141.0,Careless driving/overtaking,Died
+LUCKNOW,375.0,Over speeding,Cases
+LUCKNOW,236.0,Over speeding,Injured
+LUCKNOW,174.0,Over speeding,Died
+LUCKNOW,31.0,DUI,Cases
+LUCKNOW,13.0,DUI,Injured
+LUCKNOW,1.0,DUI,Died
+LUCKNOW,19.0,Physical Fatigue of Drivers,Cases
+LUCKNOW,11.0,Physical Fatigue of Drivers,Injured
+LUCKNOW,8.0,Physical Fatigue of Drivers,Died
+LUCKNOW,5.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+LUCKNOW,5.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+LUCKNOW,2.0,Defect in Mechanical Condition of Motor Vehicle,Died
+LUCKNOW,11.0,Animal Crossing,Cases
+LUCKNOW,10.0,Animal Crossing,Injured
+LUCKNOW,11.0,Animal Crossing,Died
+LUCKNOW,24.0,Weather Condition (Poor Visibility),Cases
+LUCKNOW,11.0,Weather Condition (Poor Visibility),Injured
+LUCKNOW,4.0,Weather Condition (Poor Visibility),Died
+LUCKNOW,6.0,Weather Condition (Others Causes),Cases
+LUCKNOW,0.0,Weather Condition (Others Causes),Injured
+LUCKNOW,0.0,Weather Condition (Others Causes),Died
+LUCKNOW,1.0,Lack of Road Infrastructure,Cases
+LUCKNOW,1.0,Lack of Road Infrastructure,Injured
+LUCKNOW,0.0,Lack of Road Infrastructure,Died
+LUCKNOW,2.0,Vehicles parked at road  Shoulders,Cases
+LUCKNOW,2.0,Vehicles parked at road  Shoulders,Injured
+LUCKNOW,0.0,Vehicles parked at road  Shoulders,Died
+LUCKNOW,25.0,Causes Not Known,Cases
+LUCKNOW,13.0,Causes Not Known,Injured
+LUCKNOW,2.0,Causes Not Known,Died
+LUDHIANA,105.0,Careless driving/overtaking,Cases
+LUDHIANA,55.0,Careless driving/overtaking,Injured
+LUDHIANA,71.0,Careless driving/overtaking,Died
+LUDHIANA,221.0,Over speeding,Cases
+LUDHIANA,120.0,Over speeding,Injured
+LUDHIANA,150.0,Over speeding,Died
+LUDHIANA,3.0,DUI,Cases
+LUDHIANA,1.0,DUI,Injured
+LUDHIANA,2.0,DUI,Died
+LUDHIANA,1.0,Physical Fatigue of Drivers,Cases
+LUDHIANA,0.0,Physical Fatigue of Drivers,Injured
+LUDHIANA,1.0,Physical Fatigue of Drivers,Died
+LUDHIANA,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+LUDHIANA,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+LUDHIANA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+LUDHIANA,13.0,Animal Crossing,Cases
+LUDHIANA,4.0,Animal Crossing,Injured
+LUDHIANA,14.0,Animal Crossing,Died
+LUDHIANA,5.0,Weather Condition (Poor Visibility),Cases
+LUDHIANA,1.0,Weather Condition (Poor Visibility),Injured
+LUDHIANA,4.0,Weather Condition (Poor Visibility),Died
+LUDHIANA,1.0,Weather Condition (Others Causes),Cases
+LUDHIANA,0.0,Weather Condition (Others Causes),Injured
+LUDHIANA,1.0,Weather Condition (Others Causes),Died
+LUDHIANA,3.0,Lack of Road Infrastructure,Cases
+LUDHIANA,0.0,Lack of Road Infrastructure,Injured
+LUDHIANA,3.0,Lack of Road Infrastructure,Died
+LUDHIANA,3.0,Vehicles parked at road  Shoulders,Cases
+LUDHIANA,0.0,Vehicles parked at road  Shoulders,Injured
+LUDHIANA,3.0,Vehicles parked at road  Shoulders,Died
+LUDHIANA,5.0,Causes Not Known,Cases
+LUDHIANA,0.0,Causes Not Known,Injured
+LUDHIANA,5.0,Causes Not Known,Died
+MADURAI,19.0,Careless driving/overtaking,Cases
+MADURAI,25.0,Careless driving/overtaking,Injured
+MADURAI,3.0,Careless driving/overtaking,Died
+MADURAI,497.0,Over speeding,Cases
+MADURAI,453.0,Over speeding,Injured
+MADURAI,77.0,Over speeding,Died
+MADURAI,14.0,DUI,Cases
+MADURAI,21.0,DUI,Injured
+MADURAI,1.0,DUI,Died
+MADURAI,0.0,Physical Fatigue of Drivers,Cases
+MADURAI,0.0,Physical Fatigue of Drivers,Injured
+MADURAI,0.0,Physical Fatigue of Drivers,Died
+MADURAI,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+MADURAI,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+MADURAI,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+MADURAI,0.0,Animal Crossing,Cases
+MADURAI,0.0,Animal Crossing,Injured
+MADURAI,0.0,Animal Crossing,Died
+MADURAI,0.0,Weather Condition (Poor Visibility),Cases
+MADURAI,0.0,Weather Condition (Poor Visibility),Injured
+MADURAI,0.0,Weather Condition (Poor Visibility),Died
+MADURAI,0.0,Weather Condition (Others Causes),Cases
+MADURAI,0.0,Weather Condition (Others Causes),Injured
+MADURAI,0.0,Weather Condition (Others Causes),Died
+MADURAI,0.0,Lack of Road Infrastructure,Cases
+MADURAI,0.0,Lack of Road Infrastructure,Injured
+MADURAI,0.0,Lack of Road Infrastructure,Died
+MADURAI,0.0,Vehicles parked at road  Shoulders,Cases
+MADURAI,0.0,Vehicles parked at road  Shoulders,Injured
+MADURAI,0.0,Vehicles parked at road  Shoulders,Died
+MADURAI,0.0,Causes Not Known,Cases
+MADURAI,0.0,Causes Not Known,Injured
+MADURAI,0.0,Causes Not Known,Died
+MALAPPURAM,214.0,Careless driving/overtaking,Cases
+MALAPPURAM,217.0,Careless driving/overtaking,Injured
+MALAPPURAM,29.0,Careless driving/overtaking,Died
+MALAPPURAM,379.0,Over speeding,Cases
+MALAPPURAM,384.0,Over speeding,Injured
+MALAPPURAM,64.0,Over speeding,Died
+MALAPPURAM,6.0,DUI,Cases
+MALAPPURAM,6.0,DUI,Injured
+MALAPPURAM,0.0,DUI,Died
+MALAPPURAM,5.0,Physical Fatigue of Drivers,Cases
+MALAPPURAM,5.0,Physical Fatigue of Drivers,Injured
+MALAPPURAM,0.0,Physical Fatigue of Drivers,Died
+MALAPPURAM,4.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+MALAPPURAM,3.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+MALAPPURAM,1.0,Defect in Mechanical Condition of Motor Vehicle,Died
+MALAPPURAM,1.0,Animal Crossing,Cases
+MALAPPURAM,1.0,Animal Crossing,Injured
+MALAPPURAM,0.0,Animal Crossing,Died
+MALAPPURAM,0.0,Weather Condition (Poor Visibility),Cases
+MALAPPURAM,0.0,Weather Condition (Poor Visibility),Injured
+MALAPPURAM,0.0,Weather Condition (Poor Visibility),Died
+MALAPPURAM,0.0,Weather Condition (Others Causes),Cases
+MALAPPURAM,0.0,Weather Condition (Others Causes),Injured
+MALAPPURAM,0.0,Weather Condition (Others Causes),Died
+MALAPPURAM,0.0,Lack of Road Infrastructure,Cases
+MALAPPURAM,0.0,Lack of Road Infrastructure,Injured
+MALAPPURAM,0.0,Lack of Road Infrastructure,Died
+MALAPPURAM,3.0,Vehicles parked at road  Shoulders,Cases
+MALAPPURAM,5.0,Vehicles parked at road  Shoulders,Injured
+MALAPPURAM,0.0,Vehicles parked at road  Shoulders,Died
+MALAPPURAM,0.0,Causes Not Known,Cases
+MALAPPURAM,0.0,Causes Not Known,Injured
+MALAPPURAM,0.0,Causes Not Known,Died
+MEERUT,172.0,Careless driving/overtaking,Cases
+MEERUT,114.0,Careless driving/overtaking,Injured
+MEERUT,76.0,Careless driving/overtaking,Died
+MEERUT,155.0,Over speeding,Cases
+MEERUT,106.0,Over speeding,Injured
+MEERUT,53.0,Over speeding,Died
+MEERUT,29.0,DUI,Cases
+MEERUT,20.0,DUI,Injured
+MEERUT,14.0,DUI,Died
+MEERUT,0.0,Physical Fatigue of Drivers,Cases
+MEERUT,0.0,Physical Fatigue of Drivers,Injured
+MEERUT,0.0,Physical Fatigue of Drivers,Died
+MEERUT,5.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+MEERUT,4.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+MEERUT,2.0,Defect in Mechanical Condition of Motor Vehicle,Died
+MEERUT,2.0,Animal Crossing,Cases
+MEERUT,1.0,Animal Crossing,Injured
+MEERUT,1.0,Animal Crossing,Died
+MEERUT,14.0,Weather Condition (Poor Visibility),Cases
+MEERUT,10.0,Weather Condition (Poor Visibility),Injured
+MEERUT,6.0,Weather Condition (Poor Visibility),Died
+MEERUT,0.0,Weather Condition (Others Causes),Cases
+MEERUT,0.0,Weather Condition (Others Causes),Injured
+MEERUT,0.0,Weather Condition (Others Causes),Died
+MEERUT,0.0,Lack of Road Infrastructure,Cases
+MEERUT,0.0,Lack of Road Infrastructure,Injured
+MEERUT,0.0,Lack of Road Infrastructure,Died
+MEERUT,0.0,Vehicles parked at road  Shoulders,Cases
+MEERUT,0.0,Vehicles parked at road  Shoulders,Injured
+MEERUT,0.0,Vehicles parked at road  Shoulders,Died
+MEERUT,0.0,Causes Not Known,Cases
+MEERUT,0.0,Causes Not Known,Injured
+MEERUT,0.0,Causes Not Known,Died
+MUMBAI,259.0,Careless driving/overtaking,Cases
+MUMBAI,42.0,Careless driving/overtaking,Injured
+MUMBAI,259.0,Careless driving/overtaking,Died
+MUMBAI,116.0,Over speeding,Cases
+MUMBAI,13.0,Over speeding,Injured
+MUMBAI,116.0,Over speeding,Died
+MUMBAI,2.0,DUI,Cases
+MUMBAI,4.0,DUI,Injured
+MUMBAI,2.0,DUI,Died
+MUMBAI,3.0,Physical Fatigue of Drivers,Cases
+MUMBAI,0.0,Physical Fatigue of Drivers,Injured
+MUMBAI,3.0,Physical Fatigue of Drivers,Died
+MUMBAI,3.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+MUMBAI,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+MUMBAI,3.0,Defect in Mechanical Condition of Motor Vehicle,Died
+MUMBAI,1.0,Animal Crossing,Cases
+MUMBAI,0.0,Animal Crossing,Injured
+MUMBAI,1.0,Animal Crossing,Died
+MUMBAI,0.0,Weather Condition (Poor Visibility),Cases
+MUMBAI,0.0,Weather Condition (Poor Visibility),Injured
+MUMBAI,0.0,Weather Condition (Poor Visibility),Died
+MUMBAI,0.0,Weather Condition (Others Causes),Cases
+MUMBAI,0.0,Weather Condition (Others Causes),Injured
+MUMBAI,0.0,Weather Condition (Others Causes),Died
+MUMBAI,0.0,Lack of Road Infrastructure,Cases
+MUMBAI,0.0,Lack of Road Infrastructure,Injured
+MUMBAI,0.0,Lack of Road Infrastructure,Died
+MUMBAI,2.0,Vehicles parked at road  Shoulders,Cases
+MUMBAI,0.0,Vehicles parked at road  Shoulders,Injured
+MUMBAI,2.0,Vehicles parked at road  Shoulders,Died
+MUMBAI,1.0,Causes Not Known,Cases
+MUMBAI,0.0,Causes Not Known,Injured
+MUMBAI,1.0,Causes Not Known,Died
+NAGPUR,474.0,Careless driving/overtaking,Cases
+NAGPUR,405.0,Careless driving/overtaking,Injured
+NAGPUR,110.0,Careless driving/overtaking,Died
+NAGPUR,397.0,Over speeding,Cases
+NAGPUR,328.0,Over speeding,Injured
+NAGPUR,107.0,Over speeding,Died
+NAGPUR,19.0,DUI,Cases
+NAGPUR,15.0,DUI,Injured
+NAGPUR,7.0,DUI,Died
+NAGPUR,0.0,Physical Fatigue of Drivers,Cases
+NAGPUR,0.0,Physical Fatigue of Drivers,Injured
+NAGPUR,0.0,Physical Fatigue of Drivers,Died
+NAGPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+NAGPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+NAGPUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+NAGPUR,0.0,Animal Crossing,Cases
+NAGPUR,0.0,Animal Crossing,Injured
+NAGPUR,0.0,Animal Crossing,Died
+NAGPUR,0.0,Weather Condition (Poor Visibility),Cases
+NAGPUR,0.0,Weather Condition (Poor Visibility),Injured
+NAGPUR,0.0,Weather Condition (Poor Visibility),Died
+NAGPUR,0.0,Weather Condition (Others Causes),Cases
+NAGPUR,0.0,Weather Condition (Others Causes),Injured
+NAGPUR,0.0,Weather Condition (Others Causes),Died
+NAGPUR,0.0,Lack of Road Infrastructure,Cases
+NAGPUR,0.0,Lack of Road Infrastructure,Injured
+NAGPUR,0.0,Lack of Road Infrastructure,Died
+NAGPUR,0.0,Vehicles parked at road  Shoulders,Cases
+NAGPUR,0.0,Vehicles parked at road  Shoulders,Injured
+NAGPUR,0.0,Vehicles parked at road  Shoulders,Died
+NAGPUR,0.0,Causes Not Known,Cases
+NAGPUR,0.0,Causes Not Known,Injured
+NAGPUR,0.0,Causes Not Known,Died
+NASIK,41.0,Careless driving/overtaking,Cases
+NASIK,0.0,Careless driving/overtaking,Injured
+NASIK,45.0,Careless driving/overtaking,Died
+NASIK,57.0,Over speeding,Cases
+NASIK,0.0,Over speeding,Injured
+NASIK,59.0,Over speeding,Died
+NASIK,0.0,DUI,Cases
+NASIK,0.0,DUI,Injured
+NASIK,0.0,DUI,Died
+NASIK,0.0,Physical Fatigue of Drivers,Cases
+NASIK,0.0,Physical Fatigue of Drivers,Injured
+NASIK,0.0,Physical Fatigue of Drivers,Died
+NASIK,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+NASIK,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+NASIK,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+NASIK,0.0,Animal Crossing,Cases
+NASIK,0.0,Animal Crossing,Injured
+NASIK,0.0,Animal Crossing,Died
+NASIK,0.0,Weather Condition (Poor Visibility),Cases
+NASIK,0.0,Weather Condition (Poor Visibility),Injured
+NASIK,0.0,Weather Condition (Poor Visibility),Died
+NASIK,0.0,Weather Condition (Others Causes),Cases
+NASIK,0.0,Weather Condition (Others Causes),Injured
+NASIK,0.0,Weather Condition (Others Causes),Died
+NASIK,0.0,Lack of Road Infrastructure,Cases
+NASIK,0.0,Lack of Road Infrastructure,Injured
+NASIK,0.0,Lack of Road Infrastructure,Died
+NASIK,0.0,Vehicles parked at road  Shoulders,Cases
+NASIK,0.0,Vehicles parked at road  Shoulders,Injured
+NASIK,0.0,Vehicles parked at road  Shoulders,Died
+NASIK,0.0,Causes Not Known,Cases
+NASIK,0.0,Causes Not Known,Injured
+NASIK,0.0,Causes Not Known,Died
+PATNA,101.0,Careless driving/overtaking,Cases
+PATNA,24.0,Careless driving/overtaking,Injured
+PATNA,86.0,Careless driving/overtaking,Died
+PATNA,157.0,Over speeding,Cases
+PATNA,118.0,Over speeding,Injured
+PATNA,40.0,Over speeding,Died
+PATNA,42.0,DUI,Cases
+PATNA,78.0,DUI,Injured
+PATNA,4.0,DUI,Died
+PATNA,0.0,Physical Fatigue of Drivers,Cases
+PATNA,0.0,Physical Fatigue of Drivers,Injured
+PATNA,0.0,Physical Fatigue of Drivers,Died
+PATNA,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+PATNA,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+PATNA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+PATNA,0.0,Animal Crossing,Cases
+PATNA,0.0,Animal Crossing,Injured
+PATNA,0.0,Animal Crossing,Died
+PATNA,73.0,Weather Condition (Poor Visibility),Cases
+PATNA,23.0,Weather Condition (Poor Visibility),Injured
+PATNA,51.0,Weather Condition (Poor Visibility),Died
+PATNA,0.0,Weather Condition (Others Causes),Cases
+PATNA,0.0,Weather Condition (Others Causes),Injured
+PATNA,0.0,Weather Condition (Others Causes),Died
+PATNA,0.0,Lack of Road Infrastructure,Cases
+PATNA,0.0,Lack of Road Infrastructure,Injured
+PATNA,0.0,Lack of Road Infrastructure,Died
+PATNA,0.0,Vehicles parked at road  Shoulders,Cases
+PATNA,0.0,Vehicles parked at road  Shoulders,Injured
+PATNA,0.0,Vehicles parked at road  Shoulders,Died
+PATNA,0.0,Causes Not Known,Cases
+PATNA,0.0,Causes Not Known,Injured
+PATNA,0.0,Causes Not Known,Died
+PUNE,52.0,Careless driving/overtaking,Cases
+PUNE,13.0,Careless driving/overtaking,Injured
+PUNE,51.0,Careless driving/overtaking,Died
+PUNE,75.0,Over speeding,Cases
+PUNE,11.0,Over speeding,Injured
+PUNE,65.0,Over speeding,Died
+PUNE,6.0,DUI,Cases
+PUNE,0.0,DUI,Injured
+PUNE,6.0,DUI,Died
+PUNE,0.0,Physical Fatigue of Drivers,Cases
+PUNE,0.0,Physical Fatigue of Drivers,Injured
+PUNE,0.0,Physical Fatigue of Drivers,Died
+PUNE,5.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+PUNE,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+PUNE,5.0,Defect in Mechanical Condition of Motor Vehicle,Died
+PUNE,1.0,Animal Crossing,Cases
+PUNE,0.0,Animal Crossing,Injured
+PUNE,1.0,Animal Crossing,Died
+PUNE,0.0,Weather Condition (Poor Visibility),Cases
+PUNE,0.0,Weather Condition (Poor Visibility),Injured
+PUNE,0.0,Weather Condition (Poor Visibility),Died
+PUNE,3.0,Weather Condition (Others Causes),Cases
+PUNE,0.0,Weather Condition (Others Causes),Injured
+PUNE,3.0,Weather Condition (Others Causes),Died
+PUNE,4.0,Lack of Road Infrastructure,Cases
+PUNE,0.0,Lack of Road Infrastructure,Injured
+PUNE,4.0,Lack of Road Infrastructure,Died
+PUNE,0.0,Vehicles parked at road  Shoulders,Cases
+PUNE,0.0,Vehicles parked at road  Shoulders,Injured
+PUNE,0.0,Vehicles parked at road  Shoulders,Died
+PUNE,3.0,Causes Not Known,Cases
+PUNE,0.0,Causes Not Known,Injured
+PUNE,2.0,Causes Not Known,Died
+RAIPUR,24.0,Careless driving/overtaking,Cases
+RAIPUR,14.0,Careless driving/overtaking,Injured
+RAIPUR,8.0,Careless driving/overtaking,Died
+RAIPUR,690.0,Over speeding,Cases
+RAIPUR,410.0,Over speeding,Injured
+RAIPUR,107.0,Over speeding,Died
+RAIPUR,4.0,DUI,Cases
+RAIPUR,3.0,DUI,Injured
+RAIPUR,0.0,DUI,Died
+RAIPUR,12.0,Physical Fatigue of Drivers,Cases
+RAIPUR,5.0,Physical Fatigue of Drivers,Injured
+RAIPUR,1.0,Physical Fatigue of Drivers,Died
+RAIPUR,31.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+RAIPUR,24.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+RAIPUR,2.0,Defect in Mechanical Condition of Motor Vehicle,Died
+RAIPUR,18.0,Animal Crossing,Cases
+RAIPUR,8.0,Animal Crossing,Injured
+RAIPUR,2.0,Animal Crossing,Died
+RAIPUR,0.0,Weather Condition (Poor Visibility),Cases
+RAIPUR,0.0,Weather Condition (Poor Visibility),Injured
+RAIPUR,0.0,Weather Condition (Poor Visibility),Died
+RAIPUR,0.0,Weather Condition (Others Causes),Cases
+RAIPUR,0.0,Weather Condition (Others Causes),Injured
+RAIPUR,0.0,Weather Condition (Others Causes),Died
+RAIPUR,17.0,Lack of Road Infrastructure,Cases
+RAIPUR,13.0,Lack of Road Infrastructure,Injured
+RAIPUR,1.0,Lack of Road Infrastructure,Died
+RAIPUR,24.0,Vehicles parked at road  Shoulders,Cases
+RAIPUR,18.0,Vehicles parked at road  Shoulders,Injured
+RAIPUR,4.0,Vehicles parked at road  Shoulders,Died
+RAIPUR,87.0,Causes Not Known,Cases
+RAIPUR,34.0,Causes Not Known,Injured
+RAIPUR,34.0,Causes Not Known,Died
+RAJKOT,0.0,Careless driving/overtaking,Cases
+RAJKOT,0.0,Careless driving/overtaking,Injured
+RAJKOT,0.0,Careless driving/overtaking,Died
+RAJKOT,432.0,Over speeding,Cases
+RAJKOT,324.0,Over speeding,Injured
+RAJKOT,138.0,Over speeding,Died
+RAJKOT,0.0,DUI,Cases
+RAJKOT,0.0,DUI,Injured
+RAJKOT,0.0,DUI,Died
+RAJKOT,0.0,Physical Fatigue of Drivers,Cases
+RAJKOT,0.0,Physical Fatigue of Drivers,Injured
+RAJKOT,0.0,Physical Fatigue of Drivers,Died
+RAJKOT,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+RAJKOT,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+RAJKOT,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+RAJKOT,0.0,Animal Crossing,Cases
+RAJKOT,0.0,Animal Crossing,Injured
+RAJKOT,0.0,Animal Crossing,Died
+RAJKOT,0.0,Weather Condition (Poor Visibility),Cases
+RAJKOT,0.0,Weather Condition (Poor Visibility),Injured
+RAJKOT,0.0,Weather Condition (Poor Visibility),Died
+RAJKOT,0.0,Weather Condition (Others Causes),Cases
+RAJKOT,0.0,Weather Condition (Others Causes),Injured
+RAJKOT,0.0,Weather Condition (Others Causes),Died
+RAJKOT,0.0,Lack of Road Infrastructure,Cases
+RAJKOT,0.0,Lack of Road Infrastructure,Injured
+RAJKOT,0.0,Lack of Road Infrastructure,Died
+RAJKOT,0.0,Vehicles parked at road  Shoulders,Cases
+RAJKOT,0.0,Vehicles parked at road  Shoulders,Injured
+RAJKOT,0.0,Vehicles parked at road  Shoulders,Died
+RAJKOT,0.0,Causes Not Known,Cases
+RAJKOT,0.0,Causes Not Known,Injured
+RAJKOT,0.0,Causes Not Known,Died
+RANCHI,0.0,Careless driving/overtaking,Cases
+RANCHI,0.0,Careless driving/overtaking,Injured
+RANCHI,0.0,Careless driving/overtaking,Died
+RANCHI,154.0,Over speeding,Cases
+RANCHI,101.0,Over speeding,Injured
+RANCHI,98.0,Over speeding,Died
+RANCHI,44.0,DUI,Cases
+RANCHI,25.0,DUI,Injured
+RANCHI,44.0,DUI,Died
+RANCHI,49.0,Physical Fatigue of Drivers,Cases
+RANCHI,18.0,Physical Fatigue of Drivers,Injured
+RANCHI,22.0,Physical Fatigue of Drivers,Died
+RANCHI,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+RANCHI,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+RANCHI,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+RANCHI,0.0,Animal Crossing,Cases
+RANCHI,0.0,Animal Crossing,Injured
+RANCHI,0.0,Animal Crossing,Died
+RANCHI,0.0,Weather Condition (Poor Visibility),Cases
+RANCHI,0.0,Weather Condition (Poor Visibility),Injured
+RANCHI,0.0,Weather Condition (Poor Visibility),Died
+RANCHI,0.0,Weather Condition (Others Causes),Cases
+RANCHI,0.0,Weather Condition (Others Causes),Injured
+RANCHI,0.0,Weather Condition (Others Causes),Died
+RANCHI,0.0,Lack of Road Infrastructure,Cases
+RANCHI,0.0,Lack of Road Infrastructure,Injured
+RANCHI,0.0,Lack of Road Infrastructure,Died
+RANCHI,0.0,Vehicles parked at road  Shoulders,Cases
+RANCHI,0.0,Vehicles parked at road  Shoulders,Injured
+RANCHI,0.0,Vehicles parked at road  Shoulders,Died
+RANCHI,0.0,Causes Not Known,Cases
+RANCHI,0.0,Causes Not Known,Injured
+RANCHI,0.0,Causes Not Known,Died
+SRINAGAR,0.0,Careless driving/overtaking,Cases
+SRINAGAR,0.0,Careless driving/overtaking,Injured
+SRINAGAR,0.0,Careless driving/overtaking,Died
+SRINAGAR,276.0,Over speeding,Cases
+SRINAGAR,275.0,Over speeding,Injured
+SRINAGAR,45.0,Over speeding,Died
+SRINAGAR,0.0,DUI,Cases
+SRINAGAR,0.0,DUI,Injured
+SRINAGAR,0.0,DUI,Died
+SRINAGAR,0.0,Physical Fatigue of Drivers,Cases
+SRINAGAR,0.0,Physical Fatigue of Drivers,Injured
+SRINAGAR,0.0,Physical Fatigue of Drivers,Died
+SRINAGAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+SRINAGAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+SRINAGAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+SRINAGAR,0.0,Animal Crossing,Cases
+SRINAGAR,0.0,Animal Crossing,Injured
+SRINAGAR,0.0,Animal Crossing,Died
+SRINAGAR,0.0,Weather Condition (Poor Visibility),Cases
+SRINAGAR,0.0,Weather Condition (Poor Visibility),Injured
+SRINAGAR,0.0,Weather Condition (Poor Visibility),Died
+SRINAGAR,0.0,Weather Condition (Others Causes),Cases
+SRINAGAR,0.0,Weather Condition (Others Causes),Injured
+SRINAGAR,0.0,Weather Condition (Others Causes),Died
+SRINAGAR,0.0,Lack of Road Infrastructure,Cases
+SRINAGAR,0.0,Lack of Road Infrastructure,Injured
+SRINAGAR,0.0,Lack of Road Infrastructure,Died
+SRINAGAR,0.0,Vehicles parked at road  Shoulders,Cases
+SRINAGAR,0.0,Vehicles parked at road  Shoulders,Injured
+SRINAGAR,0.0,Vehicles parked at road  Shoulders,Died
+SRINAGAR,0.0,Causes Not Known,Cases
+SRINAGAR,0.0,Causes Not Known,Injured
+SRINAGAR,0.0,Causes Not Known,Died
+SURAT,0.0,Careless driving/overtaking,Cases
+SURAT,0.0,Careless driving/overtaking,Injured
+SURAT,0.0,Careless driving/overtaking,Died
+SURAT,567.0,Over speeding,Cases
+SURAT,415.0,Over speeding,Injured
+SURAT,190.0,Over speeding,Died
+SURAT,4.0,DUI,Cases
+SURAT,4.0,DUI,Injured
+SURAT,0.0,DUI,Died
+SURAT,0.0,Physical Fatigue of Drivers,Cases
+SURAT,0.0,Physical Fatigue of Drivers,Injured
+SURAT,0.0,Physical Fatigue of Drivers,Died
+SURAT,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+SURAT,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+SURAT,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+SURAT,0.0,Animal Crossing,Cases
+SURAT,0.0,Animal Crossing,Injured
+SURAT,0.0,Animal Crossing,Died
+SURAT,0.0,Weather Condition (Poor Visibility),Cases
+SURAT,0.0,Weather Condition (Poor Visibility),Injured
+SURAT,0.0,Weather Condition (Poor Visibility),Died
+SURAT,0.0,Weather Condition (Others Causes),Cases
+SURAT,0.0,Weather Condition (Others Causes),Injured
+SURAT,0.0,Weather Condition (Others Causes),Died
+SURAT,0.0,Lack of Road Infrastructure,Cases
+SURAT,0.0,Lack of Road Infrastructure,Injured
+SURAT,0.0,Lack of Road Infrastructure,Died
+SURAT,0.0,Vehicles parked at road  Shoulders,Cases
+SURAT,0.0,Vehicles parked at road  Shoulders,Injured
+SURAT,0.0,Vehicles parked at road  Shoulders,Died
+SURAT,0.0,Causes Not Known,Cases
+SURAT,0.0,Causes Not Known,Injured
+SURAT,0.0,Causes Not Known,Died
+THIRUVANANTHAPURAM,512.0,Careless driving/overtaking,Cases
+THIRUVANANTHAPURAM,467.0,Careless driving/overtaking,Injured
+THIRUVANANTHAPURAM,29.0,Careless driving/overtaking,Died
+THIRUVANANTHAPURAM,609.0,Over speeding,Cases
+THIRUVANANTHAPURAM,681.0,Over speeding,Injured
+THIRUVANANTHAPURAM,71.0,Over speeding,Died
+THIRUVANANTHAPURAM,9.0,DUI,Cases
+THIRUVANANTHAPURAM,6.0,DUI,Injured
+THIRUVANANTHAPURAM,0.0,DUI,Died
+THIRUVANANTHAPURAM,3.0,Physical Fatigue of Drivers,Cases
+THIRUVANANTHAPURAM,1.0,Physical Fatigue of Drivers,Injured
+THIRUVANANTHAPURAM,2.0,Physical Fatigue of Drivers,Died
+THIRUVANANTHAPURAM,2.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+THIRUVANANTHAPURAM,1.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+THIRUVANANTHAPURAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+THIRUVANANTHAPURAM,20.0,Animal Crossing,Cases
+THIRUVANANTHAPURAM,29.0,Animal Crossing,Injured
+THIRUVANANTHAPURAM,5.0,Animal Crossing,Died
+THIRUVANANTHAPURAM,2.0,Weather Condition (Poor Visibility),Cases
+THIRUVANANTHAPURAM,2.0,Weather Condition (Poor Visibility),Injured
+THIRUVANANTHAPURAM,0.0,Weather Condition (Poor Visibility),Died
+THIRUVANANTHAPURAM,1.0,Weather Condition (Others Causes),Cases
+THIRUVANANTHAPURAM,1.0,Weather Condition (Others Causes),Injured
+THIRUVANANTHAPURAM,1.0,Weather Condition (Others Causes),Died
+THIRUVANANTHAPURAM,0.0,Lack of Road Infrastructure,Cases
+THIRUVANANTHAPURAM,0.0,Lack of Road Infrastructure,Injured
+THIRUVANANTHAPURAM,0.0,Lack of Road Infrastructure,Died
+THIRUVANANTHAPURAM,32.0,Vehicles parked at road  Shoulders,Cases
+THIRUVANANTHAPURAM,29.0,Vehicles parked at road  Shoulders,Injured
+THIRUVANANTHAPURAM,0.0,Vehicles parked at road  Shoulders,Died
+THIRUVANANTHAPURAM,24.0,Causes Not Known,Cases
+THIRUVANANTHAPURAM,45.0,Causes Not Known,Injured
+THIRUVANANTHAPURAM,0.0,Causes Not Known,Died
+THRISSUR,13.0,Careless driving/overtaking,Cases
+THRISSUR,9.0,Careless driving/overtaking,Injured
+THRISSUR,6.0,Careless driving/overtaking,Died
+THRISSUR,1448.0,Over speeding,Cases
+THRISSUR,1621.0,Over speeding,Injured
+THRISSUR,126.0,Over speeding,Died
+THRISSUR,3.0,DUI,Cases
+THRISSUR,2.0,DUI,Injured
+THRISSUR,2.0,DUI,Died
+THRISSUR,0.0,Physical Fatigue of Drivers,Cases
+THRISSUR,0.0,Physical Fatigue of Drivers,Injured
+THRISSUR,0.0,Physical Fatigue of Drivers,Died
+THRISSUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+THRISSUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+THRISSUR,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+THRISSUR,0.0,Animal Crossing,Cases
+THRISSUR,0.0,Animal Crossing,Injured
+THRISSUR,0.0,Animal Crossing,Died
+THRISSUR,0.0,Weather Condition (Poor Visibility),Cases
+THRISSUR,0.0,Weather Condition (Poor Visibility),Injured
+THRISSUR,0.0,Weather Condition (Poor Visibility),Died
+THRISSUR,0.0,Weather Condition (Others Causes),Cases
+THRISSUR,0.0,Weather Condition (Others Causes),Injured
+THRISSUR,0.0,Weather Condition (Others Causes),Died
+THRISSUR,0.0,Lack of Road Infrastructure,Cases
+THRISSUR,0.0,Lack of Road Infrastructure,Injured
+THRISSUR,0.0,Lack of Road Infrastructure,Died
+THRISSUR,0.0,Vehicles parked at road  Shoulders,Cases
+THRISSUR,0.0,Vehicles parked at road  Shoulders,Injured
+THRISSUR,0.0,Vehicles parked at road  Shoulders,Died
+THRISSUR,0.0,Causes Not Known,Cases
+THRISSUR,0.0,Causes Not Known,Injured
+THRISSUR,0.0,Causes Not Known,Died
+TIRUCHIRAPPALLI,12.0,Careless driving/overtaking,Cases
+TIRUCHIRAPPALLI,18.0,Careless driving/overtaking,Injured
+TIRUCHIRAPPALLI,0.0,Careless driving/overtaking,Died
+TIRUCHIRAPPALLI,385.0,Over speeding,Cases
+TIRUCHIRAPPALLI,383.0,Over speeding,Injured
+TIRUCHIRAPPALLI,86.0,Over speeding,Died
+TIRUCHIRAPPALLI,1.0,DUI,Cases
+TIRUCHIRAPPALLI,0.0,DUI,Injured
+TIRUCHIRAPPALLI,1.0,DUI,Died
+TIRUCHIRAPPALLI,0.0,Physical Fatigue of Drivers,Cases
+TIRUCHIRAPPALLI,0.0,Physical Fatigue of Drivers,Injured
+TIRUCHIRAPPALLI,0.0,Physical Fatigue of Drivers,Died
+TIRUCHIRAPPALLI,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+TIRUCHIRAPPALLI,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+TIRUCHIRAPPALLI,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+TIRUCHIRAPPALLI,0.0,Animal Crossing,Cases
+TIRUCHIRAPPALLI,0.0,Animal Crossing,Injured
+TIRUCHIRAPPALLI,0.0,Animal Crossing,Died
+TIRUCHIRAPPALLI,0.0,Weather Condition (Poor Visibility),Cases
+TIRUCHIRAPPALLI,0.0,Weather Condition (Poor Visibility),Injured
+TIRUCHIRAPPALLI,0.0,Weather Condition (Poor Visibility),Died
+TIRUCHIRAPPALLI,0.0,Weather Condition (Others Causes),Cases
+TIRUCHIRAPPALLI,0.0,Weather Condition (Others Causes),Injured
+TIRUCHIRAPPALLI,0.0,Weather Condition (Others Causes),Died
+TIRUCHIRAPPALLI,0.0,Lack of Road Infrastructure,Cases
+TIRUCHIRAPPALLI,0.0,Lack of Road Infrastructure,Injured
+TIRUCHIRAPPALLI,0.0,Lack of Road Infrastructure,Died
+TIRUCHIRAPPALLI,0.0,Vehicles parked at road  Shoulders,Cases
+TIRUCHIRAPPALLI,0.0,Vehicles parked at road  Shoulders,Injured
+TIRUCHIRAPPALLI,0.0,Vehicles parked at road  Shoulders,Died
+TIRUCHIRAPPALLI,0.0,Causes Not Known,Cases
+TIRUCHIRAPPALLI,0.0,Causes Not Known,Injured
+TIRUCHIRAPPALLI,0.0,Causes Not Known,Died
+VADODARA,21.0,Careless driving/overtaking,Cases
+VADODARA,15.0,Careless driving/overtaking,Injured
+VADODARA,3.0,Careless driving/overtaking,Died
+VADODARA,452.0,Over speeding,Cases
+VADODARA,389.0,Over speeding,Injured
+VADODARA,150.0,Over speeding,Died
+VADODARA,8.0,DUI,Cases
+VADODARA,4.0,DUI,Injured
+VADODARA,0.0,DUI,Died
+VADODARA,0.0,Physical Fatigue of Drivers,Cases
+VADODARA,0.0,Physical Fatigue of Drivers,Injured
+VADODARA,0.0,Physical Fatigue of Drivers,Died
+VADODARA,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+VADODARA,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+VADODARA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+VADODARA,0.0,Animal Crossing,Cases
+VADODARA,0.0,Animal Crossing,Injured
+VADODARA,0.0,Animal Crossing,Died
+VADODARA,0.0,Weather Condition (Poor Visibility),Cases
+VADODARA,0.0,Weather Condition (Poor Visibility),Injured
+VADODARA,0.0,Weather Condition (Poor Visibility),Died
+VADODARA,0.0,Weather Condition (Others Causes),Cases
+VADODARA,0.0,Weather Condition (Others Causes),Injured
+VADODARA,0.0,Weather Condition (Others Causes),Died
+VADODARA,0.0,Lack of Road Infrastructure,Cases
+VADODARA,0.0,Lack of Road Infrastructure,Injured
+VADODARA,0.0,Lack of Road Infrastructure,Died
+VADODARA,0.0,Vehicles parked at road  Shoulders,Cases
+VADODARA,0.0,Vehicles parked at road  Shoulders,Injured
+VADODARA,0.0,Vehicles parked at road  Shoulders,Died
+VADODARA,0.0,Causes Not Known,Cases
+VADODARA,0.0,Causes Not Known,Injured
+VADODARA,0.0,Causes Not Known,Died
+VARANASI,23.0,Careless driving/overtaking,Cases
+VARANASI,11.0,Careless driving/overtaking,Injured
+VARANASI,14.0,Careless driving/overtaking,Died
+VARANASI,14.0,Over speeding,Cases
+VARANASI,5.0,Over speeding,Injured
+VARANASI,10.0,Over speeding,Died
+VARANASI,6.0,DUI,Cases
+VARANASI,1.0,DUI,Injured
+VARANASI,6.0,DUI,Died
+VARANASI,0.0,Physical Fatigue of Drivers,Cases
+VARANASI,0.0,Physical Fatigue of Drivers,Injured
+VARANASI,0.0,Physical Fatigue of Drivers,Died
+VARANASI,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+VARANASI,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+VARANASI,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+VARANASI,0.0,Animal Crossing,Cases
+VARANASI,0.0,Animal Crossing,Injured
+VARANASI,0.0,Animal Crossing,Died
+VARANASI,2.0,Weather Condition (Poor Visibility),Cases
+VARANASI,1.0,Weather Condition (Poor Visibility),Injured
+VARANASI,2.0,Weather Condition (Poor Visibility),Died
+VARANASI,0.0,Weather Condition (Others Causes),Cases
+VARANASI,0.0,Weather Condition (Others Causes),Injured
+VARANASI,0.0,Weather Condition (Others Causes),Died
+VARANASI,0.0,Lack of Road Infrastructure,Cases
+VARANASI,0.0,Lack of Road Infrastructure,Injured
+VARANASI,0.0,Lack of Road Infrastructure,Died
+VARANASI,1.0,Vehicles parked at road  Shoulders,Cases
+VARANASI,1.0,Vehicles parked at road  Shoulders,Injured
+VARANASI,1.0,Vehicles parked at road  Shoulders,Died
+VARANASI,74.0,Causes Not Known,Cases
+VARANASI,47.0,Causes Not Known,Injured
+VARANASI,18.0,Causes Not Known,Died
+VASAI VIRAR,35.0,Careless driving/overtaking,Cases
+VASAI VIRAR,12.0,Careless driving/overtaking,Injured
+VASAI VIRAR,26.0,Careless driving/overtaking,Died
+VASAI VIRAR,224.0,Over speeding,Cases
+VASAI VIRAR,151.0,Over speeding,Injured
+VASAI VIRAR,121.0,Over speeding,Died
+VASAI VIRAR,0.0,DUI,Cases
+VASAI VIRAR,0.0,DUI,Injured
+VASAI VIRAR,0.0,DUI,Died
+VASAI VIRAR,0.0,Physical Fatigue of Drivers,Cases
+VASAI VIRAR,0.0,Physical Fatigue of Drivers,Injured
+VASAI VIRAR,0.0,Physical Fatigue of Drivers,Died
+VASAI VIRAR,2.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+VASAI VIRAR,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+VASAI VIRAR,2.0,Defect in Mechanical Condition of Motor Vehicle,Died
+VASAI VIRAR,1.0,Animal Crossing,Cases
+VASAI VIRAR,0.0,Animal Crossing,Injured
+VASAI VIRAR,1.0,Animal Crossing,Died
+VASAI VIRAR,0.0,Weather Condition (Poor Visibility),Cases
+VASAI VIRAR,0.0,Weather Condition (Poor Visibility),Injured
+VASAI VIRAR,0.0,Weather Condition (Poor Visibility),Died
+VASAI VIRAR,0.0,Weather Condition (Others Causes),Cases
+VASAI VIRAR,0.0,Weather Condition (Others Causes),Injured
+VASAI VIRAR,0.0,Weather Condition (Others Causes),Died
+VASAI VIRAR,0.0,Lack of Road Infrastructure,Cases
+VASAI VIRAR,0.0,Lack of Road Infrastructure,Injured
+VASAI VIRAR,0.0,Lack of Road Infrastructure,Died
+VASAI VIRAR,5.0,Vehicles parked at road  Shoulders,Cases
+VASAI VIRAR,0.0,Vehicles parked at road  Shoulders,Injured
+VASAI VIRAR,5.0,Vehicles parked at road  Shoulders,Died
+VASAI VIRAR,0.0,Causes Not Known,Cases
+VASAI VIRAR,0.0,Causes Not Known,Injured
+VASAI VIRAR,0.0,Causes Not Known,Died
+VIJAYAWADA,342.0,Careless driving/overtaking,Cases
+VIJAYAWADA,311.0,Careless driving/overtaking,Injured
+VIJAYAWADA,54.0,Careless driving/overtaking,Died
+VIJAYAWADA,505.0,Over speeding,Cases
+VIJAYAWADA,507.0,Over speeding,Injured
+VIJAYAWADA,133.0,Over speeding,Died
+VIJAYAWADA,96.0,DUI,Cases
+VIJAYAWADA,102.0,DUI,Injured
+VIJAYAWADA,67.0,DUI,Died
+VIJAYAWADA,0.0,Physical Fatigue of Drivers,Cases
+VIJAYAWADA,0.0,Physical Fatigue of Drivers,Injured
+VIJAYAWADA,0.0,Physical Fatigue of Drivers,Died
+VIJAYAWADA,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+VIJAYAWADA,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+VIJAYAWADA,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+VIJAYAWADA,0.0,Animal Crossing,Cases
+VIJAYAWADA,0.0,Animal Crossing,Injured
+VIJAYAWADA,0.0,Animal Crossing,Died
+VIJAYAWADA,48.0,Weather Condition (Poor Visibility),Cases
+VIJAYAWADA,57.0,Weather Condition (Poor Visibility),Injured
+VIJAYAWADA,20.0,Weather Condition (Poor Visibility),Died
+VIJAYAWADA,0.0,Weather Condition (Others Causes),Cases
+VIJAYAWADA,0.0,Weather Condition (Others Causes),Injured
+VIJAYAWADA,0.0,Weather Condition (Others Causes),Died
+VIJAYAWADA,0.0,Lack of Road Infrastructure,Cases
+VIJAYAWADA,0.0,Lack of Road Infrastructure,Injured
+VIJAYAWADA,0.0,Lack of Road Infrastructure,Died
+VIJAYAWADA,0.0,Vehicles parked at road  Shoulders,Cases
+VIJAYAWADA,0.0,Vehicles parked at road  Shoulders,Injured
+VIJAYAWADA,0.0,Vehicles parked at road  Shoulders,Died
+VIJAYAWADA,0.0,Causes Not Known,Cases
+VIJAYAWADA,0.0,Causes Not Known,Injured
+VIJAYAWADA,0.0,Causes Not Known,Died
+VISHAKHAPATNAM,287.0,Careless driving/overtaking,Cases
+VISHAKHAPATNAM,347.0,Careless driving/overtaking,Injured
+VISHAKHAPATNAM,53.0,Careless driving/overtaking,Died
+VISHAKHAPATNAM,853.0,Over speeding,Cases
+VISHAKHAPATNAM,833.0,Over speeding,Injured
+VISHAKHAPATNAM,201.0,Over speeding,Died
+VISHAKHAPATNAM,4.0,DUI,Cases
+VISHAKHAPATNAM,2.0,DUI,Injured
+VISHAKHAPATNAM,1.0,DUI,Died
+VISHAKHAPATNAM,0.0,Physical Fatigue of Drivers,Cases
+VISHAKHAPATNAM,0.0,Physical Fatigue of Drivers,Injured
+VISHAKHAPATNAM,0.0,Physical Fatigue of Drivers,Died
+VISHAKHAPATNAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Cases
+VISHAKHAPATNAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Injured
+VISHAKHAPATNAM,0.0,Defect in Mechanical Condition of Motor Vehicle,Died
+VISHAKHAPATNAM,0.0,Animal Crossing,Cases
+VISHAKHAPATNAM,0.0,Animal Crossing,Injured
+VISHAKHAPATNAM,0.0,Animal Crossing,Died
+VISHAKHAPATNAM,0.0,Weather Condition (Poor Visibility),Cases
+VISHAKHAPATNAM,0.0,Weather Condition (Poor Visibility),Injured
+VISHAKHAPATNAM,0.0,Weather Condition (Poor Visibility),Died
+VISHAKHAPATNAM,0.0,Weather Condition (Others Causes),Cases
+VISHAKHAPATNAM,0.0,Weather Condition (Others Causes),Injured
+VISHAKHAPATNAM,0.0,Weather Condition (Others Causes),Died
+VISHAKHAPATNAM,0.0,Lack of Road Infrastructure,Cases
+VISHAKHAPATNAM,0.0,Lack of Road Infrastructure,Injured
+VISHAKHAPATNAM,0.0,Lack of Road Infrastructure,Died
+VISHAKHAPATNAM,0.0,Vehicles parked at road  Shoulders,Cases
+VISHAKHAPATNAM,0.0,Vehicles parked at road  Shoulders,Injured
+VISHAKHAPATNAM,0.0,Vehicles parked at road  Shoulders,Died
+VISHAKHAPATNAM,0.0,Causes Not Known,Cases
+VISHAKHAPATNAM,0.0,Causes Not Known,Injured
+VISHAKHAPATNAM,0.0,Causes Not Known,Died

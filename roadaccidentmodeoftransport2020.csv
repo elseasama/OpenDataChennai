@@ -1,0 +1,2236 @@
+City,Deaths,Mode of transport,Person
+AGRA,1.0,Car,Offenders
+AGRA,6.0,Car,Victims
+AGRA,7.0,Car,Total
+AGRA,0.0,Jeep,Offenders
+AGRA,1.0,Jeep,Victims
+AGRA,1.0,Jeep,Total
+AGRA,0.0,Tractor,Offenders
+AGRA,6.0,Tractor,Victims
+AGRA,6.0,Tractor,Total
+AGRA,0.0,Auto Rickshaw,Offenders
+AGRA,6.0,Auto Rickshaw,Victims
+AGRA,6.0,Auto Rickshaw,Total
+AGRA,0.0,Two Wheeler,Offenders
+AGRA,27.0,Two Wheeler,Victims
+AGRA,27.0,Two Wheeler,Total
+AGRA,0.0,Other Motor Vehicles,Offenders
+AGRA,1.0,Other Motor Vehicles,Victims
+AGRA,1.0,Other Motor Vehicles,Total
+AGRA,0.0,Bicycle,Offenders
+AGRA,0.0,Bicycle,Victims
+AGRA,0.0,Bicycle,Total
+AGRA,0.0,Hand Drawn Vehicle,Offenders
+AGRA,0.0,Hand Drawn Vehicle,Victims
+AGRA,0.0,Hand Drawn Vehicle,Total
+AGRA,0.0,Animal Drawn Vehicle,Offenders
+AGRA,0.0,Animal Drawn Vehicle,Victims
+AGRA,0.0,Animal Drawn Vehicle,Total
+AGRA,0.0,Pedestrian,Offenders
+AGRA,0.0,Pedestrian,Victims
+AGRA,0.0,Pedestrian,Total
+AGRA,0.0,Others,Offenders
+AGRA,0.0,Others,Victims
+AGRA,0.0,Others,Total
+AGRA,7.0,Truck/Lorry,Offenders
+AGRA,143.0,Truck/Lorry,Victims
+AGRA,150.0,Truck/Lorry,Total
+AGRA,0.0,Bus,Offenders
+AGRA,3.0,Bus,Victims
+AGRA,3.0,Bus,Total
+AGRA,1.0,SUV/Station Wagon/etc.,Offenders
+AGRA,14.0,SUV/Station Wagon/etc.,Victims
+AGRA,15.0,SUV/Station Wagon/etc.,Total
+AHMEDABAD,2.0,Car,Offenders
+AHMEDABAD,7.0,Car,Victims
+AHMEDABAD,9.0,Car,Total
+AHMEDABAD,0.0,Jeep,Offenders
+AHMEDABAD,0.0,Jeep,Victims
+AHMEDABAD,0.0,Jeep,Total
+AHMEDABAD,0.0,Tractor,Offenders
+AHMEDABAD,1.0,Tractor,Victims
+AHMEDABAD,1.0,Tractor,Total
+AHMEDABAD,8.0,Auto Rickshaw,Offenders
+AHMEDABAD,12.0,Auto Rickshaw,Victims
+AHMEDABAD,20.0,Auto Rickshaw,Total
+AHMEDABAD,44.0,Two Wheeler,Offenders
+AHMEDABAD,96.0,Two Wheeler,Victims
+AHMEDABAD,140.0,Two Wheeler,Total
+AHMEDABAD,0.0,Other Motor Vehicles,Offenders
+AHMEDABAD,0.0,Other Motor Vehicles,Victims
+AHMEDABAD,0.0,Other Motor Vehicles,Total
+AHMEDABAD,0.0,Bicycle,Offenders
+AHMEDABAD,15.0,Bicycle,Victims
+AHMEDABAD,15.0,Bicycle,Total
+AHMEDABAD,0.0,Hand Drawn Vehicle,Offenders
+AHMEDABAD,4.0,Hand Drawn Vehicle,Victims
+AHMEDABAD,4.0,Hand Drawn Vehicle,Total
+AHMEDABAD,0.0,Animal Drawn Vehicle,Offenders
+AHMEDABAD,0.0,Animal Drawn Vehicle,Victims
+AHMEDABAD,0.0,Animal Drawn Vehicle,Total
+AHMEDABAD,0.0,Pedestrian,Offenders
+AHMEDABAD,151.0,Pedestrian,Victims
+AHMEDABAD,151.0,Pedestrian,Total
+AHMEDABAD,0.0,Others,Offenders
+AHMEDABAD,0.0,Others,Victims
+AHMEDABAD,0.0,Others,Total
+AHMEDABAD,0.0,Truck/Lorry,Offenders
+AHMEDABAD,0.0,Truck/Lorry,Victims
+AHMEDABAD,0.0,Truck/Lorry,Total
+AHMEDABAD,0.0,Bus,Offenders
+AHMEDABAD,0.0,Bus,Victims
+AHMEDABAD,0.0,Bus,Total
+AHMEDABAD,0.0,SUV/Station Wagon/etc.,Offenders
+AHMEDABAD,0.0,SUV/Station Wagon/etc.,Victims
+AHMEDABAD,0.0,SUV/Station Wagon/etc.,Total
+ALLAHABAD,6.0,Car,Offenders
+ALLAHABAD,6.0,Car,Victims
+ALLAHABAD,12.0,Car,Total
+ALLAHABAD,1.0,Jeep,Offenders
+ALLAHABAD,2.0,Jeep,Victims
+ALLAHABAD,3.0,Jeep,Total
+ALLAHABAD,0.0,Tractor,Offenders
+ALLAHABAD,0.0,Tractor,Victims
+ALLAHABAD,0.0,Tractor,Total
+ALLAHABAD,4.0,Auto Rickshaw,Offenders
+ALLAHABAD,9.0,Auto Rickshaw,Victims
+ALLAHABAD,13.0,Auto Rickshaw,Total
+ALLAHABAD,10.0,Two Wheeler,Offenders
+ALLAHABAD,15.0,Two Wheeler,Victims
+ALLAHABAD,25.0,Two Wheeler,Total
+ALLAHABAD,0.0,Other Motor Vehicles,Offenders
+ALLAHABAD,0.0,Other Motor Vehicles,Victims
+ALLAHABAD,0.0,Other Motor Vehicles,Total
+ALLAHABAD,0.0,Bicycle,Offenders
+ALLAHABAD,0.0,Bicycle,Victims
+ALLAHABAD,0.0,Bicycle,Total
+ALLAHABAD,0.0,Hand Drawn Vehicle,Offenders
+ALLAHABAD,0.0,Hand Drawn Vehicle,Victims
+ALLAHABAD,0.0,Hand Drawn Vehicle,Total
+ALLAHABAD,0.0,Animal Drawn Vehicle,Offenders
+ALLAHABAD,0.0,Animal Drawn Vehicle,Victims
+ALLAHABAD,0.0,Animal Drawn Vehicle,Total
+ALLAHABAD,0.0,Pedestrian,Offenders
+ALLAHABAD,0.0,Pedestrian,Victims
+ALLAHABAD,0.0,Pedestrian,Total
+ALLAHABAD,0.0,Others,Offenders
+ALLAHABAD,0.0,Others,Victims
+ALLAHABAD,0.0,Others,Total
+ALLAHABAD,0.0,Truck/Lorry,Offenders
+ALLAHABAD,0.0,Truck/Lorry,Victims
+ALLAHABAD,0.0,Truck/Lorry,Total
+ALLAHABAD,0.0,Bus,Offenders
+ALLAHABAD,0.0,Bus,Victims
+ALLAHABAD,0.0,Bus,Total
+ALLAHABAD,4.0,SUV/Station Wagon/etc.,Offenders
+ALLAHABAD,3.0,SUV/Station Wagon/etc.,Victims
+ALLAHABAD,7.0,SUV/Station Wagon/etc.,Total
+AMRITSAR,0.0,Car,Offenders
+AMRITSAR,2.0,Car,Victims
+AMRITSAR,2.0,Car,Total
+AMRITSAR,0.0,Jeep,Offenders
+AMRITSAR,0.0,Jeep,Victims
+AMRITSAR,0.0,Jeep,Total
+AMRITSAR,0.0,Tractor,Offenders
+AMRITSAR,0.0,Tractor,Victims
+AMRITSAR,0.0,Tractor,Total
+AMRITSAR,0.0,Auto Rickshaw,Offenders
+AMRITSAR,4.0,Auto Rickshaw,Victims
+AMRITSAR,4.0,Auto Rickshaw,Total
+AMRITSAR,0.0,Two Wheeler,Offenders
+AMRITSAR,32.0,Two Wheeler,Victims
+AMRITSAR,32.0,Two Wheeler,Total
+AMRITSAR,0.0,Other Motor Vehicles,Offenders
+AMRITSAR,4.0,Other Motor Vehicles,Victims
+AMRITSAR,4.0,Other Motor Vehicles,Total
+AMRITSAR,0.0,Bicycle,Offenders
+AMRITSAR,6.0,Bicycle,Victims
+AMRITSAR,6.0,Bicycle,Total
+AMRITSAR,0.0,Hand Drawn Vehicle,Offenders
+AMRITSAR,0.0,Hand Drawn Vehicle,Victims
+AMRITSAR,0.0,Hand Drawn Vehicle,Total
+AMRITSAR,0.0,Animal Drawn Vehicle,Offenders
+AMRITSAR,0.0,Animal Drawn Vehicle,Victims
+AMRITSAR,0.0,Animal Drawn Vehicle,Total
+AMRITSAR,0.0,Pedestrian,Offenders
+AMRITSAR,18.0,Pedestrian,Victims
+AMRITSAR,18.0,Pedestrian,Total
+AMRITSAR,0.0,Others,Offenders
+AMRITSAR,0.0,Others,Victims
+AMRITSAR,0.0,Others,Total
+AMRITSAR,0.0,Truck/Lorry,Offenders
+AMRITSAR,0.0,Truck/Lorry,Victims
+AMRITSAR,0.0,Truck/Lorry,Total
+AMRITSAR,0.0,Bus,Offenders
+AMRITSAR,0.0,Bus,Victims
+AMRITSAR,0.0,Bus,Total
+AMRITSAR,0.0,SUV/Station Wagon/etc.,Offenders
+AMRITSAR,0.0,SUV/Station Wagon/etc.,Victims
+AMRITSAR,0.0,SUV/Station Wagon/etc.,Total
+ASANSOL,0.0,Car,Offenders
+ASANSOL,100.0,Car,Victims
+ASANSOL,100.0,Car,Total
+ASANSOL,0.0,Jeep,Offenders
+ASANSOL,0.0,Jeep,Victims
+ASANSOL,0.0,Jeep,Total
+ASANSOL,0.0,Tractor,Offenders
+ASANSOL,0.0,Tractor,Victims
+ASANSOL,0.0,Tractor,Total
+ASANSOL,0.0,Auto Rickshaw,Offenders
+ASANSOL,0.0,Auto Rickshaw,Victims
+ASANSOL,0.0,Auto Rickshaw,Total
+ASANSOL,0.0,Two Wheeler,Offenders
+ASANSOL,179.0,Two Wheeler,Victims
+ASANSOL,179.0,Two Wheeler,Total
+ASANSOL,0.0,Other Motor Vehicles,Offenders
+ASANSOL,8.0,Other Motor Vehicles,Victims
+ASANSOL,8.0,Other Motor Vehicles,Total
+ASANSOL,0.0,Bicycle,Offenders
+ASANSOL,0.0,Bicycle,Victims
+ASANSOL,0.0,Bicycle,Total
+ASANSOL,0.0,Hand Drawn Vehicle,Offenders
+ASANSOL,0.0,Hand Drawn Vehicle,Victims
+ASANSOL,0.0,Hand Drawn Vehicle,Total
+ASANSOL,0.0,Animal Drawn Vehicle,Offenders
+ASANSOL,0.0,Animal Drawn Vehicle,Victims
+ASANSOL,0.0,Animal Drawn Vehicle,Total
+ASANSOL,0.0,Pedestrian,Offenders
+ASANSOL,27.0,Pedestrian,Victims
+ASANSOL,27.0,Pedestrian,Total
+ASANSOL,0.0,Others,Offenders
+ASANSOL,0.0,Others,Victims
+ASANSOL,0.0,Others,Total
+ASANSOL,0.0,Truck/Lorry,Offenders
+ASANSOL,0.0,Truck/Lorry,Victims
+ASANSOL,0.0,Truck/Lorry,Total
+ASANSOL,0.0,Bus,Offenders
+ASANSOL,0.0,Bus,Victims
+ASANSOL,0.0,Bus,Total
+ASANSOL,0.0,SUV/Station Wagon/etc.,Offenders
+ASANSOL,0.0,SUV/Station Wagon/etc.,Victims
+ASANSOL,0.0,SUV/Station Wagon/etc.,Total
+AURANGABAD,0.0,Car,Offenders
+AURANGABAD,16.0,Car,Victims
+AURANGABAD,16.0,Car,Total
+AURANGABAD,0.0,Jeep,Offenders
+AURANGABAD,8.0,Jeep,Victims
+AURANGABAD,8.0,Jeep,Total
+AURANGABAD,0.0,Tractor,Offenders
+AURANGABAD,1.0,Tractor,Victims
+AURANGABAD,1.0,Tractor,Total
+AURANGABAD,0.0,Auto Rickshaw,Offenders
+AURANGABAD,7.0,Auto Rickshaw,Victims
+AURANGABAD,7.0,Auto Rickshaw,Total
+AURANGABAD,6.0,Two Wheeler,Offenders
+AURANGABAD,63.0,Two Wheeler,Victims
+AURANGABAD,69.0,Two Wheeler,Total
+AURANGABAD,0.0,Other Motor Vehicles,Offenders
+AURANGABAD,3.0,Other Motor Vehicles,Victims
+AURANGABAD,3.0,Other Motor Vehicles,Total
+AURANGABAD,0.0,Bicycle,Offenders
+AURANGABAD,0.0,Bicycle,Victims
+AURANGABAD,0.0,Bicycle,Total
+AURANGABAD,0.0,Hand Drawn Vehicle,Offenders
+AURANGABAD,0.0,Hand Drawn Vehicle,Victims
+AURANGABAD,0.0,Hand Drawn Vehicle,Total
+AURANGABAD,0.0,Animal Drawn Vehicle,Offenders
+AURANGABAD,0.0,Animal Drawn Vehicle,Victims
+AURANGABAD,0.0,Animal Drawn Vehicle,Total
+AURANGABAD,0.0,Pedestrian,Offenders
+AURANGABAD,16.0,Pedestrian,Victims
+AURANGABAD,16.0,Pedestrian,Total
+AURANGABAD,0.0,Others,Offenders
+AURANGABAD,0.0,Others,Victims
+AURANGABAD,0.0,Others,Total
+AURANGABAD,0.0,Truck/Lorry,Offenders
+AURANGABAD,39.0,Truck/Lorry,Victims
+AURANGABAD,39.0,Truck/Lorry,Total
+AURANGABAD,0.0,Bus,Offenders
+AURANGABAD,2.0,Bus,Victims
+AURANGABAD,2.0,Bus,Total
+AURANGABAD,0.0,SUV/Station Wagon/etc.,Offenders
+AURANGABAD,2.0,SUV/Station Wagon/etc.,Victims
+AURANGABAD,2.0,SUV/Station Wagon/etc.,Total
+BENGALURU,4.0,Car,Offenders
+BENGALURU,19.0,Car,Victims
+BENGALURU,23.0,Car,Total
+BENGALURU,1.0,Jeep,Offenders
+BENGALURU,5.0,Jeep,Victims
+BENGALURU,6.0,Jeep,Total
+BENGALURU,0.0,Tractor,Offenders
+BENGALURU,3.0,Tractor,Victims
+BENGALURU,3.0,Tractor,Total
+BENGALURU,4.0,Auto Rickshaw,Offenders
+BENGALURU,5.0,Auto Rickshaw,Victims
+BENGALURU,9.0,Auto Rickshaw,Total
+BENGALURU,122.0,Two Wheeler,Offenders
+BENGALURU,301.0,Two Wheeler,Victims
+BENGALURU,423.0,Two Wheeler,Total
+BENGALURU,0.0,Other Motor Vehicles,Offenders
+BENGALURU,0.0,Other Motor Vehicles,Victims
+BENGALURU,0.0,Other Motor Vehicles,Total
+BENGALURU,0.0,Bicycle,Offenders
+BENGALURU,5.0,Bicycle,Victims
+BENGALURU,5.0,Bicycle,Total
+BENGALURU,0.0,Hand Drawn Vehicle,Offenders
+BENGALURU,0.0,Hand Drawn Vehicle,Victims
+BENGALURU,0.0,Hand Drawn Vehicle,Total
+BENGALURU,0.0,Animal Drawn Vehicle,Offenders
+BENGALURU,0.0,Animal Drawn Vehicle,Victims
+BENGALURU,0.0,Animal Drawn Vehicle,Total
+BENGALURU,0.0,Pedestrian,Offenders
+BENGALURU,163.0,Pedestrian,Victims
+BENGALURU,163.0,Pedestrian,Total
+BENGALURU,0.0,Others,Offenders
+BENGALURU,0.0,Others,Victims
+BENGALURU,0.0,Others,Total
+BENGALURU,0.0,Truck/Lorry,Offenders
+BENGALURU,7.0,Truck/Lorry,Victims
+BENGALURU,7.0,Truck/Lorry,Total
+BENGALURU,0.0,Bus,Offenders
+BENGALURU,3.0,Bus,Victims
+BENGALURU,3.0,Bus,Total
+BENGALURU,1.0,SUV/Station Wagon/etc.,Offenders
+BENGALURU,3.0,SUV/Station Wagon/etc.,Victims
+BENGALURU,4.0,SUV/Station Wagon/etc.,Total
+BHOPAL,0.0,Car,Offenders
+BHOPAL,3.0,Car,Victims
+BHOPAL,3.0,Car,Total
+BHOPAL,0.0,Jeep,Offenders
+BHOPAL,0.0,Jeep,Victims
+BHOPAL,0.0,Jeep,Total
+BHOPAL,0.0,Tractor,Offenders
+BHOPAL,0.0,Tractor,Victims
+BHOPAL,0.0,Tractor,Total
+BHOPAL,0.0,Auto Rickshaw,Offenders
+BHOPAL,0.0,Auto Rickshaw,Victims
+BHOPAL,0.0,Auto Rickshaw,Total
+BHOPAL,0.0,Two Wheeler,Offenders
+BHOPAL,67.0,Two Wheeler,Victims
+BHOPAL,67.0,Two Wheeler,Total
+BHOPAL,0.0,Other Motor Vehicles,Offenders
+BHOPAL,0.0,Other Motor Vehicles,Victims
+BHOPAL,0.0,Other Motor Vehicles,Total
+BHOPAL,0.0,Bicycle,Offenders
+BHOPAL,0.0,Bicycle,Victims
+BHOPAL,0.0,Bicycle,Total
+BHOPAL,0.0,Hand Drawn Vehicle,Offenders
+BHOPAL,0.0,Hand Drawn Vehicle,Victims
+BHOPAL,0.0,Hand Drawn Vehicle,Total
+BHOPAL,0.0,Animal Drawn Vehicle,Offenders
+BHOPAL,0.0,Animal Drawn Vehicle,Victims
+BHOPAL,0.0,Animal Drawn Vehicle,Total
+BHOPAL,0.0,Pedestrian,Offenders
+BHOPAL,12.0,Pedestrian,Victims
+BHOPAL,12.0,Pedestrian,Total
+BHOPAL,0.0,Others,Offenders
+BHOPAL,10.0,Others,Victims
+BHOPAL,10.0,Others,Total
+BHOPAL,0.0,Truck/Lorry,Offenders
+BHOPAL,1.0,Truck/Lorry,Victims
+BHOPAL,1.0,Truck/Lorry,Total
+BHOPAL,0.0,Bus,Offenders
+BHOPAL,0.0,Bus,Victims
+BHOPAL,0.0,Bus,Total
+BHOPAL,0.0,SUV/Station Wagon/etc.,Offenders
+BHOPAL,0.0,SUV/Station Wagon/etc.,Victims
+BHOPAL,0.0,SUV/Station Wagon/etc.,Total
+CHANDIGARH (CITY),0.0,Car,Offenders
+CHANDIGARH (CITY),1.0,Car,Victims
+CHANDIGARH (CITY),1.0,Car,Total
+CHANDIGARH (CITY),0.0,Jeep,Offenders
+CHANDIGARH (CITY),0.0,Jeep,Victims
+CHANDIGARH (CITY),0.0,Jeep,Total
+CHANDIGARH (CITY),0.0,Tractor,Offenders
+CHANDIGARH (CITY),0.0,Tractor,Victims
+CHANDIGARH (CITY),0.0,Tractor,Total
+CHANDIGARH (CITY),0.0,Auto Rickshaw,Offenders
+CHANDIGARH (CITY),0.0,Auto Rickshaw,Victims
+CHANDIGARH (CITY),0.0,Auto Rickshaw,Total
+CHANDIGARH (CITY),0.0,Two Wheeler,Offenders
+CHANDIGARH (CITY),23.0,Two Wheeler,Victims
+CHANDIGARH (CITY),23.0,Two Wheeler,Total
+CHANDIGARH (CITY),0.0,Other Motor Vehicles,Offenders
+CHANDIGARH (CITY),0.0,Other Motor Vehicles,Victims
+CHANDIGARH (CITY),0.0,Other Motor Vehicles,Total
+CHANDIGARH (CITY),0.0,Bicycle,Offenders
+CHANDIGARH (CITY),10.0,Bicycle,Victims
+CHANDIGARH (CITY),10.0,Bicycle,Total
+CHANDIGARH (CITY),0.0,Hand Drawn Vehicle,Offenders
+CHANDIGARH (CITY),4.0,Hand Drawn Vehicle,Victims
+CHANDIGARH (CITY),4.0,Hand Drawn Vehicle,Total
+CHANDIGARH (CITY),0.0,Animal Drawn Vehicle,Offenders
+CHANDIGARH (CITY),0.0,Animal Drawn Vehicle,Victims
+CHANDIGARH (CITY),0.0,Animal Drawn Vehicle,Total
+CHANDIGARH (CITY),0.0,Pedestrian,Offenders
+CHANDIGARH (CITY),12.0,Pedestrian,Victims
+CHANDIGARH (CITY),12.0,Pedestrian,Total
+CHANDIGARH (CITY),0.0,Others,Offenders
+CHANDIGARH (CITY),0.0,Others,Victims
+CHANDIGARH (CITY),0.0,Others,Total
+CHANDIGARH (CITY),0.0,Truck/Lorry,Offenders
+CHANDIGARH (CITY),1.0,Truck/Lorry,Victims
+CHANDIGARH (CITY),1.0,Truck/Lorry,Total
+CHANDIGARH (CITY),0.0,Bus,Offenders
+CHANDIGARH (CITY),0.0,Bus,Victims
+CHANDIGARH (CITY),0.0,Bus,Total
+CHANDIGARH (CITY),0.0,SUV/Station Wagon/etc.,Offenders
+CHANDIGARH (CITY),2.0,SUV/Station Wagon/etc.,Victims
+CHANDIGARH (CITY),2.0,SUV/Station Wagon/etc.,Total
+CHENNAI,25.0,Car,Offenders
+CHENNAI,8.0,Car,Victims
+CHENNAI,33.0,Car,Total
+CHENNAI,0.0,Jeep,Offenders
+CHENNAI,1.0,Jeep,Victims
+CHENNAI,1.0,Jeep,Total
+CHENNAI,0.0,Tractor,Offenders
+CHENNAI,1.0,Tractor,Victims
+CHENNAI,1.0,Tractor,Total
+CHENNAI,5.0,Auto Rickshaw,Offenders
+CHENNAI,5.0,Auto Rickshaw,Victims
+CHENNAI,10.0,Auto Rickshaw,Total
+CHENNAI,50.0,Two Wheeler,Offenders
+CHENNAI,278.0,Two Wheeler,Victims
+CHENNAI,328.0,Two Wheeler,Total
+CHENNAI,11.0,Other Motor Vehicles,Offenders
+CHENNAI,120.0,Other Motor Vehicles,Victims
+CHENNAI,131.0,Other Motor Vehicles,Total
+CHENNAI,0.0,Bicycle,Offenders
+CHENNAI,37.0,Bicycle,Victims
+CHENNAI,37.0,Bicycle,Total
+CHENNAI,0.0,Hand Drawn Vehicle,Offenders
+CHENNAI,1.0,Hand Drawn Vehicle,Victims
+CHENNAI,1.0,Hand Drawn Vehicle,Total
+CHENNAI,0.0,Animal Drawn Vehicle,Offenders
+CHENNAI,0.0,Animal Drawn Vehicle,Victims
+CHENNAI,0.0,Animal Drawn Vehicle,Total
+CHENNAI,0.0,Pedestrian,Offenders
+CHENNAI,181.0,Pedestrian,Victims
+CHENNAI,181.0,Pedestrian,Total
+CHENNAI,0.0,Others,Offenders
+CHENNAI,102.0,Others,Victims
+CHENNAI,102.0,Others,Total
+CHENNAI,20.0,Truck/Lorry,Offenders
+CHENNAI,7.0,Truck/Lorry,Victims
+CHENNAI,27.0,Truck/Lorry,Total
+CHENNAI,12.0,Bus,Offenders
+CHENNAI,5.0,Bus,Victims
+CHENNAI,17.0,Bus,Total
+CHENNAI,0.0,SUV/Station Wagon/etc.,Offenders
+CHENNAI,3.0,SUV/Station Wagon/etc.,Victims
+CHENNAI,3.0,SUV/Station Wagon/etc.,Total
+COIMBATORE,0.0,Car,Offenders
+COIMBATORE,12.0,Car,Victims
+COIMBATORE,12.0,Car,Total
+COIMBATORE,0.0,Jeep,Offenders
+COIMBATORE,0.0,Jeep,Victims
+COIMBATORE,0.0,Jeep,Total
+COIMBATORE,0.0,Tractor,Offenders
+COIMBATORE,0.0,Tractor,Victims
+COIMBATORE,0.0,Tractor,Total
+COIMBATORE,0.0,Auto Rickshaw,Offenders
+COIMBATORE,0.0,Auto Rickshaw,Victims
+COIMBATORE,0.0,Auto Rickshaw,Total
+COIMBATORE,6.0,Two Wheeler,Offenders
+COIMBATORE,23.0,Two Wheeler,Victims
+COIMBATORE,29.0,Two Wheeler,Total
+COIMBATORE,0.0,Other Motor Vehicles,Offenders
+COIMBATORE,0.0,Other Motor Vehicles,Victims
+COIMBATORE,0.0,Other Motor Vehicles,Total
+COIMBATORE,0.0,Bicycle,Offenders
+COIMBATORE,1.0,Bicycle,Victims
+COIMBATORE,1.0,Bicycle,Total
+COIMBATORE,0.0,Hand Drawn Vehicle,Offenders
+COIMBATORE,0.0,Hand Drawn Vehicle,Victims
+COIMBATORE,0.0,Hand Drawn Vehicle,Total
+COIMBATORE,0.0,Animal Drawn Vehicle,Offenders
+COIMBATORE,0.0,Animal Drawn Vehicle,Victims
+COIMBATORE,0.0,Animal Drawn Vehicle,Total
+COIMBATORE,0.0,Pedestrian,Offenders
+COIMBATORE,0.0,Pedestrian,Victims
+COIMBATORE,0.0,Pedestrian,Total
+COIMBATORE,0.0,Others,Offenders
+COIMBATORE,0.0,Others,Victims
+COIMBATORE,0.0,Others,Total
+COIMBATORE,0.0,Truck/Lorry,Offenders
+COIMBATORE,13.0,Truck/Lorry,Victims
+COIMBATORE,13.0,Truck/Lorry,Total
+COIMBATORE,0.0,Bus,Offenders
+COIMBATORE,10.0,Bus,Victims
+COIMBATORE,10.0,Bus,Total
+COIMBATORE,0.0,SUV/Station Wagon/etc.,Offenders
+COIMBATORE,0.0,SUV/Station Wagon/etc.,Victims
+COIMBATORE,0.0,SUV/Station Wagon/etc.,Total
+DELHI (CITY),79.0,Car,Offenders
+DELHI (CITY),183.0,Car,Victims
+DELHI (CITY),262.0,Car,Total
+DELHI (CITY),1.0,Jeep,Offenders
+DELHI (CITY),6.0,Jeep,Victims
+DELHI (CITY),7.0,Jeep,Total
+DELHI (CITY),2.0,Tractor,Offenders
+DELHI (CITY),0.0,Tractor,Victims
+DELHI (CITY),2.0,Tractor,Total
+DELHI (CITY),6.0,Auto Rickshaw,Offenders
+DELHI (CITY),45.0,Auto Rickshaw,Victims
+DELHI (CITY),51.0,Auto Rickshaw,Total
+DELHI (CITY),147.0,Two Wheeler,Offenders
+DELHI (CITY),324.0,Two Wheeler,Victims
+DELHI (CITY),471.0,Two Wheeler,Total
+DELHI (CITY),6.0,Other Motor Vehicles,Offenders
+DELHI (CITY),106.0,Other Motor Vehicles,Victims
+DELHI (CITY),112.0,Other Motor Vehicles,Total
+DELHI (CITY),1.0,Bicycle,Offenders
+DELHI (CITY),14.0,Bicycle,Victims
+DELHI (CITY),15.0,Bicycle,Total
+DELHI (CITY),0.0,Hand Drawn Vehicle,Offenders
+DELHI (CITY),2.0,Hand Drawn Vehicle,Victims
+DELHI (CITY),2.0,Hand Drawn Vehicle,Total
+DELHI (CITY),0.0,Animal Drawn Vehicle,Offenders
+DELHI (CITY),0.0,Animal Drawn Vehicle,Victims
+DELHI (CITY),0.0,Animal Drawn Vehicle,Total
+DELHI (CITY),4.0,Pedestrian,Offenders
+DELHI (CITY),53.0,Pedestrian,Victims
+DELHI (CITY),57.0,Pedestrian,Total
+DELHI (CITY),3.0,Others,Offenders
+DELHI (CITY),12.0,Others,Victims
+DELHI (CITY),15.0,Others,Total
+DELHI (CITY),26.0,Truck/Lorry,Offenders
+DELHI (CITY),72.0,Truck/Lorry,Victims
+DELHI (CITY),98.0,Truck/Lorry,Total
+DELHI (CITY),12.0,Bus,Offenders
+DELHI (CITY),26.0,Bus,Victims
+DELHI (CITY),38.0,Bus,Total
+DELHI (CITY),10.0,SUV/Station Wagon/etc.,Offenders
+DELHI (CITY),11.0,SUV/Station Wagon/etc.,Victims
+DELHI (CITY),21.0,SUV/Station Wagon/etc.,Total
+DHANBAD,1.0,Car,Offenders
+DHANBAD,0.0,Car,Victims
+DHANBAD,1.0,Car,Total
+DHANBAD,2.0,Jeep,Offenders
+DHANBAD,0.0,Jeep,Victims
+DHANBAD,2.0,Jeep,Total
+DHANBAD,0.0,Tractor,Offenders
+DHANBAD,0.0,Tractor,Victims
+DHANBAD,0.0,Tractor,Total
+DHANBAD,2.0,Auto Rickshaw,Offenders
+DHANBAD,0.0,Auto Rickshaw,Victims
+DHANBAD,2.0,Auto Rickshaw,Total
+DHANBAD,58.0,Two Wheeler,Offenders
+DHANBAD,0.0,Two Wheeler,Victims
+DHANBAD,58.0,Two Wheeler,Total
+DHANBAD,0.0,Other Motor Vehicles,Offenders
+DHANBAD,0.0,Other Motor Vehicles,Victims
+DHANBAD,0.0,Other Motor Vehicles,Total
+DHANBAD,12.0,Bicycle,Offenders
+DHANBAD,0.0,Bicycle,Victims
+DHANBAD,12.0,Bicycle,Total
+DHANBAD,0.0,Hand Drawn Vehicle,Offenders
+DHANBAD,0.0,Hand Drawn Vehicle,Victims
+DHANBAD,0.0,Hand Drawn Vehicle,Total
+DHANBAD,0.0,Animal Drawn Vehicle,Offenders
+DHANBAD,0.0,Animal Drawn Vehicle,Victims
+DHANBAD,0.0,Animal Drawn Vehicle,Total
+DHANBAD,0.0,Pedestrian,Offenders
+DHANBAD,0.0,Pedestrian,Victims
+DHANBAD,0.0,Pedestrian,Total
+DHANBAD,0.0,Others,Offenders
+DHANBAD,0.0,Others,Victims
+DHANBAD,0.0,Others,Total
+DHANBAD,4.0,Truck/Lorry,Offenders
+DHANBAD,0.0,Truck/Lorry,Victims
+DHANBAD,4.0,Truck/Lorry,Total
+DHANBAD,1.0,Bus,Offenders
+DHANBAD,0.0,Bus,Victims
+DHANBAD,1.0,Bus,Total
+DHANBAD,3.0,SUV/Station Wagon/etc.,Offenders
+DHANBAD,0.0,SUV/Station Wagon/etc.,Victims
+DHANBAD,3.0,SUV/Station Wagon/etc.,Total
+DURG BHILAINAGAR,8.0,Car,Offenders
+DURG BHILAINAGAR,3.0,Car,Victims
+DURG BHILAINAGAR,11.0,Car,Total
+DURG BHILAINAGAR,0.0,Jeep,Offenders
+DURG BHILAINAGAR,0.0,Jeep,Victims
+DURG BHILAINAGAR,0.0,Jeep,Total
+DURG BHILAINAGAR,0.0,Tractor,Offenders
+DURG BHILAINAGAR,0.0,Tractor,Victims
+DURG BHILAINAGAR,0.0,Tractor,Total
+DURG BHILAINAGAR,0.0,Auto Rickshaw,Offenders
+DURG BHILAINAGAR,3.0,Auto Rickshaw,Victims
+DURG BHILAINAGAR,3.0,Auto Rickshaw,Total
+DURG BHILAINAGAR,34.0,Two Wheeler,Offenders
+DURG BHILAINAGAR,9.0,Two Wheeler,Victims
+DURG BHILAINAGAR,43.0,Two Wheeler,Total
+DURG BHILAINAGAR,0.0,Other Motor Vehicles,Offenders
+DURG BHILAINAGAR,0.0,Other Motor Vehicles,Victims
+DURG BHILAINAGAR,0.0,Other Motor Vehicles,Total
+DURG BHILAINAGAR,8.0,Bicycle,Offenders
+DURG BHILAINAGAR,3.0,Bicycle,Victims
+DURG BHILAINAGAR,11.0,Bicycle,Total
+DURG BHILAINAGAR,0.0,Hand Drawn Vehicle,Offenders
+DURG BHILAINAGAR,0.0,Hand Drawn Vehicle,Victims
+DURG BHILAINAGAR,0.0,Hand Drawn Vehicle,Total
+DURG BHILAINAGAR,0.0,Animal Drawn Vehicle,Offenders
+DURG BHILAINAGAR,0.0,Animal Drawn Vehicle,Victims
+DURG BHILAINAGAR,0.0,Animal Drawn Vehicle,Total
+DURG BHILAINAGAR,0.0,Pedestrian,Offenders
+DURG BHILAINAGAR,0.0,Pedestrian,Victims
+DURG BHILAINAGAR,0.0,Pedestrian,Total
+DURG BHILAINAGAR,0.0,Others,Offenders
+DURG BHILAINAGAR,0.0,Others,Victims
+DURG BHILAINAGAR,0.0,Others,Total
+DURG BHILAINAGAR,0.0,Truck/Lorry,Offenders
+DURG BHILAINAGAR,0.0,Truck/Lorry,Victims
+DURG BHILAINAGAR,0.0,Truck/Lorry,Total
+DURG BHILAINAGAR,1.0,Bus,Offenders
+DURG BHILAINAGAR,0.0,Bus,Victims
+DURG BHILAINAGAR,1.0,Bus,Total
+DURG BHILAINAGAR,0.0,SUV/Station Wagon/etc.,Offenders
+DURG BHILAINAGAR,0.0,SUV/Station Wagon/etc.,Victims
+DURG BHILAINAGAR,0.0,SUV/Station Wagon/etc.,Total
+FARIDABAD,0.0,Car,Offenders
+FARIDABAD,6.0,Car,Victims
+FARIDABAD,6.0,Car,Total
+FARIDABAD,0.0,Jeep,Offenders
+FARIDABAD,0.0,Jeep,Victims
+FARIDABAD,0.0,Jeep,Total
+FARIDABAD,0.0,Tractor,Offenders
+FARIDABAD,4.0,Tractor,Victims
+FARIDABAD,4.0,Tractor,Total
+FARIDABAD,0.0,Auto Rickshaw,Offenders
+FARIDABAD,4.0,Auto Rickshaw,Victims
+FARIDABAD,4.0,Auto Rickshaw,Total
+FARIDABAD,0.0,Two Wheeler,Offenders
+FARIDABAD,81.0,Two Wheeler,Victims
+FARIDABAD,81.0,Two Wheeler,Total
+FARIDABAD,0.0,Other Motor Vehicles,Offenders
+FARIDABAD,0.0,Other Motor Vehicles,Victims
+FARIDABAD,0.0,Other Motor Vehicles,Total
+FARIDABAD,0.0,Bicycle,Offenders
+FARIDABAD,17.0,Bicycle,Victims
+FARIDABAD,17.0,Bicycle,Total
+FARIDABAD,0.0,Hand Drawn Vehicle,Offenders
+FARIDABAD,0.0,Hand Drawn Vehicle,Victims
+FARIDABAD,0.0,Hand Drawn Vehicle,Total
+FARIDABAD,0.0,Animal Drawn Vehicle,Offenders
+FARIDABAD,0.0,Animal Drawn Vehicle,Victims
+FARIDABAD,0.0,Animal Drawn Vehicle,Total
+FARIDABAD,0.0,Pedestrian,Offenders
+FARIDABAD,68.0,Pedestrian,Victims
+FARIDABAD,68.0,Pedestrian,Total
+FARIDABAD,0.0,Others,Offenders
+FARIDABAD,41.0,Others,Victims
+FARIDABAD,41.0,Others,Total
+FARIDABAD,0.0,Truck/Lorry,Offenders
+FARIDABAD,8.0,Truck/Lorry,Victims
+FARIDABAD,8.0,Truck/Lorry,Total
+FARIDABAD,0.0,Bus,Offenders
+FARIDABAD,0.0,Bus,Victims
+FARIDABAD,0.0,Bus,Total
+FARIDABAD,0.0,SUV/Station Wagon/etc.,Offenders
+FARIDABAD,1.0,SUV/Station Wagon/etc.,Victims
+FARIDABAD,1.0,SUV/Station Wagon/etc.,Total
+GHAZIABAD,0.0,Car,Offenders
+GHAZIABAD,23.0,Car,Victims
+GHAZIABAD,23.0,Car,Total
+GHAZIABAD,0.0,Jeep,Offenders
+GHAZIABAD,0.0,Jeep,Victims
+GHAZIABAD,0.0,Jeep,Total
+GHAZIABAD,0.0,Tractor,Offenders
+GHAZIABAD,2.0,Tractor,Victims
+GHAZIABAD,2.0,Tractor,Total
+GHAZIABAD,0.0,Auto Rickshaw,Offenders
+GHAZIABAD,28.0,Auto Rickshaw,Victims
+GHAZIABAD,28.0,Auto Rickshaw,Total
+GHAZIABAD,0.0,Two Wheeler,Offenders
+GHAZIABAD,71.0,Two Wheeler,Victims
+GHAZIABAD,71.0,Two Wheeler,Total
+GHAZIABAD,0.0,Other Motor Vehicles,Offenders
+GHAZIABAD,3.0,Other Motor Vehicles,Victims
+GHAZIABAD,3.0,Other Motor Vehicles,Total
+GHAZIABAD,0.0,Bicycle,Offenders
+GHAZIABAD,6.0,Bicycle,Victims
+GHAZIABAD,6.0,Bicycle,Total
+GHAZIABAD,0.0,Hand Drawn Vehicle,Offenders
+GHAZIABAD,0.0,Hand Drawn Vehicle,Victims
+GHAZIABAD,0.0,Hand Drawn Vehicle,Total
+GHAZIABAD,0.0,Animal Drawn Vehicle,Offenders
+GHAZIABAD,0.0,Animal Drawn Vehicle,Victims
+GHAZIABAD,0.0,Animal Drawn Vehicle,Total
+GHAZIABAD,0.0,Pedestrian,Offenders
+GHAZIABAD,17.0,Pedestrian,Victims
+GHAZIABAD,17.0,Pedestrian,Total
+GHAZIABAD,0.0,Others,Offenders
+GHAZIABAD,0.0,Others,Victims
+GHAZIABAD,0.0,Others,Total
+GHAZIABAD,0.0,Truck/Lorry,Offenders
+GHAZIABAD,3.0,Truck/Lorry,Victims
+GHAZIABAD,3.0,Truck/Lorry,Total
+GHAZIABAD,0.0,Bus,Offenders
+GHAZIABAD,3.0,Bus,Victims
+GHAZIABAD,3.0,Bus,Total
+GHAZIABAD,0.0,SUV/Station Wagon/etc.,Offenders
+GHAZIABAD,8.0,SUV/Station Wagon/etc.,Victims
+GHAZIABAD,8.0,SUV/Station Wagon/etc.,Total
+GWALIOR,3.0,Car,Offenders
+GWALIOR,23.0,Car,Victims
+GWALIOR,26.0,Car,Total
+GWALIOR,0.0,Jeep,Offenders
+GWALIOR,0.0,Jeep,Victims
+GWALIOR,0.0,Jeep,Total
+GWALIOR,2.0,Tractor,Offenders
+GWALIOR,0.0,Tractor,Victims
+GWALIOR,2.0,Tractor,Total
+GWALIOR,2.0,Auto Rickshaw,Offenders
+GWALIOR,8.0,Auto Rickshaw,Victims
+GWALIOR,10.0,Auto Rickshaw,Total
+GWALIOR,8.0,Two Wheeler,Offenders
+GWALIOR,15.0,Two Wheeler,Victims
+GWALIOR,23.0,Two Wheeler,Total
+GWALIOR,0.0,Other Motor Vehicles,Offenders
+GWALIOR,0.0,Other Motor Vehicles,Victims
+GWALIOR,0.0,Other Motor Vehicles,Total
+GWALIOR,4.0,Bicycle,Offenders
+GWALIOR,0.0,Bicycle,Victims
+GWALIOR,4.0,Bicycle,Total
+GWALIOR,0.0,Hand Drawn Vehicle,Offenders
+GWALIOR,0.0,Hand Drawn Vehicle,Victims
+GWALIOR,0.0,Hand Drawn Vehicle,Total
+GWALIOR,0.0,Animal Drawn Vehicle,Offenders
+GWALIOR,0.0,Animal Drawn Vehicle,Victims
+GWALIOR,0.0,Animal Drawn Vehicle,Total
+GWALIOR,0.0,Pedestrian,Offenders
+GWALIOR,33.0,Pedestrian,Victims
+GWALIOR,33.0,Pedestrian,Total
+GWALIOR,0.0,Others,Offenders
+GWALIOR,0.0,Others,Victims
+GWALIOR,0.0,Others,Total
+GWALIOR,2.0,Truck/Lorry,Offenders
+GWALIOR,14.0,Truck/Lorry,Victims
+GWALIOR,16.0,Truck/Lorry,Total
+GWALIOR,0.0,Bus,Offenders
+GWALIOR,9.0,Bus,Victims
+GWALIOR,9.0,Bus,Total
+GWALIOR,2.0,SUV/Station Wagon/etc.,Offenders
+GWALIOR,5.0,SUV/Station Wagon/etc.,Victims
+GWALIOR,7.0,SUV/Station Wagon/etc.,Total
+HYDERABAD,12.0,Car,Offenders
+HYDERABAD,14.0,Car,Victims
+HYDERABAD,26.0,Car,Total
+HYDERABAD,0.0,Jeep,Offenders
+HYDERABAD,0.0,Jeep,Victims
+HYDERABAD,0.0,Jeep,Total
+HYDERABAD,0.0,Tractor,Offenders
+HYDERABAD,0.0,Tractor,Victims
+HYDERABAD,0.0,Tractor,Total
+HYDERABAD,25.0,Auto Rickshaw,Offenders
+HYDERABAD,40.0,Auto Rickshaw,Victims
+HYDERABAD,65.0,Auto Rickshaw,Total
+HYDERABAD,69.0,Two Wheeler,Offenders
+HYDERABAD,77.0,Two Wheeler,Victims
+HYDERABAD,146.0,Two Wheeler,Total
+HYDERABAD,0.0,Other Motor Vehicles,Offenders
+HYDERABAD,0.0,Other Motor Vehicles,Victims
+HYDERABAD,0.0,Other Motor Vehicles,Total
+HYDERABAD,0.0,Bicycle,Offenders
+HYDERABAD,0.0,Bicycle,Victims
+HYDERABAD,0.0,Bicycle,Total
+HYDERABAD,0.0,Hand Drawn Vehicle,Offenders
+HYDERABAD,0.0,Hand Drawn Vehicle,Victims
+HYDERABAD,0.0,Hand Drawn Vehicle,Total
+HYDERABAD,0.0,Animal Drawn Vehicle,Offenders
+HYDERABAD,0.0,Animal Drawn Vehicle,Victims
+HYDERABAD,0.0,Animal Drawn Vehicle,Total
+HYDERABAD,0.0,Pedestrian,Offenders
+HYDERABAD,0.0,Pedestrian,Victims
+HYDERABAD,0.0,Pedestrian,Total
+HYDERABAD,0.0,Others,Offenders
+HYDERABAD,0.0,Others,Victims
+HYDERABAD,0.0,Others,Total
+HYDERABAD,4.0,Truck/Lorry,Offenders
+HYDERABAD,2.0,Truck/Lorry,Victims
+HYDERABAD,6.0,Truck/Lorry,Total
+HYDERABAD,4.0,Bus,Offenders
+HYDERABAD,4.0,Bus,Victims
+HYDERABAD,8.0,Bus,Total
+HYDERABAD,1.0,SUV/Station Wagon/etc.,Offenders
+HYDERABAD,2.0,SUV/Station Wagon/etc.,Victims
+HYDERABAD,3.0,SUV/Station Wagon/etc.,Total
+INDORE,0.0,Car,Offenders
+INDORE,9.0,Car,Victims
+INDORE,9.0,Car,Total
+INDORE,0.0,Jeep,Offenders
+INDORE,4.0,Jeep,Victims
+INDORE,4.0,Jeep,Total
+INDORE,0.0,Tractor,Offenders
+INDORE,2.0,Tractor,Victims
+INDORE,2.0,Tractor,Total
+INDORE,0.0,Auto Rickshaw,Offenders
+INDORE,2.0,Auto Rickshaw,Victims
+INDORE,2.0,Auto Rickshaw,Total
+INDORE,0.0,Two Wheeler,Offenders
+INDORE,128.0,Two Wheeler,Victims
+INDORE,128.0,Two Wheeler,Total
+INDORE,0.0,Other Motor Vehicles,Offenders
+INDORE,7.0,Other Motor Vehicles,Victims
+INDORE,7.0,Other Motor Vehicles,Total
+INDORE,0.0,Bicycle,Offenders
+INDORE,2.0,Bicycle,Victims
+INDORE,2.0,Bicycle,Total
+INDORE,0.0,Hand Drawn Vehicle,Offenders
+INDORE,0.0,Hand Drawn Vehicle,Victims
+INDORE,0.0,Hand Drawn Vehicle,Total
+INDORE,0.0,Animal Drawn Vehicle,Offenders
+INDORE,0.0,Animal Drawn Vehicle,Victims
+INDORE,0.0,Animal Drawn Vehicle,Total
+INDORE,0.0,Pedestrian,Offenders
+INDORE,56.0,Pedestrian,Victims
+INDORE,56.0,Pedestrian,Total
+INDORE,0.0,Others,Offenders
+INDORE,0.0,Others,Victims
+INDORE,0.0,Others,Total
+INDORE,0.0,Truck/Lorry,Offenders
+INDORE,2.0,Truck/Lorry,Victims
+INDORE,2.0,Truck/Lorry,Total
+INDORE,0.0,Bus,Offenders
+INDORE,1.0,Bus,Victims
+INDORE,1.0,Bus,Total
+INDORE,0.0,SUV/Station Wagon/etc.,Offenders
+INDORE,0.0,SUV/Station Wagon/etc.,Victims
+INDORE,0.0,SUV/Station Wagon/etc.,Total
+JABALPUR,16.0,Car,Offenders
+JABALPUR,15.0,Car,Victims
+JABALPUR,31.0,Car,Total
+JABALPUR,0.0,Jeep,Offenders
+JABALPUR,0.0,Jeep,Victims
+JABALPUR,0.0,Jeep,Total
+JABALPUR,2.0,Tractor,Offenders
+JABALPUR,3.0,Tractor,Victims
+JABALPUR,5.0,Tractor,Total
+JABALPUR,3.0,Auto Rickshaw,Offenders
+JABALPUR,6.0,Auto Rickshaw,Victims
+JABALPUR,9.0,Auto Rickshaw,Total
+JABALPUR,32.0,Two Wheeler,Offenders
+JABALPUR,43.0,Two Wheeler,Victims
+JABALPUR,75.0,Two Wheeler,Total
+JABALPUR,11.0,Other Motor Vehicles,Offenders
+JABALPUR,13.0,Other Motor Vehicles,Victims
+JABALPUR,24.0,Other Motor Vehicles,Total
+JABALPUR,1.0,Bicycle,Offenders
+JABALPUR,0.0,Bicycle,Victims
+JABALPUR,1.0,Bicycle,Total
+JABALPUR,0.0,Hand Drawn Vehicle,Offenders
+JABALPUR,0.0,Hand Drawn Vehicle,Victims
+JABALPUR,0.0,Hand Drawn Vehicle,Total
+JABALPUR,0.0,Animal Drawn Vehicle,Offenders
+JABALPUR,0.0,Animal Drawn Vehicle,Victims
+JABALPUR,0.0,Animal Drawn Vehicle,Total
+JABALPUR,1.0,Pedestrian,Offenders
+JABALPUR,1.0,Pedestrian,Victims
+JABALPUR,2.0,Pedestrian,Total
+JABALPUR,1.0,Others,Offenders
+JABALPUR,1.0,Others,Victims
+JABALPUR,2.0,Others,Total
+JABALPUR,21.0,Truck/Lorry,Offenders
+JABALPUR,31.0,Truck/Lorry,Victims
+JABALPUR,52.0,Truck/Lorry,Total
+JABALPUR,2.0,Bus,Offenders
+JABALPUR,7.0,Bus,Victims
+JABALPUR,9.0,Bus,Total
+JABALPUR,12.0,SUV/Station Wagon/etc.,Offenders
+JABALPUR,10.0,SUV/Station Wagon/etc.,Victims
+JABALPUR,22.0,SUV/Station Wagon/etc.,Total
+JAIPUR,17.0,Car,Offenders
+JAIPUR,52.0,Car,Victims
+JAIPUR,69.0,Car,Total
+JAIPUR,2.0,Jeep,Offenders
+JAIPUR,5.0,Jeep,Victims
+JAIPUR,7.0,Jeep,Total
+JAIPUR,3.0,Tractor,Offenders
+JAIPUR,17.0,Tractor,Victims
+JAIPUR,20.0,Tractor,Total
+JAIPUR,3.0,Auto Rickshaw,Offenders
+JAIPUR,6.0,Auto Rickshaw,Victims
+JAIPUR,9.0,Auto Rickshaw,Total
+JAIPUR,79.0,Two Wheeler,Offenders
+JAIPUR,125.0,Two Wheeler,Victims
+JAIPUR,204.0,Two Wheeler,Total
+JAIPUR,1.0,Other Motor Vehicles,Offenders
+JAIPUR,16.0,Other Motor Vehicles,Victims
+JAIPUR,17.0,Other Motor Vehicles,Total
+JAIPUR,1.0,Bicycle,Offenders
+JAIPUR,6.0,Bicycle,Victims
+JAIPUR,7.0,Bicycle,Total
+JAIPUR,0.0,Hand Drawn Vehicle,Offenders
+JAIPUR,0.0,Hand Drawn Vehicle,Victims
+JAIPUR,0.0,Hand Drawn Vehicle,Total
+JAIPUR,0.0,Animal Drawn Vehicle,Offenders
+JAIPUR,1.0,Animal Drawn Vehicle,Victims
+JAIPUR,1.0,Animal Drawn Vehicle,Total
+JAIPUR,0.0,Pedestrian,Offenders
+JAIPUR,78.0,Pedestrian,Victims
+JAIPUR,78.0,Pedestrian,Total
+JAIPUR,26.0,Others,Offenders
+JAIPUR,2.0,Others,Victims
+JAIPUR,28.0,Others,Total
+JAIPUR,37.0,Truck/Lorry,Offenders
+JAIPUR,50.0,Truck/Lorry,Victims
+JAIPUR,87.0,Truck/Lorry,Total
+JAIPUR,9.0,Bus,Offenders
+JAIPUR,19.0,Bus,Victims
+JAIPUR,28.0,Bus,Total
+JAIPUR,18.0,SUV/Station Wagon/etc.,Offenders
+JAIPUR,33.0,SUV/Station Wagon/etc.,Victims
+JAIPUR,51.0,SUV/Station Wagon/etc.,Total
+JAMSHEDPUR,3.0,Car,Offenders
+JAMSHEDPUR,4.0,Car,Victims
+JAMSHEDPUR,7.0,Car,Total
+JAMSHEDPUR,0.0,Jeep,Offenders
+JAMSHEDPUR,0.0,Jeep,Victims
+JAMSHEDPUR,0.0,Jeep,Total
+JAMSHEDPUR,0.0,Tractor,Offenders
+JAMSHEDPUR,0.0,Tractor,Victims
+JAMSHEDPUR,0.0,Tractor,Total
+JAMSHEDPUR,2.0,Auto Rickshaw,Offenders
+JAMSHEDPUR,3.0,Auto Rickshaw,Victims
+JAMSHEDPUR,5.0,Auto Rickshaw,Total
+JAMSHEDPUR,18.0,Two Wheeler,Offenders
+JAMSHEDPUR,10.0,Two Wheeler,Victims
+JAMSHEDPUR,28.0,Two Wheeler,Total
+JAMSHEDPUR,0.0,Other Motor Vehicles,Offenders
+JAMSHEDPUR,0.0,Other Motor Vehicles,Victims
+JAMSHEDPUR,0.0,Other Motor Vehicles,Total
+JAMSHEDPUR,1.0,Bicycle,Offenders
+JAMSHEDPUR,0.0,Bicycle,Victims
+JAMSHEDPUR,1.0,Bicycle,Total
+JAMSHEDPUR,0.0,Hand Drawn Vehicle,Offenders
+JAMSHEDPUR,0.0,Hand Drawn Vehicle,Victims
+JAMSHEDPUR,0.0,Hand Drawn Vehicle,Total
+JAMSHEDPUR,0.0,Animal Drawn Vehicle,Offenders
+JAMSHEDPUR,0.0,Animal Drawn Vehicle,Victims
+JAMSHEDPUR,0.0,Animal Drawn Vehicle,Total
+JAMSHEDPUR,0.0,Pedestrian,Offenders
+JAMSHEDPUR,2.0,Pedestrian,Victims
+JAMSHEDPUR,2.0,Pedestrian,Total
+JAMSHEDPUR,0.0,Others,Offenders
+JAMSHEDPUR,0.0,Others,Victims
+JAMSHEDPUR,0.0,Others,Total
+JAMSHEDPUR,0.0,Truck/Lorry,Offenders
+JAMSHEDPUR,0.0,Truck/Lorry,Victims
+JAMSHEDPUR,0.0,Truck/Lorry,Total
+JAMSHEDPUR,1.0,Bus,Offenders
+JAMSHEDPUR,3.0,Bus,Victims
+JAMSHEDPUR,4.0,Bus,Total
+JAMSHEDPUR,0.0,SUV/Station Wagon/etc.,Offenders
+JAMSHEDPUR,0.0,SUV/Station Wagon/etc.,Victims
+JAMSHEDPUR,0.0,SUV/Station Wagon/etc.,Total
+JODHPUR,9.0,Car,Offenders
+JODHPUR,14.0,Car,Victims
+JODHPUR,23.0,Car,Total
+JODHPUR,2.0,Jeep,Offenders
+JODHPUR,4.0,Jeep,Victims
+JODHPUR,6.0,Jeep,Total
+JODHPUR,0.0,Tractor,Offenders
+JODHPUR,0.0,Tractor,Victims
+JODHPUR,0.0,Tractor,Total
+JODHPUR,2.0,Auto Rickshaw,Offenders
+JODHPUR,4.0,Auto Rickshaw,Victims
+JODHPUR,6.0,Auto Rickshaw,Total
+JODHPUR,90.0,Two Wheeler,Offenders
+JODHPUR,23.0,Two Wheeler,Victims
+JODHPUR,113.0,Two Wheeler,Total
+JODHPUR,0.0,Other Motor Vehicles,Offenders
+JODHPUR,0.0,Other Motor Vehicles,Victims
+JODHPUR,0.0,Other Motor Vehicles,Total
+JODHPUR,0.0,Bicycle,Offenders
+JODHPUR,10.0,Bicycle,Victims
+JODHPUR,10.0,Bicycle,Total
+JODHPUR,0.0,Hand Drawn Vehicle,Offenders
+JODHPUR,0.0,Hand Drawn Vehicle,Victims
+JODHPUR,0.0,Hand Drawn Vehicle,Total
+JODHPUR,0.0,Animal Drawn Vehicle,Offenders
+JODHPUR,0.0,Animal Drawn Vehicle,Victims
+JODHPUR,0.0,Animal Drawn Vehicle,Total
+JODHPUR,0.0,Pedestrian,Offenders
+JODHPUR,0.0,Pedestrian,Victims
+JODHPUR,0.0,Pedestrian,Total
+JODHPUR,1.0,Others,Offenders
+JODHPUR,5.0,Others,Victims
+JODHPUR,6.0,Others,Total
+JODHPUR,5.0,Truck/Lorry,Offenders
+JODHPUR,5.0,Truck/Lorry,Victims
+JODHPUR,10.0,Truck/Lorry,Total
+JODHPUR,0.0,Bus,Offenders
+JODHPUR,30.0,Bus,Victims
+JODHPUR,30.0,Bus,Total
+JODHPUR,1.0,SUV/Station Wagon/etc.,Offenders
+JODHPUR,1.0,SUV/Station Wagon/etc.,Victims
+JODHPUR,2.0,SUV/Station Wagon/etc.,Total
+KANNUR,2.0,Car,Offenders
+KANNUR,4.0,Car,Victims
+KANNUR,6.0,Car,Total
+KANNUR,0.0,Jeep,Offenders
+KANNUR,0.0,Jeep,Victims
+KANNUR,0.0,Jeep,Total
+KANNUR,0.0,Tractor,Offenders
+KANNUR,0.0,Tractor,Victims
+KANNUR,0.0,Tractor,Total
+KANNUR,1.0,Auto Rickshaw,Offenders
+KANNUR,0.0,Auto Rickshaw,Victims
+KANNUR,1.0,Auto Rickshaw,Total
+KANNUR,3.0,Two Wheeler,Offenders
+KANNUR,25.0,Two Wheeler,Victims
+KANNUR,28.0,Two Wheeler,Total
+KANNUR,0.0,Other Motor Vehicles,Offenders
+KANNUR,0.0,Other Motor Vehicles,Victims
+KANNUR,0.0,Other Motor Vehicles,Total
+KANNUR,0.0,Bicycle,Offenders
+KANNUR,4.0,Bicycle,Victims
+KANNUR,4.0,Bicycle,Total
+KANNUR,0.0,Hand Drawn Vehicle,Offenders
+KANNUR,0.0,Hand Drawn Vehicle,Victims
+KANNUR,0.0,Hand Drawn Vehicle,Total
+KANNUR,0.0,Animal Drawn Vehicle,Offenders
+KANNUR,0.0,Animal Drawn Vehicle,Victims
+KANNUR,0.0,Animal Drawn Vehicle,Total
+KANNUR,0.0,Pedestrian,Offenders
+KANNUR,18.0,Pedestrian,Victims
+KANNUR,18.0,Pedestrian,Total
+KANNUR,0.0,Others,Offenders
+KANNUR,0.0,Others,Victims
+KANNUR,0.0,Others,Total
+KANNUR,0.0,Truck/Lorry,Offenders
+KANNUR,0.0,Truck/Lorry,Victims
+KANNUR,0.0,Truck/Lorry,Total
+KANNUR,0.0,Bus,Offenders
+KANNUR,0.0,Bus,Victims
+KANNUR,0.0,Bus,Total
+KANNUR,0.0,SUV/Station Wagon/etc.,Offenders
+KANNUR,0.0,SUV/Station Wagon/etc.,Victims
+KANNUR,0.0,SUV/Station Wagon/etc.,Total
+KANPUR,22.0,Car,Offenders
+KANPUR,36.0,Car,Victims
+KANPUR,58.0,Car,Total
+KANPUR,1.0,Jeep,Offenders
+KANPUR,10.0,Jeep,Victims
+KANPUR,11.0,Jeep,Total
+KANPUR,0.0,Tractor,Offenders
+KANPUR,4.0,Tractor,Victims
+KANPUR,4.0,Tractor,Total
+KANPUR,7.0,Auto Rickshaw,Offenders
+KANPUR,14.0,Auto Rickshaw,Victims
+KANPUR,21.0,Auto Rickshaw,Total
+KANPUR,81.0,Two Wheeler,Offenders
+KANPUR,69.0,Two Wheeler,Victims
+KANPUR,150.0,Two Wheeler,Total
+KANPUR,0.0,Other Motor Vehicles,Offenders
+KANPUR,0.0,Other Motor Vehicles,Victims
+KANPUR,0.0,Other Motor Vehicles,Total
+KANPUR,0.0,Bicycle,Offenders
+KANPUR,0.0,Bicycle,Victims
+KANPUR,0.0,Bicycle,Total
+KANPUR,0.0,Hand Drawn Vehicle,Offenders
+KANPUR,0.0,Hand Drawn Vehicle,Victims
+KANPUR,0.0,Hand Drawn Vehicle,Total
+KANPUR,0.0,Animal Drawn Vehicle,Offenders
+KANPUR,0.0,Animal Drawn Vehicle,Victims
+KANPUR,0.0,Animal Drawn Vehicle,Total
+KANPUR,0.0,Pedestrian,Offenders
+KANPUR,0.0,Pedestrian,Victims
+KANPUR,0.0,Pedestrian,Total
+KANPUR,0.0,Others,Offenders
+KANPUR,0.0,Others,Victims
+KANPUR,0.0,Others,Total
+KANPUR,26.0,Truck/Lorry,Offenders
+KANPUR,88.0,Truck/Lorry,Victims
+KANPUR,114.0,Truck/Lorry,Total
+KANPUR,19.0,Bus,Offenders
+KANPUR,26.0,Bus,Victims
+KANPUR,45.0,Bus,Total
+KANPUR,0.0,SUV/Station Wagon/etc.,Offenders
+KANPUR,13.0,SUV/Station Wagon/etc.,Victims
+KANPUR,13.0,SUV/Station Wagon/etc.,Total
+KOCHI,0.0,Car,Offenders
+KOCHI,16.0,Car,Victims
+KOCHI,16.0,Car,Total
+KOCHI,0.0,Jeep,Offenders
+KOCHI,0.0,Jeep,Victims
+KOCHI,0.0,Jeep,Total
+KOCHI,0.0,Tractor,Offenders
+KOCHI,0.0,Tractor,Victims
+KOCHI,0.0,Tractor,Total
+KOCHI,0.0,Auto Rickshaw,Offenders
+KOCHI,0.0,Auto Rickshaw,Victims
+KOCHI,0.0,Auto Rickshaw,Total
+KOCHI,0.0,Two Wheeler,Offenders
+KOCHI,53.0,Two Wheeler,Victims
+KOCHI,53.0,Two Wheeler,Total
+KOCHI,0.0,Other Motor Vehicles,Offenders
+KOCHI,0.0,Other Motor Vehicles,Victims
+KOCHI,0.0,Other Motor Vehicles,Total
+KOCHI,0.0,Bicycle,Offenders
+KOCHI,4.0,Bicycle,Victims
+KOCHI,4.0,Bicycle,Total
+KOCHI,0.0,Hand Drawn Vehicle,Offenders
+KOCHI,0.0,Hand Drawn Vehicle,Victims
+KOCHI,0.0,Hand Drawn Vehicle,Total
+KOCHI,0.0,Animal Drawn Vehicle,Offenders
+KOCHI,0.0,Animal Drawn Vehicle,Victims
+KOCHI,0.0,Animal Drawn Vehicle,Total
+KOCHI,0.0,Pedestrian,Offenders
+KOCHI,27.0,Pedestrian,Victims
+KOCHI,27.0,Pedestrian,Total
+KOCHI,0.0,Others,Offenders
+KOCHI,0.0,Others,Victims
+KOCHI,0.0,Others,Total
+KOCHI,0.0,Truck/Lorry,Offenders
+KOCHI,0.0,Truck/Lorry,Victims
+KOCHI,0.0,Truck/Lorry,Total
+KOCHI,0.0,Bus,Offenders
+KOCHI,1.0,Bus,Victims
+KOCHI,1.0,Bus,Total
+KOCHI,0.0,SUV/Station Wagon/etc.,Offenders
+KOCHI,0.0,SUV/Station Wagon/etc.,Victims
+KOCHI,0.0,SUV/Station Wagon/etc.,Total
+KOLKATA,0.0,Car,Offenders
+KOLKATA,34.0,Car,Victims
+KOLKATA,34.0,Car,Total
+KOLKATA,0.0,Jeep,Offenders
+KOLKATA,0.0,Jeep,Victims
+KOLKATA,0.0,Jeep,Total
+KOLKATA,0.0,Tractor,Offenders
+KOLKATA,0.0,Tractor,Victims
+KOLKATA,0.0,Tractor,Total
+KOLKATA,0.0,Auto Rickshaw,Offenders
+KOLKATA,6.0,Auto Rickshaw,Victims
+KOLKATA,6.0,Auto Rickshaw,Total
+KOLKATA,0.0,Two Wheeler,Offenders
+KOLKATA,36.0,Two Wheeler,Victims
+KOLKATA,36.0,Two Wheeler,Total
+KOLKATA,0.0,Other Motor Vehicles,Offenders
+KOLKATA,4.0,Other Motor Vehicles,Victims
+KOLKATA,4.0,Other Motor Vehicles,Total
+KOLKATA,0.0,Bicycle,Offenders
+KOLKATA,0.0,Bicycle,Victims
+KOLKATA,0.0,Bicycle,Total
+KOLKATA,0.0,Hand Drawn Vehicle,Offenders
+KOLKATA,0.0,Hand Drawn Vehicle,Victims
+KOLKATA,0.0,Hand Drawn Vehicle,Total
+KOLKATA,0.0,Animal Drawn Vehicle,Offenders
+KOLKATA,0.0,Animal Drawn Vehicle,Victims
+KOLKATA,0.0,Animal Drawn Vehicle,Total
+KOLKATA,0.0,Pedestrian,Offenders
+KOLKATA,0.0,Pedestrian,Victims
+KOLKATA,0.0,Pedestrian,Total
+KOLKATA,0.0,Others,Offenders
+KOLKATA,0.0,Others,Victims
+KOLKATA,0.0,Others,Total
+KOLKATA,0.0,Truck/Lorry,Offenders
+KOLKATA,63.0,Truck/Lorry,Victims
+KOLKATA,63.0,Truck/Lorry,Total
+KOLKATA,0.0,Bus,Offenders
+KOLKATA,55.0,Bus,Victims
+KOLKATA,55.0,Bus,Total
+KOLKATA,0.0,SUV/Station Wagon/etc.,Offenders
+KOLKATA,3.0,SUV/Station Wagon/etc.,Victims
+KOLKATA,3.0,SUV/Station Wagon/etc.,Total
+KOLLAM,0.0,Car,Offenders
+KOLLAM,7.0,Car,Victims
+KOLLAM,7.0,Car,Total
+KOLLAM,0.0,Jeep,Offenders
+KOLLAM,0.0,Jeep,Victims
+KOLLAM,0.0,Jeep,Total
+KOLLAM,0.0,Tractor,Offenders
+KOLLAM,0.0,Tractor,Victims
+KOLLAM,0.0,Tractor,Total
+KOLLAM,0.0,Auto Rickshaw,Offenders
+KOLLAM,3.0,Auto Rickshaw,Victims
+KOLLAM,3.0,Auto Rickshaw,Total
+KOLLAM,1.0,Two Wheeler,Offenders
+KOLLAM,118.0,Two Wheeler,Victims
+KOLLAM,119.0,Two Wheeler,Total
+KOLLAM,0.0,Other Motor Vehicles,Offenders
+KOLLAM,0.0,Other Motor Vehicles,Victims
+KOLLAM,0.0,Other Motor Vehicles,Total
+KOLLAM,0.0,Bicycle,Offenders
+KOLLAM,13.0,Bicycle,Victims
+KOLLAM,13.0,Bicycle,Total
+KOLLAM,0.0,Hand Drawn Vehicle,Offenders
+KOLLAM,0.0,Hand Drawn Vehicle,Victims
+KOLLAM,0.0,Hand Drawn Vehicle,Total
+KOLLAM,0.0,Animal Drawn Vehicle,Offenders
+KOLLAM,0.0,Animal Drawn Vehicle,Victims
+KOLLAM,0.0,Animal Drawn Vehicle,Total
+KOLLAM,0.0,Pedestrian,Offenders
+KOLLAM,47.0,Pedestrian,Victims
+KOLLAM,47.0,Pedestrian,Total
+KOLLAM,0.0,Others,Offenders
+KOLLAM,0.0,Others,Victims
+KOLLAM,0.0,Others,Total
+KOLLAM,0.0,Truck/Lorry,Offenders
+KOLLAM,0.0,Truck/Lorry,Victims
+KOLLAM,0.0,Truck/Lorry,Total
+KOLLAM,0.0,Bus,Offenders
+KOLLAM,0.0,Bus,Victims
+KOLLAM,0.0,Bus,Total
+KOLLAM,0.0,SUV/Station Wagon/etc.,Offenders
+KOLLAM,5.0,SUV/Station Wagon/etc.,Victims
+KOLLAM,5.0,SUV/Station Wagon/etc.,Total
+KOTA,0.0,Car,Offenders
+KOTA,0.0,Car,Victims
+KOTA,0.0,Car,Total
+KOTA,0.0,Jeep,Offenders
+KOTA,0.0,Jeep,Victims
+KOTA,0.0,Jeep,Total
+KOTA,0.0,Tractor,Offenders
+KOTA,0.0,Tractor,Victims
+KOTA,0.0,Tractor,Total
+KOTA,0.0,Auto Rickshaw,Offenders
+KOTA,1.0,Auto Rickshaw,Victims
+KOTA,1.0,Auto Rickshaw,Total
+KOTA,34.0,Two Wheeler,Offenders
+KOTA,8.0,Two Wheeler,Victims
+KOTA,42.0,Two Wheeler,Total
+KOTA,0.0,Other Motor Vehicles,Offenders
+KOTA,1.0,Other Motor Vehicles,Victims
+KOTA,1.0,Other Motor Vehicles,Total
+KOTA,1.0,Bicycle,Offenders
+KOTA,0.0,Bicycle,Victims
+KOTA,1.0,Bicycle,Total
+KOTA,0.0,Hand Drawn Vehicle,Offenders
+KOTA,0.0,Hand Drawn Vehicle,Victims
+KOTA,0.0,Hand Drawn Vehicle,Total
+KOTA,0.0,Animal Drawn Vehicle,Offenders
+KOTA,0.0,Animal Drawn Vehicle,Victims
+KOTA,0.0,Animal Drawn Vehicle,Total
+KOTA,0.0,Pedestrian,Offenders
+KOTA,15.0,Pedestrian,Victims
+KOTA,15.0,Pedestrian,Total
+KOTA,0.0,Others,Offenders
+KOTA,0.0,Others,Victims
+KOTA,0.0,Others,Total
+KOTA,0.0,Truck/Lorry,Offenders
+KOTA,0.0,Truck/Lorry,Victims
+KOTA,0.0,Truck/Lorry,Total
+KOTA,0.0,Bus,Offenders
+KOTA,0.0,Bus,Victims
+KOTA,0.0,Bus,Total
+KOTA,0.0,SUV/Station Wagon/etc.,Offenders
+KOTA,0.0,SUV/Station Wagon/etc.,Victims
+KOTA,0.0,SUV/Station Wagon/etc.,Total
+KOZHIKODE,0.0,Car,Offenders
+KOZHIKODE,15.0,Car,Victims
+KOZHIKODE,15.0,Car,Total
+KOZHIKODE,0.0,Jeep,Offenders
+KOZHIKODE,2.0,Jeep,Victims
+KOZHIKODE,2.0,Jeep,Total
+KOZHIKODE,0.0,Tractor,Offenders
+KOZHIKODE,0.0,Tractor,Victims
+KOZHIKODE,0.0,Tractor,Total
+KOZHIKODE,0.0,Auto Rickshaw,Offenders
+KOZHIKODE,5.0,Auto Rickshaw,Victims
+KOZHIKODE,5.0,Auto Rickshaw,Total
+KOZHIKODE,0.0,Two Wheeler,Offenders
+KOZHIKODE,32.0,Two Wheeler,Victims
+KOZHIKODE,32.0,Two Wheeler,Total
+KOZHIKODE,0.0,Other Motor Vehicles,Offenders
+KOZHIKODE,0.0,Other Motor Vehicles,Victims
+KOZHIKODE,0.0,Other Motor Vehicles,Total
+KOZHIKODE,0.0,Bicycle,Offenders
+KOZHIKODE,0.0,Bicycle,Victims
+KOZHIKODE,0.0,Bicycle,Total
+KOZHIKODE,0.0,Hand Drawn Vehicle,Offenders
+KOZHIKODE,0.0,Hand Drawn Vehicle,Victims
+KOZHIKODE,0.0,Hand Drawn Vehicle,Total
+KOZHIKODE,0.0,Animal Drawn Vehicle,Offenders
+KOZHIKODE,0.0,Animal Drawn Vehicle,Victims
+KOZHIKODE,0.0,Animal Drawn Vehicle,Total
+KOZHIKODE,0.0,Pedestrian,Offenders
+KOZHIKODE,20.0,Pedestrian,Victims
+KOZHIKODE,20.0,Pedestrian,Total
+KOZHIKODE,0.0,Others,Offenders
+KOZHIKODE,0.0,Others,Victims
+KOZHIKODE,0.0,Others,Total
+KOZHIKODE,0.0,Truck/Lorry,Offenders
+KOZHIKODE,12.0,Truck/Lorry,Victims
+KOZHIKODE,12.0,Truck/Lorry,Total
+KOZHIKODE,0.0,Bus,Offenders
+KOZHIKODE,5.0,Bus,Victims
+KOZHIKODE,5.0,Bus,Total
+KOZHIKODE,0.0,SUV/Station Wagon/etc.,Offenders
+KOZHIKODE,0.0,SUV/Station Wagon/etc.,Victims
+KOZHIKODE,0.0,SUV/Station Wagon/etc.,Total
+LUCKNOW,51.0,Car,Offenders
+LUCKNOW,47.0,Car,Victims
+LUCKNOW,98.0,Car,Total
+LUCKNOW,0.0,Jeep,Offenders
+LUCKNOW,0.0,Jeep,Victims
+LUCKNOW,0.0,Jeep,Total
+LUCKNOW,6.0,Tractor,Offenders
+LUCKNOW,1.0,Tractor,Victims
+LUCKNOW,7.0,Tractor,Total
+LUCKNOW,0.0,Auto Rickshaw,Offenders
+LUCKNOW,3.0,Auto Rickshaw,Victims
+LUCKNOW,3.0,Auto Rickshaw,Total
+LUCKNOW,60.0,Two Wheeler,Offenders
+LUCKNOW,55.0,Two Wheeler,Victims
+LUCKNOW,115.0,Two Wheeler,Total
+LUCKNOW,0.0,Other Motor Vehicles,Offenders
+LUCKNOW,7.0,Other Motor Vehicles,Victims
+LUCKNOW,7.0,Other Motor Vehicles,Total
+LUCKNOW,0.0,Bicycle,Offenders
+LUCKNOW,4.0,Bicycle,Victims
+LUCKNOW,4.0,Bicycle,Total
+LUCKNOW,0.0,Hand Drawn Vehicle,Offenders
+LUCKNOW,0.0,Hand Drawn Vehicle,Victims
+LUCKNOW,0.0,Hand Drawn Vehicle,Total
+LUCKNOW,0.0,Animal Drawn Vehicle,Offenders
+LUCKNOW,0.0,Animal Drawn Vehicle,Victims
+LUCKNOW,0.0,Animal Drawn Vehicle,Total
+LUCKNOW,0.0,Pedestrian,Offenders
+LUCKNOW,0.0,Pedestrian,Victims
+LUCKNOW,0.0,Pedestrian,Total
+LUCKNOW,0.0,Others,Offenders
+LUCKNOW,22.0,Others,Victims
+LUCKNOW,22.0,Others,Total
+LUCKNOW,102.0,Truck/Lorry,Offenders
+LUCKNOW,50.0,Truck/Lorry,Victims
+LUCKNOW,152.0,Truck/Lorry,Total
+LUCKNOW,18.0,Bus,Offenders
+LUCKNOW,6.0,Bus,Victims
+LUCKNOW,24.0,Bus,Total
+LUCKNOW,5.0,SUV/Station Wagon/etc.,Offenders
+LUCKNOW,4.0,SUV/Station Wagon/etc.,Victims
+LUCKNOW,9.0,SUV/Station Wagon/etc.,Total
+LUDHIANA,9.0,Car,Offenders
+LUDHIANA,23.0,Car,Victims
+LUDHIANA,32.0,Car,Total
+LUDHIANA,1.0,Jeep,Offenders
+LUDHIANA,5.0,Jeep,Victims
+LUDHIANA,6.0,Jeep,Total
+LUDHIANA,1.0,Tractor,Offenders
+LUDHIANA,7.0,Tractor,Victims
+LUDHIANA,8.0,Tractor,Total
+LUDHIANA,2.0,Auto Rickshaw,Offenders
+LUDHIANA,7.0,Auto Rickshaw,Victims
+LUDHIANA,9.0,Auto Rickshaw,Total
+LUDHIANA,57.0,Two Wheeler,Offenders
+LUDHIANA,18.0,Two Wheeler,Victims
+LUDHIANA,75.0,Two Wheeler,Total
+LUDHIANA,1.0,Other Motor Vehicles,Offenders
+LUDHIANA,46.0,Other Motor Vehicles,Victims
+LUDHIANA,47.0,Other Motor Vehicles,Total
+LUDHIANA,4.0,Bicycle,Offenders
+LUDHIANA,0.0,Bicycle,Victims
+LUDHIANA,4.0,Bicycle,Total
+LUDHIANA,0.0,Hand Drawn Vehicle,Offenders
+LUDHIANA,1.0,Hand Drawn Vehicle,Victims
+LUDHIANA,1.0,Hand Drawn Vehicle,Total
+LUDHIANA,0.0,Animal Drawn Vehicle,Offenders
+LUDHIANA,0.0,Animal Drawn Vehicle,Victims
+LUDHIANA,0.0,Animal Drawn Vehicle,Total
+LUDHIANA,16.0,Pedestrian,Offenders
+LUDHIANA,0.0,Pedestrian,Victims
+LUDHIANA,16.0,Pedestrian,Total
+LUDHIANA,0.0,Others,Offenders
+LUDHIANA,0.0,Others,Victims
+LUDHIANA,0.0,Others,Total
+LUDHIANA,2.0,Truck/Lorry,Offenders
+LUDHIANA,61.0,Truck/Lorry,Victims
+LUDHIANA,63.0,Truck/Lorry,Total
+LUDHIANA,0.0,Bus,Offenders
+LUDHIANA,11.0,Bus,Victims
+LUDHIANA,11.0,Bus,Total
+LUDHIANA,1.0,SUV/Station Wagon/etc.,Offenders
+LUDHIANA,8.0,SUV/Station Wagon/etc.,Victims
+LUDHIANA,9.0,SUV/Station Wagon/etc.,Total
+MADURAI,1.0,Car,Offenders
+MADURAI,0.0,Car,Victims
+MADURAI,1.0,Car,Total
+MADURAI,0.0,Jeep,Offenders
+MADURAI,0.0,Jeep,Victims
+MADURAI,0.0,Jeep,Total
+MADURAI,0.0,Tractor,Offenders
+MADURAI,0.0,Tractor,Victims
+MADURAI,0.0,Tractor,Total
+MADURAI,4.0,Auto Rickshaw,Offenders
+MADURAI,0.0,Auto Rickshaw,Victims
+MADURAI,4.0,Auto Rickshaw,Total
+MADURAI,51.0,Two Wheeler,Offenders
+MADURAI,0.0,Two Wheeler,Victims
+MADURAI,51.0,Two Wheeler,Total
+MADURAI,0.0,Other Motor Vehicles,Offenders
+MADURAI,0.0,Other Motor Vehicles,Victims
+MADURAI,0.0,Other Motor Vehicles,Total
+MADURAI,3.0,Bicycle,Offenders
+MADURAI,0.0,Bicycle,Victims
+MADURAI,3.0,Bicycle,Total
+MADURAI,1.0,Hand Drawn Vehicle,Offenders
+MADURAI,0.0,Hand Drawn Vehicle,Victims
+MADURAI,1.0,Hand Drawn Vehicle,Total
+MADURAI,0.0,Animal Drawn Vehicle,Offenders
+MADURAI,0.0,Animal Drawn Vehicle,Victims
+MADURAI,0.0,Animal Drawn Vehicle,Total
+MADURAI,20.0,Pedestrian,Offenders
+MADURAI,0.0,Pedestrian,Victims
+MADURAI,20.0,Pedestrian,Total
+MADURAI,0.0,Others,Offenders
+MADURAI,0.0,Others,Victims
+MADURAI,0.0,Others,Total
+MADURAI,1.0,Truck/Lorry,Offenders
+MADURAI,0.0,Truck/Lorry,Victims
+MADURAI,1.0,Truck/Lorry,Total
+MADURAI,0.0,Bus,Offenders
+MADURAI,0.0,Bus,Victims
+MADURAI,0.0,Bus,Total
+MADURAI,0.0,SUV/Station Wagon/etc.,Offenders
+MADURAI,0.0,SUV/Station Wagon/etc.,Victims
+MADURAI,0.0,SUV/Station Wagon/etc.,Total
+MALAPPURAM,0.0,Car,Offenders
+MALAPPURAM,10.0,Car,Victims
+MALAPPURAM,10.0,Car,Total
+MALAPPURAM,0.0,Jeep,Offenders
+MALAPPURAM,0.0,Jeep,Victims
+MALAPPURAM,0.0,Jeep,Total
+MALAPPURAM,0.0,Tractor,Offenders
+MALAPPURAM,1.0,Tractor,Victims
+MALAPPURAM,1.0,Tractor,Total
+MALAPPURAM,1.0,Auto Rickshaw,Offenders
+MALAPPURAM,10.0,Auto Rickshaw,Victims
+MALAPPURAM,11.0,Auto Rickshaw,Total
+MALAPPURAM,8.0,Two Wheeler,Offenders
+MALAPPURAM,36.0,Two Wheeler,Victims
+MALAPPURAM,44.0,Two Wheeler,Total
+MALAPPURAM,0.0,Other Motor Vehicles,Offenders
+MALAPPURAM,0.0,Other Motor Vehicles,Victims
+MALAPPURAM,0.0,Other Motor Vehicles,Total
+MALAPPURAM,0.0,Bicycle,Offenders
+MALAPPURAM,1.0,Bicycle,Victims
+MALAPPURAM,1.0,Bicycle,Total
+MALAPPURAM,0.0,Hand Drawn Vehicle,Offenders
+MALAPPURAM,0.0,Hand Drawn Vehicle,Victims
+MALAPPURAM,0.0,Hand Drawn Vehicle,Total
+MALAPPURAM,0.0,Animal Drawn Vehicle,Offenders
+MALAPPURAM,0.0,Animal Drawn Vehicle,Victims
+MALAPPURAM,0.0,Animal Drawn Vehicle,Total
+MALAPPURAM,0.0,Pedestrian,Offenders
+MALAPPURAM,19.0,Pedestrian,Victims
+MALAPPURAM,19.0,Pedestrian,Total
+MALAPPURAM,0.0,Others,Offenders
+MALAPPURAM,0.0,Others,Victims
+MALAPPURAM,0.0,Others,Total
+MALAPPURAM,0.0,Truck/Lorry,Offenders
+MALAPPURAM,4.0,Truck/Lorry,Victims
+MALAPPURAM,4.0,Truck/Lorry,Total
+MALAPPURAM,0.0,Bus,Offenders
+MALAPPURAM,3.0,Bus,Victims
+MALAPPURAM,3.0,Bus,Total
+MALAPPURAM,0.0,SUV/Station Wagon/etc.,Offenders
+MALAPPURAM,1.0,SUV/Station Wagon/etc.,Victims
+MALAPPURAM,1.0,SUV/Station Wagon/etc.,Total
+MEERUT,9.0,Car,Offenders
+MEERUT,14.0,Car,Victims
+MEERUT,23.0,Car,Total
+MEERUT,0.0,Jeep,Offenders
+MEERUT,0.0,Jeep,Victims
+MEERUT,0.0,Jeep,Total
+MEERUT,0.0,Tractor,Offenders
+MEERUT,0.0,Tractor,Victims
+MEERUT,0.0,Tractor,Total
+MEERUT,9.0,Auto Rickshaw,Offenders
+MEERUT,22.0,Auto Rickshaw,Victims
+MEERUT,31.0,Auto Rickshaw,Total
+MEERUT,44.0,Two Wheeler,Offenders
+MEERUT,11.0,Two Wheeler,Victims
+MEERUT,55.0,Two Wheeler,Total
+MEERUT,0.0,Other Motor Vehicles,Offenders
+MEERUT,0.0,Other Motor Vehicles,Victims
+MEERUT,0.0,Other Motor Vehicles,Total
+MEERUT,1.0,Bicycle,Offenders
+MEERUT,0.0,Bicycle,Victims
+MEERUT,1.0,Bicycle,Total
+MEERUT,0.0,Hand Drawn Vehicle,Offenders
+MEERUT,0.0,Hand Drawn Vehicle,Victims
+MEERUT,0.0,Hand Drawn Vehicle,Total
+MEERUT,0.0,Animal Drawn Vehicle,Offenders
+MEERUT,0.0,Animal Drawn Vehicle,Victims
+MEERUT,0.0,Animal Drawn Vehicle,Total
+MEERUT,0.0,Pedestrian,Offenders
+MEERUT,0.0,Pedestrian,Victims
+MEERUT,0.0,Pedestrian,Total
+MEERUT,0.0,Others,Offenders
+MEERUT,0.0,Others,Victims
+MEERUT,0.0,Others,Total
+MEERUT,4.0,Truck/Lorry,Offenders
+MEERUT,19.0,Truck/Lorry,Victims
+MEERUT,23.0,Truck/Lorry,Total
+MEERUT,0.0,Bus,Offenders
+MEERUT,9.0,Bus,Victims
+MEERUT,9.0,Bus,Total
+MEERUT,1.0,SUV/Station Wagon/etc.,Offenders
+MEERUT,9.0,SUV/Station Wagon/etc.,Victims
+MEERUT,10.0,SUV/Station Wagon/etc.,Total
+MUMBAI,26.0,Car,Offenders
+MUMBAI,44.0,Car,Victims
+MUMBAI,70.0,Car,Total
+MUMBAI,4.0,Jeep,Offenders
+MUMBAI,2.0,Jeep,Victims
+MUMBAI,6.0,Jeep,Total
+MUMBAI,0.0,Tractor,Offenders
+MUMBAI,1.0,Tractor,Victims
+MUMBAI,1.0,Tractor,Total
+MUMBAI,4.0,Auto Rickshaw,Offenders
+MUMBAI,11.0,Auto Rickshaw,Victims
+MUMBAI,15.0,Auto Rickshaw,Total
+MUMBAI,86.0,Two Wheeler,Offenders
+MUMBAI,84.0,Two Wheeler,Victims
+MUMBAI,170.0,Two Wheeler,Total
+MUMBAI,3.0,Other Motor Vehicles,Offenders
+MUMBAI,18.0,Other Motor Vehicles,Victims
+MUMBAI,21.0,Other Motor Vehicles,Total
+MUMBAI,1.0,Bicycle,Offenders
+MUMBAI,1.0,Bicycle,Victims
+MUMBAI,2.0,Bicycle,Total
+MUMBAI,0.0,Hand Drawn Vehicle,Offenders
+MUMBAI,0.0,Hand Drawn Vehicle,Victims
+MUMBAI,0.0,Hand Drawn Vehicle,Total
+MUMBAI,0.0,Animal Drawn Vehicle,Offenders
+MUMBAI,3.0,Animal Drawn Vehicle,Victims
+MUMBAI,3.0,Animal Drawn Vehicle,Total
+MUMBAI,7.0,Pedestrian,Offenders
+MUMBAI,12.0,Pedestrian,Victims
+MUMBAI,19.0,Pedestrian,Total
+MUMBAI,0.0,Others,Offenders
+MUMBAI,2.0,Others,Victims
+MUMBAI,2.0,Others,Total
+MUMBAI,29.0,Truck/Lorry,Offenders
+MUMBAI,48.0,Truck/Lorry,Victims
+MUMBAI,77.0,Truck/Lorry,Total
+MUMBAI,4.0,Bus,Offenders
+MUMBAI,19.0,Bus,Victims
+MUMBAI,23.0,Bus,Total
+MUMBAI,0.0,SUV/Station Wagon/etc.,Offenders
+MUMBAI,9.0,SUV/Station Wagon/etc.,Victims
+MUMBAI,9.0,SUV/Station Wagon/etc.,Total
+NAGPUR,2.0,Car,Offenders
+NAGPUR,35.0,Car,Victims
+NAGPUR,37.0,Car,Total
+NAGPUR,0.0,Jeep,Offenders
+NAGPUR,0.0,Jeep,Victims
+NAGPUR,0.0,Jeep,Total
+NAGPUR,0.0,Tractor,Offenders
+NAGPUR,4.0,Tractor,Victims
+NAGPUR,4.0,Tractor,Total
+NAGPUR,0.0,Auto Rickshaw,Offenders
+NAGPUR,5.0,Auto Rickshaw,Victims
+NAGPUR,5.0,Auto Rickshaw,Total
+NAGPUR,1.0,Two Wheeler,Offenders
+NAGPUR,97.0,Two Wheeler,Victims
+NAGPUR,98.0,Two Wheeler,Total
+NAGPUR,0.0,Other Motor Vehicles,Offenders
+NAGPUR,0.0,Other Motor Vehicles,Victims
+NAGPUR,0.0,Other Motor Vehicles,Total
+NAGPUR,0.0,Bicycle,Offenders
+NAGPUR,3.0,Bicycle,Victims
+NAGPUR,3.0,Bicycle,Total
+NAGPUR,0.0,Hand Drawn Vehicle,Offenders
+NAGPUR,0.0,Hand Drawn Vehicle,Victims
+NAGPUR,0.0,Hand Drawn Vehicle,Total
+NAGPUR,0.0,Animal Drawn Vehicle,Offenders
+NAGPUR,0.0,Animal Drawn Vehicle,Victims
+NAGPUR,0.0,Animal Drawn Vehicle,Total
+NAGPUR,0.0,Pedestrian,Offenders
+NAGPUR,0.0,Pedestrian,Victims
+NAGPUR,0.0,Pedestrian,Total
+NAGPUR,0.0,Others,Offenders
+NAGPUR,0.0,Others,Victims
+NAGPUR,0.0,Others,Total
+NAGPUR,0.0,Truck/Lorry,Offenders
+NAGPUR,74.0,Truck/Lorry,Victims
+NAGPUR,74.0,Truck/Lorry,Total
+NAGPUR,1.0,Bus,Offenders
+NAGPUR,2.0,Bus,Victims
+NAGPUR,3.0,Bus,Total
+NAGPUR,0.0,SUV/Station Wagon/etc.,Offenders
+NAGPUR,0.0,SUV/Station Wagon/etc.,Victims
+NAGPUR,0.0,SUV/Station Wagon/etc.,Total
+NASIK,13.0,Car,Offenders
+NASIK,0.0,Car,Victims
+NASIK,13.0,Car,Total
+NASIK,11.0,Jeep,Offenders
+NASIK,0.0,Jeep,Victims
+NASIK,11.0,Jeep,Total
+NASIK,0.0,Tractor,Offenders
+NASIK,0.0,Tractor,Victims
+NASIK,0.0,Tractor,Total
+NASIK,1.0,Auto Rickshaw,Offenders
+NASIK,0.0,Auto Rickshaw,Victims
+NASIK,1.0,Auto Rickshaw,Total
+NASIK,58.0,Two Wheeler,Offenders
+NASIK,0.0,Two Wheeler,Victims
+NASIK,58.0,Two Wheeler,Total
+NASIK,0.0,Other Motor Vehicles,Offenders
+NASIK,0.0,Other Motor Vehicles,Victims
+NASIK,0.0,Other Motor Vehicles,Total
+NASIK,1.0,Bicycle,Offenders
+NASIK,0.0,Bicycle,Victims
+NASIK,1.0,Bicycle,Total
+NASIK,0.0,Hand Drawn Vehicle,Offenders
+NASIK,0.0,Hand Drawn Vehicle,Victims
+NASIK,0.0,Hand Drawn Vehicle,Total
+NASIK,0.0,Animal Drawn Vehicle,Offenders
+NASIK,0.0,Animal Drawn Vehicle,Victims
+NASIK,0.0,Animal Drawn Vehicle,Total
+NASIK,5.0,Pedestrian,Offenders
+NASIK,0.0,Pedestrian,Victims
+NASIK,5.0,Pedestrian,Total
+NASIK,0.0,Others,Offenders
+NASIK,0.0,Others,Victims
+NASIK,0.0,Others,Total
+NASIK,5.0,Truck/Lorry,Offenders
+NASIK,0.0,Truck/Lorry,Victims
+NASIK,5.0,Truck/Lorry,Total
+NASIK,3.0,Bus,Offenders
+NASIK,0.0,Bus,Victims
+NASIK,3.0,Bus,Total
+NASIK,7.0,SUV/Station Wagon/etc.,Offenders
+NASIK,0.0,SUV/Station Wagon/etc.,Victims
+NASIK,7.0,SUV/Station Wagon/etc.,Total
+PATNA,1.0,Car,Offenders
+PATNA,2.0,Car,Victims
+PATNA,3.0,Car,Total
+PATNA,0.0,Jeep,Offenders
+PATNA,0.0,Jeep,Victims
+PATNA,0.0,Jeep,Total
+PATNA,0.0,Tractor,Offenders
+PATNA,0.0,Tractor,Victims
+PATNA,0.0,Tractor,Total
+PATNA,6.0,Auto Rickshaw,Offenders
+PATNA,2.0,Auto Rickshaw,Victims
+PATNA,8.0,Auto Rickshaw,Total
+PATNA,68.0,Two Wheeler,Offenders
+PATNA,64.0,Two Wheeler,Victims
+PATNA,132.0,Two Wheeler,Total
+PATNA,0.0,Other Motor Vehicles,Offenders
+PATNA,0.0,Other Motor Vehicles,Victims
+PATNA,0.0,Other Motor Vehicles,Total
+PATNA,1.0,Bicycle,Offenders
+PATNA,0.0,Bicycle,Victims
+PATNA,1.0,Bicycle,Total
+PATNA,0.0,Hand Drawn Vehicle,Offenders
+PATNA,0.0,Hand Drawn Vehicle,Victims
+PATNA,0.0,Hand Drawn Vehicle,Total
+PATNA,0.0,Animal Drawn Vehicle,Offenders
+PATNA,0.0,Animal Drawn Vehicle,Victims
+PATNA,0.0,Animal Drawn Vehicle,Total
+PATNA,0.0,Pedestrian,Offenders
+PATNA,0.0,Pedestrian,Victims
+PATNA,0.0,Pedestrian,Total
+PATNA,0.0,Others,Offenders
+PATNA,0.0,Others,Victims
+PATNA,0.0,Others,Total
+PATNA,0.0,Truck/Lorry,Offenders
+PATNA,12.0,Truck/Lorry,Victims
+PATNA,12.0,Truck/Lorry,Total
+PATNA,0.0,Bus,Offenders
+PATNA,16.0,Bus,Victims
+PATNA,16.0,Bus,Total
+PATNA,3.0,SUV/Station Wagon/etc.,Offenders
+PATNA,6.0,SUV/Station Wagon/etc.,Victims
+PATNA,9.0,SUV/Station Wagon/etc.,Total
+PUNE,16.0,Car,Offenders
+PUNE,7.0,Car,Victims
+PUNE,23.0,Car,Total
+PUNE,0.0,Jeep,Offenders
+PUNE,1.0,Jeep,Victims
+PUNE,1.0,Jeep,Total
+PUNE,0.0,Tractor,Offenders
+PUNE,0.0,Tractor,Victims
+PUNE,0.0,Tractor,Total
+PUNE,3.0,Auto Rickshaw,Offenders
+PUNE,3.0,Auto Rickshaw,Victims
+PUNE,6.0,Auto Rickshaw,Total
+PUNE,30.0,Two Wheeler,Offenders
+PUNE,35.0,Two Wheeler,Victims
+PUNE,65.0,Two Wheeler,Total
+PUNE,0.0,Other Motor Vehicles,Offenders
+PUNE,3.0,Other Motor Vehicles,Victims
+PUNE,3.0,Other Motor Vehicles,Total
+PUNE,0.0,Bicycle,Offenders
+PUNE,0.0,Bicycle,Victims
+PUNE,0.0,Bicycle,Total
+PUNE,0.0,Hand Drawn Vehicle,Offenders
+PUNE,0.0,Hand Drawn Vehicle,Victims
+PUNE,0.0,Hand Drawn Vehicle,Total
+PUNE,0.0,Animal Drawn Vehicle,Offenders
+PUNE,0.0,Animal Drawn Vehicle,Victims
+PUNE,0.0,Animal Drawn Vehicle,Total
+PUNE,0.0,Pedestrian,Offenders
+PUNE,4.0,Pedestrian,Victims
+PUNE,4.0,Pedestrian,Total
+PUNE,1.0,Others,Offenders
+PUNE,2.0,Others,Victims
+PUNE,3.0,Others,Total
+PUNE,11.0,Truck/Lorry,Offenders
+PUNE,25.0,Truck/Lorry,Victims
+PUNE,36.0,Truck/Lorry,Total
+PUNE,1.0,Bus,Offenders
+PUNE,3.0,Bus,Victims
+PUNE,4.0,Bus,Total
+PUNE,0.0,SUV/Station Wagon/etc.,Offenders
+PUNE,0.0,SUV/Station Wagon/etc.,Victims
+PUNE,0.0,SUV/Station Wagon/etc.,Total
+RAIPUR,4.0,Car,Offenders
+RAIPUR,4.0,Car,Victims
+RAIPUR,8.0,Car,Total
+RAIPUR,0.0,Jeep,Offenders
+RAIPUR,0.0,Jeep,Victims
+RAIPUR,0.0,Jeep,Total
+RAIPUR,1.0,Tractor,Offenders
+RAIPUR,3.0,Tractor,Victims
+RAIPUR,4.0,Tractor,Total
+RAIPUR,2.0,Auto Rickshaw,Offenders
+RAIPUR,1.0,Auto Rickshaw,Victims
+RAIPUR,3.0,Auto Rickshaw,Total
+RAIPUR,66.0,Two Wheeler,Offenders
+RAIPUR,27.0,Two Wheeler,Victims
+RAIPUR,93.0,Two Wheeler,Total
+RAIPUR,1.0,Other Motor Vehicles,Offenders
+RAIPUR,0.0,Other Motor Vehicles,Victims
+RAIPUR,1.0,Other Motor Vehicles,Total
+RAIPUR,0.0,Bicycle,Offenders
+RAIPUR,8.0,Bicycle,Victims
+RAIPUR,8.0,Bicycle,Total
+RAIPUR,0.0,Hand Drawn Vehicle,Offenders
+RAIPUR,0.0,Hand Drawn Vehicle,Victims
+RAIPUR,0.0,Hand Drawn Vehicle,Total
+RAIPUR,0.0,Animal Drawn Vehicle,Offenders
+RAIPUR,0.0,Animal Drawn Vehicle,Victims
+RAIPUR,0.0,Animal Drawn Vehicle,Total
+RAIPUR,0.0,Pedestrian,Offenders
+RAIPUR,10.0,Pedestrian,Victims
+RAIPUR,10.0,Pedestrian,Total
+RAIPUR,0.0,Others,Offenders
+RAIPUR,24.0,Others,Victims
+RAIPUR,24.0,Others,Total
+RAIPUR,5.0,Truck/Lorry,Offenders
+RAIPUR,1.0,Truck/Lorry,Victims
+RAIPUR,6.0,Truck/Lorry,Total
+RAIPUR,0.0,Bus,Offenders
+RAIPUR,0.0,Bus,Victims
+RAIPUR,0.0,Bus,Total
+RAIPUR,1.0,SUV/Station Wagon/etc.,Offenders
+RAIPUR,1.0,SUV/Station Wagon/etc.,Victims
+RAIPUR,2.0,SUV/Station Wagon/etc.,Total
+RAJKOT,3.0,Car,Offenders
+RAJKOT,3.0,Car,Victims
+RAJKOT,6.0,Car,Total
+RAJKOT,0.0,Jeep,Offenders
+RAJKOT,0.0,Jeep,Victims
+RAJKOT,0.0,Jeep,Total
+RAJKOT,0.0,Tractor,Offenders
+RAJKOT,0.0,Tractor,Victims
+RAJKOT,0.0,Tractor,Total
+RAJKOT,6.0,Auto Rickshaw,Offenders
+RAJKOT,7.0,Auto Rickshaw,Victims
+RAJKOT,13.0,Auto Rickshaw,Total
+RAJKOT,54.0,Two Wheeler,Offenders
+RAJKOT,19.0,Two Wheeler,Victims
+RAJKOT,73.0,Two Wheeler,Total
+RAJKOT,5.0,Other Motor Vehicles,Offenders
+RAJKOT,0.0,Other Motor Vehicles,Victims
+RAJKOT,5.0,Other Motor Vehicles,Total
+RAJKOT,0.0,Bicycle,Offenders
+RAJKOT,3.0,Bicycle,Victims
+RAJKOT,3.0,Bicycle,Total
+RAJKOT,0.0,Hand Drawn Vehicle,Offenders
+RAJKOT,0.0,Hand Drawn Vehicle,Victims
+RAJKOT,0.0,Hand Drawn Vehicle,Total
+RAJKOT,0.0,Animal Drawn Vehicle,Offenders
+RAJKOT,0.0,Animal Drawn Vehicle,Victims
+RAJKOT,0.0,Animal Drawn Vehicle,Total
+RAJKOT,0.0,Pedestrian,Offenders
+RAJKOT,35.0,Pedestrian,Victims
+RAJKOT,35.0,Pedestrian,Total
+RAJKOT,0.0,Others,Offenders
+RAJKOT,0.0,Others,Victims
+RAJKOT,0.0,Others,Total
+RAJKOT,1.0,Truck/Lorry,Offenders
+RAJKOT,2.0,Truck/Lorry,Victims
+RAJKOT,3.0,Truck/Lorry,Total
+RAJKOT,0.0,Bus,Offenders
+RAJKOT,0.0,Bus,Victims
+RAJKOT,0.0,Bus,Total
+RAJKOT,0.0,SUV/Station Wagon/etc.,Offenders
+RAJKOT,0.0,SUV/Station Wagon/etc.,Victims
+RAJKOT,0.0,SUV/Station Wagon/etc.,Total
+RANCHI,12.0,Car,Offenders
+RANCHI,0.0,Car,Victims
+RANCHI,12.0,Car,Total
+RANCHI,13.0,Jeep,Offenders
+RANCHI,0.0,Jeep,Victims
+RANCHI,13.0,Jeep,Total
+RANCHI,2.0,Tractor,Offenders
+RANCHI,0.0,Tractor,Victims
+RANCHI,2.0,Tractor,Total
+RANCHI,16.0,Auto Rickshaw,Offenders
+RANCHI,0.0,Auto Rickshaw,Victims
+RANCHI,16.0,Auto Rickshaw,Total
+RANCHI,56.0,Two Wheeler,Offenders
+RANCHI,56.0,Two Wheeler,Victims
+RANCHI,112.0,Two Wheeler,Total
+RANCHI,0.0,Other Motor Vehicles,Offenders
+RANCHI,0.0,Other Motor Vehicles,Victims
+RANCHI,0.0,Other Motor Vehicles,Total
+RANCHI,0.0,Bicycle,Offenders
+RANCHI,0.0,Bicycle,Victims
+RANCHI,0.0,Bicycle,Total
+RANCHI,0.0,Hand Drawn Vehicle,Offenders
+RANCHI,0.0,Hand Drawn Vehicle,Victims
+RANCHI,0.0,Hand Drawn Vehicle,Total
+RANCHI,0.0,Animal Drawn Vehicle,Offenders
+RANCHI,0.0,Animal Drawn Vehicle,Victims
+RANCHI,0.0,Animal Drawn Vehicle,Total
+RANCHI,0.0,Pedestrian,Offenders
+RANCHI,0.0,Pedestrian,Victims
+RANCHI,0.0,Pedestrian,Total
+RANCHI,0.0,Others,Offenders
+RANCHI,0.0,Others,Victims
+RANCHI,0.0,Others,Total
+RANCHI,0.0,Truck/Lorry,Offenders
+RANCHI,0.0,Truck/Lorry,Victims
+RANCHI,0.0,Truck/Lorry,Total
+RANCHI,0.0,Bus,Offenders
+RANCHI,0.0,Bus,Victims
+RANCHI,0.0,Bus,Total
+RANCHI,9.0,SUV/Station Wagon/etc.,Offenders
+RANCHI,0.0,SUV/Station Wagon/etc.,Victims
+RANCHI,9.0,SUV/Station Wagon/etc.,Total
+SRINAGAR,2.0,Car,Offenders
+SRINAGAR,8.0,Car,Victims
+SRINAGAR,10.0,Car,Total
+SRINAGAR,0.0,Jeep,Offenders
+SRINAGAR,0.0,Jeep,Victims
+SRINAGAR,0.0,Jeep,Total
+SRINAGAR,0.0,Tractor,Offenders
+SRINAGAR,0.0,Tractor,Victims
+SRINAGAR,0.0,Tractor,Total
+SRINAGAR,0.0,Auto Rickshaw,Offenders
+SRINAGAR,2.0,Auto Rickshaw,Victims
+SRINAGAR,2.0,Auto Rickshaw,Total
+SRINAGAR,11.0,Two Wheeler,Offenders
+SRINAGAR,2.0,Two Wheeler,Victims
+SRINAGAR,13.0,Two Wheeler,Total
+SRINAGAR,0.0,Other Motor Vehicles,Offenders
+SRINAGAR,0.0,Other Motor Vehicles,Victims
+SRINAGAR,0.0,Other Motor Vehicles,Total
+SRINAGAR,0.0,Bicycle,Offenders
+SRINAGAR,0.0,Bicycle,Victims
+SRINAGAR,0.0,Bicycle,Total
+SRINAGAR,0.0,Hand Drawn Vehicle,Offenders
+SRINAGAR,0.0,Hand Drawn Vehicle,Victims
+SRINAGAR,0.0,Hand Drawn Vehicle,Total
+SRINAGAR,0.0,Animal Drawn Vehicle,Offenders
+SRINAGAR,0.0,Animal Drawn Vehicle,Victims
+SRINAGAR,0.0,Animal Drawn Vehicle,Total
+SRINAGAR,0.0,Pedestrian,Offenders
+SRINAGAR,0.0,Pedestrian,Victims
+SRINAGAR,0.0,Pedestrian,Total
+SRINAGAR,0.0,Others,Offenders
+SRINAGAR,0.0,Others,Victims
+SRINAGAR,0.0,Others,Total
+SRINAGAR,0.0,Truck/Lorry,Offenders
+SRINAGAR,4.0,Truck/Lorry,Victims
+SRINAGAR,4.0,Truck/Lorry,Total
+SRINAGAR,0.0,Bus,Offenders
+SRINAGAR,1.0,Bus,Victims
+SRINAGAR,1.0,Bus,Total
+SRINAGAR,1.0,SUV/Station Wagon/etc.,Offenders
+SRINAGAR,14.0,SUV/Station Wagon/etc.,Victims
+SRINAGAR,15.0,SUV/Station Wagon/etc.,Total
+SURAT,1.0,Car,Offenders
+SURAT,4.0,Car,Victims
+SURAT,5.0,Car,Total
+SURAT,0.0,Jeep,Offenders
+SURAT,0.0,Jeep,Victims
+SURAT,0.0,Jeep,Total
+SURAT,0.0,Tractor,Offenders
+SURAT,0.0,Tractor,Victims
+SURAT,0.0,Tractor,Total
+SURAT,3.0,Auto Rickshaw,Offenders
+SURAT,7.0,Auto Rickshaw,Victims
+SURAT,10.0,Auto Rickshaw,Total
+SURAT,20.0,Two Wheeler,Offenders
+SURAT,78.0,Two Wheeler,Victims
+SURAT,98.0,Two Wheeler,Total
+SURAT,0.0,Other Motor Vehicles,Offenders
+SURAT,0.0,Other Motor Vehicles,Victims
+SURAT,0.0,Other Motor Vehicles,Total
+SURAT,0.0,Bicycle,Offenders
+SURAT,9.0,Bicycle,Victims
+SURAT,9.0,Bicycle,Total
+SURAT,0.0,Hand Drawn Vehicle,Offenders
+SURAT,0.0,Hand Drawn Vehicle,Victims
+SURAT,0.0,Hand Drawn Vehicle,Total
+SURAT,0.0,Animal Drawn Vehicle,Offenders
+SURAT,0.0,Animal Drawn Vehicle,Victims
+SURAT,0.0,Animal Drawn Vehicle,Total
+SURAT,0.0,Pedestrian,Offenders
+SURAT,63.0,Pedestrian,Victims
+SURAT,63.0,Pedestrian,Total
+SURAT,0.0,Others,Offenders
+SURAT,0.0,Others,Victims
+SURAT,0.0,Others,Total
+SURAT,5.0,Truck/Lorry,Offenders
+SURAT,1.0,Truck/Lorry,Victims
+SURAT,6.0,Truck/Lorry,Total
+SURAT,0.0,Bus,Offenders
+SURAT,0.0,Bus,Victims
+SURAT,0.0,Bus,Total
+SURAT,0.0,SUV/Station Wagon/etc.,Offenders
+SURAT,0.0,SUV/Station Wagon/etc.,Victims
+SURAT,0.0,SUV/Station Wagon/etc.,Total
+THIRUVANANTHAPURAM,3.0,Car,Offenders
+THIRUVANANTHAPURAM,4.0,Car,Victims
+THIRUVANANTHAPURAM,7.0,Car,Total
+THIRUVANANTHAPURAM,0.0,Jeep,Offenders
+THIRUVANANTHAPURAM,0.0,Jeep,Victims
+THIRUVANANTHAPURAM,0.0,Jeep,Total
+THIRUVANANTHAPURAM,0.0,Tractor,Offenders
+THIRUVANANTHAPURAM,0.0,Tractor,Victims
+THIRUVANANTHAPURAM,0.0,Tractor,Total
+THIRUVANANTHAPURAM,0.0,Auto Rickshaw,Offenders
+THIRUVANANTHAPURAM,5.0,Auto Rickshaw,Victims
+THIRUVANANTHAPURAM,5.0,Auto Rickshaw,Total
+THIRUVANANTHAPURAM,9.0,Two Wheeler,Offenders
+THIRUVANANTHAPURAM,46.0,Two Wheeler,Victims
+THIRUVANANTHAPURAM,55.0,Two Wheeler,Total
+THIRUVANANTHAPURAM,0.0,Other Motor Vehicles,Offenders
+THIRUVANANTHAPURAM,0.0,Other Motor Vehicles,Victims
+THIRUVANANTHAPURAM,0.0,Other Motor Vehicles,Total
+THIRUVANANTHAPURAM,0.0,Bicycle,Offenders
+THIRUVANANTHAPURAM,2.0,Bicycle,Victims
+THIRUVANANTHAPURAM,2.0,Bicycle,Total
+THIRUVANANTHAPURAM,0.0,Hand Drawn Vehicle,Offenders
+THIRUVANANTHAPURAM,0.0,Hand Drawn Vehicle,Victims
+THIRUVANANTHAPURAM,0.0,Hand Drawn Vehicle,Total
+THIRUVANANTHAPURAM,0.0,Animal Drawn Vehicle,Offenders
+THIRUVANANTHAPURAM,0.0,Animal Drawn Vehicle,Victims
+THIRUVANANTHAPURAM,0.0,Animal Drawn Vehicle,Total
+THIRUVANANTHAPURAM,0.0,Pedestrian,Offenders
+THIRUVANANTHAPURAM,34.0,Pedestrian,Victims
+THIRUVANANTHAPURAM,34.0,Pedestrian,Total
+THIRUVANANTHAPURAM,0.0,Others,Offenders
+THIRUVANANTHAPURAM,0.0,Others,Victims
+THIRUVANANTHAPURAM,0.0,Others,Total
+THIRUVANANTHAPURAM,1.0,Truck/Lorry,Offenders
+THIRUVANANTHAPURAM,2.0,Truck/Lorry,Victims
+THIRUVANANTHAPURAM,3.0,Truck/Lorry,Total
+THIRUVANANTHAPURAM,0.0,Bus,Offenders
+THIRUVANANTHAPURAM,2.0,Bus,Victims
+THIRUVANANTHAPURAM,2.0,Bus,Total
+THIRUVANANTHAPURAM,0.0,SUV/Station Wagon/etc.,Offenders
+THIRUVANANTHAPURAM,0.0,SUV/Station Wagon/etc.,Victims
+THIRUVANANTHAPURAM,0.0,SUV/Station Wagon/etc.,Total
+THRISSUR,0.0,Car,Offenders
+THRISSUR,2.0,Car,Victims
+THRISSUR,2.0,Car,Total
+THRISSUR,0.0,Jeep,Offenders
+THRISSUR,0.0,Jeep,Victims
+THRISSUR,0.0,Jeep,Total
+THRISSUR,0.0,Tractor,Offenders
+THRISSUR,0.0,Tractor,Victims
+THRISSUR,0.0,Tractor,Total
+THRISSUR,0.0,Auto Rickshaw,Offenders
+THRISSUR,5.0,Auto Rickshaw,Victims
+THRISSUR,5.0,Auto Rickshaw,Total
+THRISSUR,0.0,Two Wheeler,Offenders
+THRISSUR,74.0,Two Wheeler,Victims
+THRISSUR,74.0,Two Wheeler,Total
+THRISSUR,0.0,Other Motor Vehicles,Offenders
+THRISSUR,2.0,Other Motor Vehicles,Victims
+THRISSUR,2.0,Other Motor Vehicles,Total
+THRISSUR,0.0,Bicycle,Offenders
+THRISSUR,6.0,Bicycle,Victims
+THRISSUR,6.0,Bicycle,Total
+THRISSUR,0.0,Hand Drawn Vehicle,Offenders
+THRISSUR,0.0,Hand Drawn Vehicle,Victims
+THRISSUR,0.0,Hand Drawn Vehicle,Total
+THRISSUR,0.0,Animal Drawn Vehicle,Offenders
+THRISSUR,0.0,Animal Drawn Vehicle,Victims
+THRISSUR,0.0,Animal Drawn Vehicle,Total
+THRISSUR,0.0,Pedestrian,Offenders
+THRISSUR,40.0,Pedestrian,Victims
+THRISSUR,40.0,Pedestrian,Total
+THRISSUR,0.0,Others,Offenders
+THRISSUR,0.0,Others,Victims
+THRISSUR,0.0,Others,Total
+THRISSUR,0.0,Truck/Lorry,Offenders
+THRISSUR,5.0,Truck/Lorry,Victims
+THRISSUR,5.0,Truck/Lorry,Total
+THRISSUR,0.0,Bus,Offenders
+THRISSUR,0.0,Bus,Victims
+THRISSUR,0.0,Bus,Total
+THRISSUR,0.0,SUV/Station Wagon/etc.,Offenders
+THRISSUR,0.0,SUV/Station Wagon/etc.,Victims
+THRISSUR,0.0,SUV/Station Wagon/etc.,Total
+TIRUCHIRAPPALLI,3.0,Car,Offenders
+TIRUCHIRAPPALLI,8.0,Car,Victims
+TIRUCHIRAPPALLI,11.0,Car,Total
+TIRUCHIRAPPALLI,0.0,Jeep,Offenders
+TIRUCHIRAPPALLI,0.0,Jeep,Victims
+TIRUCHIRAPPALLI,0.0,Jeep,Total
+TIRUCHIRAPPALLI,0.0,Tractor,Offenders
+TIRUCHIRAPPALLI,0.0,Tractor,Victims
+TIRUCHIRAPPALLI,0.0,Tractor,Total
+TIRUCHIRAPPALLI,1.0,Auto Rickshaw,Offenders
+TIRUCHIRAPPALLI,0.0,Auto Rickshaw,Victims
+TIRUCHIRAPPALLI,1.0,Auto Rickshaw,Total
+TIRUCHIRAPPALLI,45.0,Two Wheeler,Offenders
+TIRUCHIRAPPALLI,5.0,Two Wheeler,Victims
+TIRUCHIRAPPALLI,50.0,Two Wheeler,Total
+TIRUCHIRAPPALLI,1.0,Other Motor Vehicles,Offenders
+TIRUCHIRAPPALLI,0.0,Other Motor Vehicles,Victims
+TIRUCHIRAPPALLI,1.0,Other Motor Vehicles,Total
+TIRUCHIRAPPALLI,5.0,Bicycle,Offenders
+TIRUCHIRAPPALLI,0.0,Bicycle,Victims
+TIRUCHIRAPPALLI,5.0,Bicycle,Total
+TIRUCHIRAPPALLI,0.0,Hand Drawn Vehicle,Offenders
+TIRUCHIRAPPALLI,0.0,Hand Drawn Vehicle,Victims
+TIRUCHIRAPPALLI,0.0,Hand Drawn Vehicle,Total
+TIRUCHIRAPPALLI,0.0,Animal Drawn Vehicle,Offenders
+TIRUCHIRAPPALLI,0.0,Animal Drawn Vehicle,Victims
+TIRUCHIRAPPALLI,0.0,Animal Drawn Vehicle,Total
+TIRUCHIRAPPALLI,0.0,Pedestrian,Offenders
+TIRUCHIRAPPALLI,0.0,Pedestrian,Victims
+TIRUCHIRAPPALLI,0.0,Pedestrian,Total
+TIRUCHIRAPPALLI,0.0,Others,Offenders
+TIRUCHIRAPPALLI,0.0,Others,Victims
+TIRUCHIRAPPALLI,0.0,Others,Total
+TIRUCHIRAPPALLI,1.0,Truck/Lorry,Offenders
+TIRUCHIRAPPALLI,7.0,Truck/Lorry,Victims
+TIRUCHIRAPPALLI,8.0,Truck/Lorry,Total
+TIRUCHIRAPPALLI,1.0,Bus,Offenders
+TIRUCHIRAPPALLI,2.0,Bus,Victims
+TIRUCHIRAPPALLI,3.0,Bus,Total
+TIRUCHIRAPPALLI,0.0,SUV/Station Wagon/etc.,Offenders
+TIRUCHIRAPPALLI,8.0,SUV/Station Wagon/etc.,Victims
+TIRUCHIRAPPALLI,8.0,SUV/Station Wagon/etc.,Total
+VADODARA,1.0,Car,Offenders
+VADODARA,4.0,Car,Victims
+VADODARA,5.0,Car,Total
+VADODARA,0.0,Jeep,Offenders
+VADODARA,1.0,Jeep,Victims
+VADODARA,1.0,Jeep,Total
+VADODARA,0.0,Tractor,Offenders
+VADODARA,0.0,Tractor,Victims
+VADODARA,0.0,Tractor,Total
+VADODARA,0.0,Auto Rickshaw,Offenders
+VADODARA,4.0,Auto Rickshaw,Victims
+VADODARA,4.0,Auto Rickshaw,Total
+VADODARA,12.0,Two Wheeler,Offenders
+VADODARA,59.0,Two Wheeler,Victims
+VADODARA,71.0,Two Wheeler,Total
+VADODARA,0.0,Other Motor Vehicles,Offenders
+VADODARA,0.0,Other Motor Vehicles,Victims
+VADODARA,0.0,Other Motor Vehicles,Total
+VADODARA,0.0,Bicycle,Offenders
+VADODARA,5.0,Bicycle,Victims
+VADODARA,5.0,Bicycle,Total
+VADODARA,0.0,Hand Drawn Vehicle,Offenders
+VADODARA,0.0,Hand Drawn Vehicle,Victims
+VADODARA,0.0,Hand Drawn Vehicle,Total
+VADODARA,0.0,Animal Drawn Vehicle,Offenders
+VADODARA,0.0,Animal Drawn Vehicle,Victims
+VADODARA,0.0,Animal Drawn Vehicle,Total
+VADODARA,0.0,Pedestrian,Offenders
+VADODARA,46.0,Pedestrian,Victims
+VADODARA,46.0,Pedestrian,Total
+VADODARA,0.0,Others,Offenders
+VADODARA,0.0,Others,Victims
+VADODARA,0.0,Others,Total
+VADODARA,2.0,Truck/Lorry,Offenders
+VADODARA,18.0,Truck/Lorry,Victims
+VADODARA,20.0,Truck/Lorry,Total
+VADODARA,0.0,Bus,Offenders
+VADODARA,1.0,Bus,Victims
+VADODARA,1.0,Bus,Total
+VADODARA,0.0,SUV/Station Wagon/etc.,Offenders
+VADODARA,0.0,SUV/Station Wagon/etc.,Victims
+VADODARA,0.0,SUV/Station Wagon/etc.,Total
+VARANASI,0.0,Car,Offenders
+VARANASI,0.0,Car,Victims
+VARANASI,0.0,Car,Total
+VARANASI,0.0,Jeep,Offenders
+VARANASI,1.0,Jeep,Victims
+VARANASI,1.0,Jeep,Total
+VARANASI,0.0,Tractor,Offenders
+VARANASI,0.0,Tractor,Victims
+VARANASI,0.0,Tractor,Total
+VARANASI,0.0,Auto Rickshaw,Offenders
+VARANASI,1.0,Auto Rickshaw,Victims
+VARANASI,1.0,Auto Rickshaw,Total
+VARANASI,1.0,Two Wheeler,Offenders
+VARANASI,31.0,Two Wheeler,Victims
+VARANASI,32.0,Two Wheeler,Total
+VARANASI,0.0,Other Motor Vehicles,Offenders
+VARANASI,0.0,Other Motor Vehicles,Victims
+VARANASI,0.0,Other Motor Vehicles,Total
+VARANASI,0.0,Bicycle,Offenders
+VARANASI,0.0,Bicycle,Victims
+VARANASI,0.0,Bicycle,Total
+VARANASI,0.0,Hand Drawn Vehicle,Offenders
+VARANASI,0.0,Hand Drawn Vehicle,Victims
+VARANASI,0.0,Hand Drawn Vehicle,Total
+VARANASI,0.0,Animal Drawn Vehicle,Offenders
+VARANASI,0.0,Animal Drawn Vehicle,Victims
+VARANASI,0.0,Animal Drawn Vehicle,Total
+VARANASI,0.0,Pedestrian,Offenders
+VARANASI,0.0,Pedestrian,Victims
+VARANASI,0.0,Pedestrian,Total
+VARANASI,0.0,Others,Offenders
+VARANASI,0.0,Others,Victims
+VARANASI,0.0,Others,Total
+VARANASI,0.0,Truck/Lorry,Offenders
+VARANASI,7.0,Truck/Lorry,Victims
+VARANASI,7.0,Truck/Lorry,Total
+VARANASI,0.0,Bus,Offenders
+VARANASI,2.0,Bus,Victims
+VARANASI,2.0,Bus,Total
+VARANASI,0.0,SUV/Station Wagon/etc.,Offenders
+VARANASI,8.0,SUV/Station Wagon/etc.,Victims
+VARANASI,8.0,SUV/Station Wagon/etc.,Total
+VASAI VIRAR,9.0,Car,Offenders
+VASAI VIRAR,17.0,Car,Victims
+VASAI VIRAR,26.0,Car,Total
+VASAI VIRAR,0.0,Jeep,Offenders
+VASAI VIRAR,0.0,Jeep,Victims
+VASAI VIRAR,0.0,Jeep,Total
+VASAI VIRAR,0.0,Tractor,Offenders
+VASAI VIRAR,0.0,Tractor,Victims
+VASAI VIRAR,0.0,Tractor,Total
+VASAI VIRAR,0.0,Auto Rickshaw,Offenders
+VASAI VIRAR,3.0,Auto Rickshaw,Victims
+VASAI VIRAR,3.0,Auto Rickshaw,Total
+VASAI VIRAR,29.0,Two Wheeler,Offenders
+VASAI VIRAR,59.0,Two Wheeler,Victims
+VASAI VIRAR,88.0,Two Wheeler,Total
+VASAI VIRAR,1.0,Other Motor Vehicles,Offenders
+VASAI VIRAR,0.0,Other Motor Vehicles,Victims
+VASAI VIRAR,1.0,Other Motor Vehicles,Total
+VASAI VIRAR,0.0,Bicycle,Offenders
+VASAI VIRAR,0.0,Bicycle,Victims
+VASAI VIRAR,0.0,Bicycle,Total
+VASAI VIRAR,0.0,Hand Drawn Vehicle,Offenders
+VASAI VIRAR,0.0,Hand Drawn Vehicle,Victims
+VASAI VIRAR,0.0,Hand Drawn Vehicle,Total
+VASAI VIRAR,0.0,Animal Drawn Vehicle,Offenders
+VASAI VIRAR,0.0,Animal Drawn Vehicle,Victims
+VASAI VIRAR,0.0,Animal Drawn Vehicle,Total
+VASAI VIRAR,0.0,Pedestrian,Offenders
+VASAI VIRAR,5.0,Pedestrian,Victims
+VASAI VIRAR,5.0,Pedestrian,Total
+VASAI VIRAR,0.0,Others,Offenders
+VASAI VIRAR,0.0,Others,Victims
+VASAI VIRAR,0.0,Others,Total
+VASAI VIRAR,12.0,Truck/Lorry,Offenders
+VASAI VIRAR,23.0,Truck/Lorry,Victims
+VASAI VIRAR,35.0,Truck/Lorry,Total
+VASAI VIRAR,1.0,Bus,Offenders
+VASAI VIRAR,1.0,Bus,Victims
+VASAI VIRAR,2.0,Bus,Total
+VASAI VIRAR,0.0,SUV/Station Wagon/etc.,Offenders
+VASAI VIRAR,0.0,SUV/Station Wagon/etc.,Victims
+VASAI VIRAR,0.0,SUV/Station Wagon/etc.,Total
+VIJAYAWADA,1.0,Car,Offenders
+VIJAYAWADA,16.0,Car,Victims
+VIJAYAWADA,17.0,Car,Total
+VIJAYAWADA,0.0,Jeep,Offenders
+VIJAYAWADA,0.0,Jeep,Victims
+VIJAYAWADA,0.0,Jeep,Total
+VIJAYAWADA,0.0,Tractor,Offenders
+VIJAYAWADA,0.0,Tractor,Victims
+VIJAYAWADA,0.0,Tractor,Total
+VIJAYAWADA,0.0,Auto Rickshaw,Offenders
+VIJAYAWADA,8.0,Auto Rickshaw,Victims
+VIJAYAWADA,8.0,Auto Rickshaw,Total
+VIJAYAWADA,9.0,Two Wheeler,Offenders
+VIJAYAWADA,142.0,Two Wheeler,Victims
+VIJAYAWADA,151.0,Two Wheeler,Total
+VIJAYAWADA,0.0,Other Motor Vehicles,Offenders
+VIJAYAWADA,0.0,Other Motor Vehicles,Victims
+VIJAYAWADA,0.0,Other Motor Vehicles,Total
+VIJAYAWADA,0.0,Bicycle,Offenders
+VIJAYAWADA,16.0,Bicycle,Victims
+VIJAYAWADA,16.0,Bicycle,Total
+VIJAYAWADA,0.0,Hand Drawn Vehicle,Offenders
+VIJAYAWADA,0.0,Hand Drawn Vehicle,Victims
+VIJAYAWADA,0.0,Hand Drawn Vehicle,Total
+VIJAYAWADA,0.0,Animal Drawn Vehicle,Offenders
+VIJAYAWADA,0.0,Animal Drawn Vehicle,Victims
+VIJAYAWADA,0.0,Animal Drawn Vehicle,Total
+VIJAYAWADA,0.0,Pedestrian,Offenders
+VIJAYAWADA,72.0,Pedestrian,Victims
+VIJAYAWADA,72.0,Pedestrian,Total
+VIJAYAWADA,0.0,Others,Offenders
+VIJAYAWADA,1.0,Others,Victims
+VIJAYAWADA,1.0,Others,Total
+VIJAYAWADA,4.0,Truck/Lorry,Offenders
+VIJAYAWADA,2.0,Truck/Lorry,Victims
+VIJAYAWADA,6.0,Truck/Lorry,Total
+VIJAYAWADA,0.0,Bus,Offenders
+VIJAYAWADA,3.0,Bus,Victims
+VIJAYAWADA,3.0,Bus,Total
+VIJAYAWADA,0.0,SUV/Station Wagon/etc.,Offenders
+VIJAYAWADA,0.0,SUV/Station Wagon/etc.,Victims
+VIJAYAWADA,0.0,SUV/Station Wagon/etc.,Total
+VISHAKHAPATNAM,2.0,Car,Offenders
+VISHAKHAPATNAM,4.0,Car,Victims
+VISHAKHAPATNAM,6.0,Car,Total
+VISHAKHAPATNAM,0.0,Jeep,Offenders
+VISHAKHAPATNAM,0.0,Jeep,Victims
+VISHAKHAPATNAM,0.0,Jeep,Total
+VISHAKHAPATNAM,0.0,Tractor,Offenders
+VISHAKHAPATNAM,0.0,Tractor,Victims
+VISHAKHAPATNAM,0.0,Tractor,Total
+VISHAKHAPATNAM,4.0,Auto Rickshaw,Offenders
+VISHAKHAPATNAM,7.0,Auto Rickshaw,Victims
+VISHAKHAPATNAM,11.0,Auto Rickshaw,Total
+VISHAKHAPATNAM,106.0,Two Wheeler,Offenders
+VISHAKHAPATNAM,27.0,Two Wheeler,Victims
+VISHAKHAPATNAM,133.0,Two Wheeler,Total
+VISHAKHAPATNAM,0.0,Other Motor Vehicles,Offenders
+VISHAKHAPATNAM,0.0,Other Motor Vehicles,Victims
+VISHAKHAPATNAM,0.0,Other Motor Vehicles,Total
+VISHAKHAPATNAM,1.0,Bicycle,Offenders
+VISHAKHAPATNAM,0.0,Bicycle,Victims
+VISHAKHAPATNAM,1.0,Bicycle,Total
+VISHAKHAPATNAM,0.0,Hand Drawn Vehicle,Offenders
+VISHAKHAPATNAM,0.0,Hand Drawn Vehicle,Victims
+VISHAKHAPATNAM,0.0,Hand Drawn Vehicle,Total
+VISHAKHAPATNAM,0.0,Animal Drawn Vehicle,Offenders
+VISHAKHAPATNAM,0.0,Animal Drawn Vehicle,Victims
+VISHAKHAPATNAM,0.0,Animal Drawn Vehicle,Total
+VISHAKHAPATNAM,0.0,Pedestrian,Offenders
+VISHAKHAPATNAM,82.0,Pedestrian,Victims
+VISHAKHAPATNAM,82.0,Pedestrian,Total
+VISHAKHAPATNAM,2.0,Others,Offenders
+VISHAKHAPATNAM,8.0,Others,Victims
+VISHAKHAPATNAM,10.0,Others,Total
+VISHAKHAPATNAM,8.0,Truck/Lorry,Offenders
+VISHAKHAPATNAM,3.0,Truck/Lorry,Victims
+VISHAKHAPATNAM,11.0,Truck/Lorry,Total
+VISHAKHAPATNAM,1.0,Bus,Offenders
+VISHAKHAPATNAM,0.0,Bus,Victims
+VISHAKHAPATNAM,1.0,Bus,Total
+VISHAKHAPATNAM,0.0,SUV/Station Wagon/etc.,Offenders
+VISHAKHAPATNAM,0.0,SUV/Station Wagon/etc.,Victims
+VISHAKHAPATNAM,0.0,SUV/Station Wagon/etc.,Total
+,46.0,Bicycle,Offenders
+,211.0,Bicycle,Victims
+,257.0,Bicycle,Total
+,1.0,Hand Drawn Vehicle,Offenders
+,12.0,Hand Drawn Vehicle,Victims
+,13.0,Hand Drawn Vehicle,Total
+,0.0,Animal Drawn Vehicle,Offenders
+,4.0,Animal Drawn Vehicle,Victims
+,4.0,Animal Drawn Vehicle,Total
