@@ -53,8 +53,6 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 ![Candidate nominations by political party, age, and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationPartyAgeSex.png)
 
 
-## Welcome to DataViz
-
 # Traffic accident mortality
 [Interactive version](https://elseasama.github.io/dataviz/chn/mortality/accidentscause2020.html)
 ![Cause of accident-2020](https://raw.githubusercontent.com/elseasama/dataviz/main/chn/mortality/img/cause.png)
