@@ -43,11 +43,17 @@ Source: [GREATER CHENNAI CORPORATION](https://chennaicorporation.gov.in/gcc/)
 
 ![Nominations filed by wards in Chennai](https://raw.githubusercontent.com/elseasama/OpenDataChennai/9216c74f662e3e2fff7b013465953faba52dae73/img/2022nominationsByWardupdated.svg)
 
+
+[Interactive version](https://elseasama.github.io/dataviz/chn2022.html)
+![Candidate won by ward and political party](https://github.com/elseasama/OpenDataChennai/blob/main/img/chnresult2022.png)
+![Wards won by political party](https://github.com/elseasama/OpenDataChennai/blob/main/img/chnpartyresult2022.png)
+
 [Interactive map of reservation by wards in Chennai](https://elseasama.github.io/dataviz/reservation/index.html)
 
 ![Reservation by wards in Chennai](https://github.com/elseasama/OpenDataChennai/blob/main/img/chennaiwardreservation.svg)
 
 ![Candidate nominations by age and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/chndistbyagesex.png)
+![councillor by political party, age, and sex of candidate](https://github.com/elseasama/OpenDataChennai/blob/main/img/chncoundistagesex.png)
 
 [Interactive version](https://elseasama.github.io/dataviz/chn/chnageparty.html)
 ![Candidate nominations by political party, age, and sex of candidate](https://raw.githubusercontent.com/elseasama/OpenDataChennai/main/img/nominationPartyAgeSex.png)
