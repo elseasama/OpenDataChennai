@@ -1,4 +1,4 @@
-Lat,Lon,Title,State,Case,,Contacts,From,Source,Date,Age,Sex,Case,Symptoms,Time of symptoms,Clade,Lineage
+Lat,Lon,Title,State,Case,Deaths,Contacts,From,Source,Date,Age,Sex,Case,Symptoms,Time of symptoms,Clade,Lineage
 8.4882267,76.947551,Thiruvananthapuram,Kerala,1,0,11,🇦🇪,https://timesofindia.indiatimes.com/india/indias-first-monkeypox-case-reported-in-kerala/articleshow/92880420.cms,14-07-2022,35,Male,1,,,hMPXV-1,A.2
 11.8745,75.3704,Kannur,Kerala,1,0,-,🇦🇪,https://timesofindia.indiatimes.com/india/kerala-reports-indias-second-monkeypox-case-centre-advises-screening-international-passengers/articleshow/92955860.cms,18-07-2022,31,Male,2,,,hMPXV-1,A.2
 11.0510,76.0711,Malappuram,Kerala,1,0,-,🇦🇪,https://timesofindia.indiatimes.com/city/kochi/third-monkeypox-case-reported-in-kerala/articleshow/93049563.cms,22-07-2022,35,Male,3,,,,
