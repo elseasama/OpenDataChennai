@@ -1,0 +1,574 @@
+State,Centre,Rice,Broken Rice,Wheat,Atta (Wheat),Gram Dal,Tur/Arhar Dal,Urad Dal,Moong Dal,Masoor Dal,Sugar,Milk @,Groundnut Oil (Packed),Mustard Oil (Packed),Vanaspati (Packed),Soya Oil (Packed),Sunflower Oil (Packed),Palm Oil (Packed),Gur,Tea Loose,Salt Pack (Iodised),Potato,Onion,Tomato,Bajra (whole),Jowar (whole),Maida (wheat),Ragi (whole),Suji (whole),Besan,Desi Ghee,Butter (Pasteurised),Eggs,Brinjal,Black Pepper (whole),Coriander (whole),Cummin Seed (whole),Red Chillies (whole),Turmeric (powder),Banana,Ginger,Garlic,Date
+Unit,Qty,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 ltr,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,1 Kg,100 gm,Dozen,1 Kg,100 gm,250 gm,100 gm,100 gm,50 gm,1 Kg,100 gm,100 gm,2024-03-25
+Average Price,Average Price,46.07,,31,36.59,85.55,151.51,127.09,119.54,94.51,44.47,57.91,189.45,135.16,126.47,121.39,122.55,101.34,53.95,282.8,21.87,25.51,32.28,32.06,,,,,,,,,,,,,,,,,,,2024-03-25
+Maximum Price,Maximum Price,75,,62,69,136,203,175,164,158,60,80,262,235,220,180,230,168,167,560,33,63,70,80,,,,,,,,,,,,,,,,,,,2024-03-25
+Minimum Price,Minimum Price,25,,21,27,60,87,85,85,70,38,40,124,110,91,98,104,83,37,157,10,11,14,12,,,,,,,,,,,,,,,,,,,2024-03-25
+Modal Price,Modal Price,40,,45,35,82.5,160,120,120,100,44,60,175,127.5,125,110,115,98.5,50,300,28,20,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+NORTH ZONE,NORTH ZONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Chandigarh,Chandigarh,42,,32,36,80,135,115,113,94,NR,NR,190,150,128,130,145,105,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Delhi,Delhi,40,,29,32,83,160,145,125,88,44,54,209,146,124,133,140,106,60,245,26,25,35,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Haryana,Hisar,35,,27,29,75,145,109,108,75,42,57,188,117,108,114,123,102,40,240,25,14,25,32,,,,,,,,,,,,,,,,,,,2024-03-25
+Haryana,Karnal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Haryana,Panchkula,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Haryana,Gurgaon,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Shimla,44,,NR,37,85,165,143,126,91,50,60,214,165,131,121,NR,NR,55,220,28,25,35,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Mandi,42,,NR,34,78,161,140,126,80,46,47,224,159,130,121,145,119,47,270,28,20,34,36,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Dharamshala,28,,NR,30,84,153,131,127,93,45,40,NR,160,136,137,NR,NR,47,220,28,24,30,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Solan,41,,NR,32,83,157,135,117,85,46,50,214,159,128,120,134,NR,49,220,28,22,37,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Una,41,,NR,31,82,156,131,121,85,44,64,NR,141,133,117,NR,NR,50,225,28,23,35,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Bilaspur-hp,44,,NR,31,81,157,134,118,87,46,58,NR,161,130,133,NR,NR,45,318,27,20,33,42,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Chamba,36,,NR,35,83,156,130,120,89,50,55,NR,163,140,129,NR,NR,44,235,28,21,35,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Hamirpur-HP,39,,NR,31,83,162,132,119,89,45,65,NR,161,135,NR,NR,NR,46,259,28,25,32,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Kullu,40,,NR,32,81,167,132,111,85,46,40,NR,154,129,110,141,NR,42,240,28,20,40,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Sirmour,37,,21,34,79,110,130,108,96,45,50,228,165,135,143,155,121,41,327,25,29,37,42,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Kinnaur,40,,NR,35,79,149,131,114,85,46,45,NR,145,115,117,132,NR,43,229,27,28,40,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Himachal Pradesh,Lahaul & Spiti,40,,NR,40,90,165,120,100,100,50,70,NR,170,150,NR,NR,NR,55,480,28,40,50,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Srinagar,38,,36,50,100,130,120,140,115,50,45,NR,140,135,132,163,NR,50,293,28,30,40,48,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Jammu,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Poonch,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Kupwara,36,,26,34,90,110,110,120,100,60,48,NR,148,145,143,148,142,50,307,24,22,41,43,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Udhampur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Shopian,40,,45,45,120,125,115,120,115,50,49,NR,155,145,145,145,NR,50,345,28,25,35,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Samba,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Ramban,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Rajouri,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Kishtwar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Doda,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Baramulla,35,,32,36,90,140,120,120,100,50,51,NR,139,131,130,142,148,52,363,28,30,34,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Reasi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jammu and Kashmir,Kathua,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Amritsar,36,,29,38,72,154,115,112,90,42,54,190,115,115,108,118,NR,45,260,26,20,28,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Ludhiana,37,,24,32,87,168,140,115,95,43,60,210,137,122,127,135,NR,50,320,27,22,33,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Bathinda,40,,23,29,85,163,140,120,97,44,57,218,135,122,120,137,102,54,293,25,19,33,42,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Barnala,40,,23,27,85,163,125,110,85,44,54,208,117,112,105,120,90,42,317,28,19,31,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Hoshiarpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Faridkot,42,,23,32,87,153,132,127,92,45,55,233,127,122,112,132,93,52,313,28,22,28,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Mansa,40,,24,28,90,127,110,100,98,48,52,NR,125,125,130,NR,NR,55,280,28,20,31,39,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Sri Muktsar Sahib,41,,26,31,82,160,120,120,92,42,62,203,110,113,112,117,97,46,247,26,22,32,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Dera Bassi,38,,22,30,86,160,120,120,110,43,55,NR,128,117,120,NR,NR,53,247,28,19,30,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Sangrur,42,,27,30,81,157,116,110,81,45,60,162,125,117,119,126,101,42,220,29,20,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Ropar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Amargarh,42,,26,30,80,160,118,120,80,45,60,160,115,120,120,130,100,40,250,28,16,25,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Fatehgarh Sahib,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Ferozepur,42,,25,33,90,190,142,124,99,43,60,222,123,123,120,146,98,50,281,28,17,26,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Punjab,Kapurthala,34,,25,31,83,128,122,125,115,44,67,213,123,135,139,138,112,62,263,21,19,35,43,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Lucknow,40,,30,34,83,145,125,120,83,44,66,211,130,117,120,125,116,45,265,28,25,30,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Kanpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Varanasi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Agra,44,,28,30,85,139,107,102,84,45,67,178,134,130,126,124,120,40,240,28,19,35,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Jhansi,43,,25,32,78,155,104,111,81,45,52,191,121,111,102,121,112,43,210,26,18,21,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Meerut,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Allahabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Gorakhpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Saharanpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Bareilly,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Ayodhya,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Moradabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Aligarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Mirzapur (Vindhyanchal),NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Banda,38,,28,36,78,140,115,112,78,42,63,197,123,115,106,163,100,52,165,21,21,29,34,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Azamgarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Gonda (Devipatan),NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Amethi,37,,25,38,75,125,92,110,88,44,62,189,163,134,153,190,118,50,259,25,22,46,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Barabanki,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Bhadohi,34,,23,29,65,135,95,100,89,43,60,190,160,145,145,185,105,50,235,25,18,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Chandauli,30,,26,33,80,140,120,118,80,42,60,134,120,120,105,110,90,55,250,26,20,29,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Farrukhabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Ghazipur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Jaunpur,44,,27,35,80,142,120,122,80,43,62,185,140,122,118,164,90,57,260,28,20,30,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,UP-Pratapgarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Sambhal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Santkabir Nagar,32,,25,32,76,125,115,112,96,43,62,183,150,145,145,175,NR,44,257,28,14,45,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Shahjahanpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Sitapur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Sultanpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Unnao,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Ambedkar Nagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Amroha,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Baghpat,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Bijnor,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Budaun,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Etah,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Fatehpur,37,,25,41,75,120,155,115,100,42,64,207,147,128,135,163,120,48,215,19,17,32,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Ghaziabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Hardoi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Jalaun,33,,27,32,84,159,108,105,89,42,56,184,142,152,151,170,105,52,232,28,18,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Kaushambi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Kushinagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Lakhimpur Kheri,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Pilibhit,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Sharwasti,40,,27,33,85,147,127,124,84,45,50,147,142,115,137,NR,102,44,203,28,19,28,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Siddharth Nagar,40,,28,30,80,157,120,140,82,45,64,166,142,126,132,165,104,50,233,26,20,30,33,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Sonbhadra,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Rampur,51,,26,29,81,131,110,111,87,42,55,162,131,126,116,143,93,45,255,16,22,29,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Bahraich,36,,26,33,70,155,130,110,96,42,45,155,148,137,144,127,120,45,250,27,19,34,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Basti,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Etawah,43,,30,35,85,166,128,102,92,45,65,188,133,133,130,182,115,44,223,30,14,29,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Muzzafarnagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Chitrakoot,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Hamirpur-UP,45,,27,33,85,160,146,111,86,44,70,220,135,132,107,138,93,44,265,26,21,33,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Deoria,43,,29,31,72,138,104,113,105,45,58,204,130,123,122,153,139,46,224,28,21,27,36,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Hapur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Bulandshahr,40,,25,35,85,140,100,100,90,44,70,NR,125,123,123,188,100,40,250,26,19,22,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Kanpur Dehat,40,,24,30,105,140,140,107,90,45,66,180,125,135,135,130,95,50,210,28,17,28,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Hathras,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Raebareli,43,,29,33,87,148,122,122,92,45,67,222,132,127,133,132,112,52,222,27,25,42,43,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Lalitpur,36,,23,29,67,138,92,94,90,41,53,172,132,129,126,188,134,39,258,25,19,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Mohaba,33,,25,30,87,137,98,97,90,46,58,150,120,112,118,172,105,50,192,28,20,24,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Gautam Budh Nagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Auraiya,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Maharajganj,34,,27,33,78,147,120,120,80,44,63,203,138,115,129,151,101,46,213,27,21,27,44,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Balrampur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Kannauj,38,,26,30,80,148,100,108,82,44,69,175,130,120,135,182,118,41,242,28,20,31,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Mathura,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Firozabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Kasganj,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Mainpuri,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Shamli,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Ballia,32,,29,32,84,158,111,111,98,43,56,200,160,148,147,147,150,50,243,27,13,26,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttar Pradesh,Mau,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttarakhand,Dehradun,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttarakhand,Haldwani,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttarakhand,Rudrapur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Uttarakhand,Haridwar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+WEST ZONE,WEST ZONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Raipur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Durg,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Ambikapur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Bilaspur-CG,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Jagdalpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Dantewada,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Dhamtari,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Rajnandgaon,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Chhattisgarh,Koriya,38,,33,35,75,148,98,113,80,42,76,198,131,95,124,173,110,47,200,27,20,25,20,,,,,,,,,,,,,,,,,,,2024-03-25
+DNH and DD,Silvasa,58,,43,43,88,161,135,131,94,41,66,178,140,140,114,123,102,57,490,27,20,22,20,,,,,,,,,,,,,,,,,,,2024-03-25
+DNH and DD,Daman,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+DNH and DD,Diu,47,,37,58,90,175,153,133,100,44,61,220,168,139,165,138,117,70,360,28,22,26,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Goa,Panaji,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Goa,Margao,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Ahmedabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Rajkot,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Surat,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Bhuj,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Selamba,60,,40,44,90,160,140,130,100,42,68,172,135,122,120,123,120,45,267,15,22,28,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Waghai,42,,40,46,80,140,120,130,105,43,56,192,153,143,155,135,122,49,257,14,28,38,32,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Bodeli,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Vapi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Bilimora,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Idar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Jhalod,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Gujarat,Songash,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Bhopal,38,,30,32,82,152,122,112,82,43,60,176,135,121,106,125,NR,50,270,12,18,21,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Indore,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Gwalior,36,,34,43,82,160,120,129,90,44,66,214,141,121,115,125,NR,54,230,28,12,25,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Jabalpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Rewa,42,,24,50,91,104,99,116,96,46,53,172,157,113,142,141,NR,44,393,19,17,24,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Sagar,41,,25,28,73,148,122,108,85,41,59,194,133,105,109,119,94,43,233,22,17,18,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Jhabua,44,,27,35,88,161,122,123,94,42,56,187,135,129,109,138,NR,53,300,22,29,33,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Hoshangabad,47,,28,34,86,168,114,115,101,44,60,185,126,106,111,122,96,45,400,13,25,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Shahdol,33,,32,35,70,170,95,105,85,42,75,170,130,125,115,170,NR,44,180,25,20,30,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Ujjain,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Morena,36,,28,30,85,180,120,115,100,NR,NR,180,110,125,125,175,100,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Anuppur,35,,30,34,80,150,105,120,90,45,50,210,130,100,110,130,90,45,200,10,20,30,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Bhind,39,,33,36,70,123,93,95,90,43,60,163,123,120,125,165,120,38,230,15,18,38,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Dhar,45,,28,42,83,159,124,113,105,42,57,182,136,125,106,133,168,49,228,23,20,28,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Harda,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Katni,35,,27,30,80,150,120,120,80,45,50,190,110,110,110,125,110,45,180,28,20,28,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Khandwa,32,,24,30,69,157,112,113,108,41,NR,181,155,138,99,158,NR,50,255,NR,21,26,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Mandla,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Rajgarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Sidhi,36,,26,34,95,140,95,95,95,44,60,253,125,120,115,157,140,45,260,28,25,30,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Chattarpur,30,,26,30,83,190,95,130,93,45,50,210,127,130,115,135,119,55,230,19,20,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Neemuch,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Burhanpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Narshinpur,39,,27,39,75,163,120,115,85,44,55,195,153,110,104,143,NR,39,282,12,17,22,17,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Raisen,39,,28,30,80,157,120,117,90,42,60,187,132,110,108,NR,NR,45,220,28,20,27,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Sheopur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Agar malwa,45,,24,32,80,170,128,115,95,40,56,NR,132,120,107,120,NR,45,365,16,20,24,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Umaria,43,,32,35,70,130,115,115,87,44,60,150,125,108,118,203,NR,42,220,18,22,28,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Shajapur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Dewas,42,,24,32,82,152,115,110,90,41,56,173,122,113,98,110,NR,43,225,11,23,25,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Khargone,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Singrauli,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Chhindwara,47,,25,32,85,155,120,120,85,44,55,231,159,114,127,132,132,40,200,10,22,30,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Sehore,38,,25,32,85,155,119,110,85,42,50,173,125,120,110,122,NR,45,211,11,19,29,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,MP-Ashoknagar,41,,29,31,70,150,125,118,90,42,58,250,140,138,123,140,110,40,215,28,20,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Balaghat,39,,35,34,80,148,128,120,89,40,52,213,154,128,115,130,NR,52,200,10,20,30,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Guna,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Ratlam,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Satna,31,,25,35,75,140,100,100,80,42,60,210,128,118,130,128,103,45,200,28,18,33,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Vidisha,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Alirajpur,40,,30,35,90,160,115,105,107,43,65,210,143,141,115,130,100,50,297,10,25,37,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Betul,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Damoh,32,,30,32,80,160,120,110,85,44,50,195,135,125,115,125,NR,49,205,10,20,29,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Dindori,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Niwari,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Seoni,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Panna,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Madhya Pradesh,Tikamgarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Mumbai,43,,48,55,113,201,175,164,107,49,58,194,186,146,137,151,109,80,310,27,31,28,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Nagpur,52,,45,50,85,155,125,125,90,52,63,200,150,145,109,116,89,65,283,27,38,36,42,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Pune,61,,42,50,84,168,122,131,84,47,69,191,151,118,115,112,110,46,316,27,23,14,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Nashik,40,,42,41,87,159,133,123,90,41,54,178,170,123,102,115,96,54,300,26,27,30,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Mangaon-Raigad,44,,44,43,84,150,133,122,92,44,55,205,126,116,115,110,105,63,300,23,20,20,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Dharni,39,,35,35,82,150,120,123,88,42,50,182,148,124,114,137,NR,49,299,13,28,29,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Latur,57,,33,36,88,172,139,136,102,39,65,205,141,95,108,111,106,45,201,28,25,22,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Akluj,47,,34,38,82,157,127,121,101,42,50,185,128,123,116,124,102,56,305,25,29,25,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Arni Yavatmal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Chandrapur,51,,44,44,74,162,140,125,106,45,67,184,162,163,108,112,NR,59,227,28,30,22,15,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Karad Satara,46,,38,46,84,162,148,133,98,41,70,186,168,130,110,114,100,49,282,28,30,25,27,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Ahemednagar,59,,44,47,84,159,129,119,100,40,53,164,149,119,126,128,114,44,228,28,24,21,39,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Khultabad,59,,30,35,72,145,121,119,84,40,48,177,NR,131,105,121,93,56,300,20,29,32,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Islampur,61,,43,48,86,160,139,120,100,40,69,182,176,105,125,131,105,49,323,30,35,22,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Kankavli,46,,43,44,95,162,145,131,101,43,55,180,172,136,108,109,100,53,355,20,34,28,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Partur,70,,33,40,70,160,110,110,101,40,55,164,198,159,110,144,98,40,409,10,30,27,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Gondia,55,,40,43,78,143,111,110,81,41,50,156,140,107,113,115,103,51,218,22,22,20,16,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Jalgaon,53,,39,40,91,156,139,129,110,42,60,207,152,125,107,108,122,62,368,27,25,25,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Maharashtra,Akola,40,,33,38,76,154,125,115,100,43,65,183,141,133,102,112,90,54,285,26,27,30,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Jaipur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Jodhpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Kota,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Udaipur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Bharatpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Ajmer,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Bikaner,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Bundi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Rajsamand,39,,29,33,78,161,117,117,88,42,63,172,137,122,110,125,NR,49,285,16,24,28,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Alwar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Banswara,38,,26,34,69,138,103,103,92,41,53,175,145,110,162,165,NR,46,363,23,21,31,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Baran,35,,30,27,70,95,89,87,80,39,50,130,138,119,127,125,NR,37,200,14,22,22,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Barmer,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Bhilwara,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Chhitorgarh,47,,26,37,88,157,120,117,100,44,56,188,173,141,127,127,110,45,325,19,20,31,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Churu,32,,28,30,70,87,98,90,82,39,46,172,168,145,148,169,NR,38,305,15,25,30,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Dholapur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Dungarpur,37,,28,31,65,115,124,117,121,44,56,NR,NR,NR,NR,NR,NR,51,293,28,27,37,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Hanumangarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Jaisalmer,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Jalore,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Jhalawar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Jhunjhunu,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Karauli,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Nagaur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Pali,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,RJ-Pratapgarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Sikar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Sirohi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Sri Ganganagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Tonk,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Rajasthan,Sawai Madhopur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+EAST ZONE,EAST ZONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Patna,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Bhagalpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Purnia,36,,31,35,76,136,116,109,74,45,51,NR,124,102,114,NR,98,42,314,13,20,28,39,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Darbhanga,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Gaya,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Muzzafarpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Saran,41,,29,35,82,150,126,119,81,45,56,146,126,127,122,145,109,48,265,26,19,47,68,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Munger,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Saharsa,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Madhubani,40,,29,33,77,138,124,112,80,44,54,154,127,128,122,152,95,49,300,19,17,30,31,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Rohtas (Sasaram),31,,25,31,80,143,124,98,78,44,66,220,133,103,108,115,108,52,237,25,21,32,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Motihari,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Samastipur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Katihar,37,,29,32,78,151,124,113,76,44,57,NR,133,129,130,145,NR,48,326,19,16,28,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Araria,41,,25,40,81,142,142,100,82,44,56,NR,130,121,121,182,92,49,280,23,14,28,44,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Nawada,38,,25,35,86,160,122,114,83,44,60,227,153,120,114,170,111,50,280,27,19,33,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Khagaria,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Banka,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Arwal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Aurangabad,35,,25,32,74,151,120,118,78,44,59,222,130,146,133,197,117,52,197,27,22,36,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Begusarai,37,,27,31,75,124,109,104,80,43,53,NR,125,121,119,NR,96,44,319,13,13,29,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Bhojpur Ara,43,,27,32,82,139,124,129,74,45,56,225,144,162,145,198,NR,49,362,29,20,25,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Buxar,30,,27,30,76,140,123,123,79,44,60,128,148,118,118,148,117,44,260,28,16,29,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Gopalganj,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Jamui,38,,28,33,72,139,117,114,75,43,57,NR,129,111,131,NR,122,38,254,29,17,33,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Jehanabad,35,,30,34,75,149,127,119,76,43,55,NR,137,119,121,162,NR,45,244,25,19,28,27,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Kaimur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Kishanganj,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Lakhisarai,37,,30,35,73,144,110,115,86,46,58,NR,148,128,138,NR,128,44,256,26,19,38,44,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Medhepura,39,,26,34,77,141,127,114,74,46,56,NR,129,101,114,119,97,44,339,12,19,33,42,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Nalanda,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Sheikhpura,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Sheohar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Sitamarhi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Siwan,35,,26,30,72,139,101,109,73,43,54,182,124,96,119,185,87,44,200,25,22,25,27,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Supaul,38,,27,32,78,160,117,113,79,44,51,165,125,120,135,180,100,50,365,14,11,24,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,Vaishali,36,,29,32,72,138,118,113,74,44,60,150,115,101,114,160,89,45,207,27,14,27,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Bihar,West Champaran,41,,25,36,81,135,115,100,85,42,52,166,134,162,144,203,118,47,290,16,21,33,32,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Ranchi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Gumla,40,,29,34,85,125,105,98,70,43,55,209,137,110,110,198,104,40,270,10,16,25,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Sahibganj,40,,31,34,74,174,100,120,90,46,58,211,145,123,NR,NR,NR,52,380,20,18,25,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Bokaro,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Lohardaga,25,,28,36,72,148,118,107,73,44,59,NR,130,128,125,152,106,44,203,25,12,22,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Simdega,39,,NR,35,77,148,123,121,77,43,59,NR,137,125,128,126,110,41,NR,27,18,24,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Dhanbad,38,,35,36,82,142,128,115,80,46,62,210,140,122,125,122,120,50,300,25,18,20,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Jamshedpur (East Singbhum),47,,32,34,110,127,110,104,92,45,58,200,147,142,165,170,110,45,220,25,19,35,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Giridhi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Seraikella,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,West Singhbhum,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Daltonganj,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Deoghar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Ramgarh,35,,33,36,60,151,124,112,74,46,NR,NR,132,123,153,190,103,44,279,25,28,38,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Pakur,49,,35,37,83,150,119,118,111,46,59,125,132,112,113,141,99,53,413,28,19,20,34,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Jamtara,35,,28,34,81,151,131,121,86,45,60,142,126,105,126,121,101,48,348,28,21,25,31,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Latehar,37,,23,31,73,134,115,107,73,45,62,NR,122,154,116,124,94,42,226,30,23,30,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Godda,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Jharkhand,Koderma,38,,30,33,80,145,128,120,80,45,59,149,127,105,126,150,103,50,204,27,22,23,32,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Bhubaneshwar,37,,35,42,80,145,121,119,80,44,52,NR,132,125,NR,112,97,52,227,25,24,25,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Cuttack,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Sambalpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Rourkela,33,,38,41,77,140,119,110,75,44,52,NR,129,100,108,114,97,49,180,27,22,23,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Berhampur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Jeypore,43,,39,35,80,145,118,115,78,43,52,NR,128,107,NR,112,106,50,210,27,24,26,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Balasore,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Baripada,37,,30,38,80,155,120,115,79,45,52,168,137,103,132,115,100,60,230,26,20,25,27,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Balangir,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Angul,35,,NR,39,69,139,132,101,77,44,54,NR,130,NR,NR,114,85,43,374,25,17,47,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Boudhgarh,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Dhenkanal,36,,35,40,75,147,120,113,80,44,52,180,135,123,126,115,85,55,370,27,20,30,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Jagatsinghpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Kandhamal,38,,38,42,83,148,132,117,80,51,58,NR,135,123,NR,115,90,53,NR,27,21,32,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Keonjhar,39,,38,43,84,153,121,121,100,45,50,NR,133,104,NR,117,102,51,369,27,19,38,42,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Malkangiri,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Nabarangpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Nayagarh,38,,NR,39,75,145,120,120,90,44,52,NR,129,117,NR,111,90,55,NR,26,22,26,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Nuapada,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Paralakhemundi Gajapati,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Puri,39,,36,41,79,153,121,114,81,44,52,NR,133,112,NR,115,96,53,277,25,21,30,27,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Rayagada,38,,33,38,82,160,136,120,80,47,52,160,138,95,144,108,91,47,NR,27,26,28,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Sonepur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Bhadrak,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Jharsuguda,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Kendrapara,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Jajpur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Odisha,Kalahandi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Kolkata,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Siliguri,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Purulia,33,,NR,31,89,152,120,112,82,43,51,124,125,93,115,125,86,47,291,25,17,24,27,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Kharagpur,53,,35,38,85,150,126,114,98,46,54,216,135,104,119,124,102,50,238,27,22,30,20,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Rampurhat,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Malda,43,,26,42,73,155,115,110,105,43,56,NR,140,96,122,141,119,61,320,21,21,25,23,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Raiganj,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Alipurduar,38,,NR,44,75,175,110,115,110,47,68,NR,120,100,110,125,98,55,238,10,19,39,38,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Asansol,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Balurghat,46,,31,40,78,150,124,112,95,46,46,NR,124,114,105,116,86,41,337,10,19,28,25,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Bankura,38,,NR,34,83,151,135,150,113,46,59,235,128,118,110,124,91,49,280,27,18,30,19,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Barasat,43,,35,40,85,125,NR,135,112,46,60,200,133,114,113,108,110,56,235,30,27,58,43,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Bardhaman,48,,NR,38,85,153,130,120,110,44,54,220,122,110,106,120,97,58,260,25,19,26,29,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Baruipur,59,,NR,35,89,122,125,145,119,43,55,NR,132,122,105,120,102,43,223,27,25,31,22,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Berhampore,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Chinsurah,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Cooch behar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Howrah,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Jalapiguri,37,,28,45,85,160,110,118,107,45,56,NR,123,125,110,123,100,50,300,25,20,32,30,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Jhargram,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Kalimpong,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Krishnagar,36,,NR,37,70,123,104,138,107,42,44,178,113,133,116,130,114,44,253,19,23,68,61,,,,,,,,,,,,,,,,,,,2024-03-25
+West Bengal,Tamluk,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+NORTH EAST ZONE,NORTH EAST ZONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Andaman and Nicobar,Port Blair,49,,NR,69,96,164,155,138,96,54,73,NR,176,198,NR,132,126,74,325,20,45,45,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Andaman and Nicobar,Mayabunder,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Andaman and Nicobar,Car Nicobar,52,,NR,67,101,190,159,142,108,60,75,262,169,160,NR,139,120,85,285,21,50,60,70,,,,,,,,,,,,,,,,,,,2024-03-25
+Arunachal pradesh,Itanagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Arunachal pradesh,Namsai,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Arunachal pradesh,Pasighat,50,,NR,60,100,167,140,123,103,60,80,167,173,137,143,190,NR,80,327,20,30,60,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Arunachal pradesh,Tawang,42,,42,42,95,130,140,120,120,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Guwahati,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Barpeta,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Tinsukia,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Dhubri,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Goalpara,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Golaghat,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Mangaldai,49,,33,37,87,117,97,116,99,50,70,NR,161,144,141,180,135,60,280,14,21,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Mushalpur,41,,34,34,80,142,NR,117,87,46,70,NR,142,142,167,158,102,46,213,10,19,27,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Udalguri,40,,27,38,80,140,120,110,80,49,70,NR,142,130,118,153,97,50,258,20,15,32,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Bajali,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Hojai,47,,NR,36,80,145,85,115,85,49,73,NR,125,100,118,127,102,60,230,10,18,31,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Jorhat,48,,30,43,96,148,93,125,114,47,74,243,158,152,115,162,115,65,217,12,21,29,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Bongaigaon,38,,NR,31,70,115,95,109,105,45,72,NR,140,152,149,174,109,50,348,10,15,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Morigaon,40,,NR,39,81,150,110,120,95,44,60,NR,142,140,147,150,107,60,237,10,15,30,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Sonari,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Tamulpur,49,,36,36,85,140,125,119,94,47,68,NR,143,114,129,NR,99,50,290,10,18,27,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Sivasagar,50,,NR,47,84,132,125,131,94,49,78,NR,142,130,142,NR,NR,67,270,10,18,30,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Biswanath Chariali,45,,NR,30,75,145,NR,105,100,48,74,NR,143,140,175,175,NR,54,225,12,19,52,36,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Dibrugarh,43,,NR,41,86,161,125,121,94,47,74,NR,142,138,126,137,NR,55,273,23,21,28,45,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Karimganj,39,,NR,37,83,150,133,111,80,45,72,NR,132,NR,110,127,97,55,239,14,21,26,46,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Majuli,50,,NR,38,92,158,88,120,100,49,70,NR,135,NR,132,NR,NR,59,256,15,23,38,68,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Sonitpur Tezpur,41,,NR,36,69,127,108,102,100,45,69,226,160,172,142,171,NR,46,297,10,18,26,44,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Haflong,46,,NR,36,78,130,NR,120,90,55,72,NR,150,NR,130,140,NR,80,250,30,20,40,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,AS-Lakhimpur,38,,NR,33,81,147,97,107,91,46,71,NR,138,125,123,126,NR,60,175,15,18,28,33,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Diphu,42,,NR,35,90,157,142,126,97,50,74,NR,142,NR,133,163,110,76,237,15,20,32,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Nalbari,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,South Salmara Mankachar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Assam,Kamrup,39,,NR,35,88,175,120,115,88,46,74,NR,142,NR,127,142,104,59,266,20,19,35,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Imphal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Chandel,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Jiribam,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Kangpokpi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Senapati,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Tamenglong,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Thoubal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Manipur,Ukhrul,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Shillong,45,,37,36,90,160,123,113,100,48,74,NR,125,130,112,NR,NR,70,300,30,25,35,43,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Tura,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Jowai,36,,38,36,90,120,110,120,90,48,74,NR,120,NR,120,230,NR,80,360,30,20,40,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Sohra,38,,39,39,NR,140,147,117,87,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Mairang,40,,38,37,NR,NR,NR,118,90,53,74,NR,120,NR,120,NR,NR,NR,340,12,22,42,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Nongpoh,36,,NR,36,87,170,130,122,88,50,75,NR,132,132,126,179,NR,73,423,15,25,37,43,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Khliehriat,45,,40,38,90,155,118,122,88,50,74,NR,160,137,138,NR,NR,43,333,30,20,30,43,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Williamnagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Nongstoin,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Meghalaya,Mawkyrwat,38,,36,36,NR,NR,NR,122,82,49,74,NR,125,NR,112,NR,NR,NR,345,16,20,46,45,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Aizawl,50,,40,50,90,157,134,133,100,50,80,169,187,154,132,154,143,100,520,30,37,53,80,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Lunglei,50,,40,45,98,NR,NR,120,105,50,75,NR,190,220,150,NR,NR,100,520,25,40,60,70,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Kolasib,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Mamit,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Champhai,50,,35,60,NR,NR,NR,NR,100,50,80,NR,180,NR,130,NR,NR,167,520,30,60,70,53,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Serchhip,45,,NR,45,120,NR,150,150,100,50,80,NR,190,200,118,NR,NR,100,250,30,30,67,72,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Siaha,50,,45,44,120,130,110,120,100,50,70,NR,214,140,159,NR,138,NR,540,30,37,60,77,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Lawngtlai,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Hnahthial,52,,45,45,125,160,130,130,97,53,79,NR,165,140,110,NR,NR,120,520,30,30,48,70,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Khawzawl,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Mizoram,Saitual,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Kohima,45,,40,55,100,170,130,140,90,50,75,NR,120,140,120,190,NR,NR,330,20,30,45,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Dimapur,46,,40,35,70,120,105,120,83,46,80,200,150,200,170,210,165,80,210,15,20,44,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Tuensang,37,,38,55,100,NR,NR,120,100,50,NR,NR,160,NR,165,NR,NR,NR,275,20,30,50,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Mokochung,50,,NR,60,130,140,170,140,100,50,74,NR,120,130,140,200,NR,90,380,15,25,40,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Chumukedima,40,,NR,35,100,140,120,100,90,40,80,NR,125,160,150,200,NR,90,320,15,20,40,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Mon,40,,NR,50,80,NR,NR,120,100,50,70,NR,130,NR,130,NR,NR,60,350,20,20,50,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Peren,38,,40,40,120,NR,140,120,100,50,72,NR,160,NR,168,NR,NR,80,345,15,25,70,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Phek,40,,50,50,100,140,140,140,100,50,72,NR,160,NR,170,NR,NR,NR,350,20,30,60,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Tseminyu,50,,NR,50,NR,NR,NR,120,100,50,70,NR,120,NR,120,NR,NR,NR,360,15,25,40,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Wokha,45,,NR,43,120,123,125,120,100,50,68,NR,160,200,180,NR,NR,NR,290,15,30,70,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Zunheboto,50,,NR,50,NR,120,NR,140,100,45,75,NR,150,NR,140,NR,NR,60,400,18,30,50,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Kiphire,36,,NR,40,90,95,NR,85,90,50,80,NR,130,NR,150,NR,NR,70,335,18,30,55,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Longleng,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Niuland,36,,NR,40,NR,150,100,120,100,50,70,NR,120,NR,140,NR,NR,120,350,15,20,30,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Shamator,40,,43,60,100,120,NR,110,100,50,65,NR,130,NR,140,NR,110,100,175,20,30,60,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Nagaland,Noklak,40,,50,60,90,100,NR,NR,105,50,NR,NR,130,NR,130,NR,NR,NR,NR,20,25,60,60,,,,,,,,,,,,,,,,,,,2024-03-25
+Sikkim,Gangtok,65,,40,40,85,135,128,127,95,50,62,NR,159,115,121,143,NR,60,547,17,27,35,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Sikkim,Gyalshing,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Sikkim,Namchi,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Sikkim,Soreng,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Sikkim,Mangan,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Tripura,Agartala,39,,NR,40,81,122,127,107,98,49,70,NR,137,130,117,140,107,70,200,12,25,30,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Tripura,Dharmanagar,35,,NR,40,89,157,135,120,110,48,71,NR,123,130,118,158,103,74,253,10,20,30,33,,,,,,,,,,,,,,,,,,,2024-03-25
+Tripura,Belonia,42,,NR,40,NR,NR,NR,105,107,45,68,NR,139,NR,113,131,105,75,265,10,25,30,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Tripura,TR-Udaipur,37,,NR,36,85,145,118,113,100,50,72,NR,122,108,110,130,93,57,168,10,24,28,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+SOUTH ZONE,SOUTH ZONE,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Vijaywada,55,,51,55,92,172,147,132,96,43,68,165,179,118,NR,112,89,61,297,19,38,26,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Visakhapatnam,55,,37,40,83,153,138,125,82,43,54,165,148,97,NR,113,89,58,280,20,24,28,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Kurnool,70,,45,42,88,155,136,130,110,42,63,154,160,111,110,110,90,63,467,25,33,28,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Tirupathi,66,,43,43,84,182,133,122,102,44,49,173,173,110,139,112,88,60,503,23,29,28,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Jammalamadugu,60,,46,60,80,160,146,130,124,40,66,170,191,110,180,115,90,54,198,20,35,33,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Dharmavaram,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Andhra Pradesh,Ongole,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Bengaluru,60,,43,41,86,163,151,119,98,43,47,205,144,95,127,110,94,56,413,17,19,16,12,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Dharwad,60,,45,63,89,166,158,129,116,41,48,193,161,132,115,107,93,56,393,28,29,24,12,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Mangalore,49,,41,39,77,145,132,115,90,38,44,166,157,142,135,108,97,60,371,14,38,65,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Mysore,63,,41,61,130,161,130,129,95,42,43,209,151,151,142,110,110,62,296,22,33,31,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Bengaluru (East Range),66,,45,38,85,162,125,121,83,46,46,157,177,104,128,116,102,60,264,15,33,32,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Belagavi,58,,40,40,82,141,128,108,84,48,53,173,164,102,110,116,92,48,265,19,31,30,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Kalaburagi,68,,45,48,75,174,128,133,98,41,59,178,155,111,144,115,85,44,243,18,24,25,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Tumakuru,64,,43,45,88,159,147,125,99,42,49,195,162,125,125,116,96,60,300,22,31,26,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Bellary,60,,40,41,77,141,126,120,118,41,48,193,155,104,131,113,103,62,228,24,31,22,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Dhavanagere,63,,44,64,87,157,143,126,110,42,49,168,153,116,120,113,97,59,270,28,30,27,17,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Shivamogga,59,,45,40,90,157,145,128,102,44,48,202,152,102,132,113,89,47,243,25,32,28,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Vijayapur,63,,44,40,91,168,161,128,109,43,55,213,168,128,123,112,97,53,285,21,30,17,15,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Ramanagara,65,,45,49,96,162,145,135,121,45,48,176,189,105,152,118,100,51,188,18,32,20,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Raichur,62,,45,46,119,166,133,122,91,44,56,178,147,124,128,120,105,59,157,15,33,31,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Chamarajanagar,65,,42,56,90,161,139,127,95,42,44,199,162,119,NR,112,97,61,289,23,31,30,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Kolar,47,,44,46,122,145,125,125,125,39,47,158,138,151,130,120,100,51,330,11,25,31,31,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Haveri,57,,39,42,136,185,134,134,80,40,62,150,159,139,140,141,92,43,238,14,63,57,17,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Bagalkot,54,,45,45,72,160,136,120,109,38,57,191,203,112,148,143,99,44,420,26,29,44,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Bidar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Koppal,52,,39,42,83,131,130,115,130,43,43,143,173,126,165,140,106,44,256,12,37,22,17,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Mandya,54,,44,44,94,157,146,129,98,42,47,196,198,109,170,113,98,49,354,18,33,24,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Yadgir,60,,45,36,75,160,140,120,100,40,60,180,170,NR,NR,120,100,52,NR,28,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Chikkamagalur,58,,45,40,101,168,157,133,101,44,49,177,162,110,110,111,93,60,190,17,31,30,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Bangalore Rural,62,,38,55,91,142,140,131,110,40,44,180,140,107,155,127,83,50,245,15,25,22,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Chikkaballapur,54,,45,38,80,137,123,112,87,41,42,162,130,91,120,105,93,47,417,14,34,36,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Chitradurga,64,,47,56,82,154,164,152,158,39,47,155,178,142,147,159,107,45,313,31,20,37,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Gadag,70,,45,48,84,165,130,124,114,42,70,172,168,126,140,122,100,45,320,10,30,35,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Hassan,45,,44,56,70,150,115,96,88,38,50,160,184,106,150,145,95,49,230,15,26,30,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Kodagu,58,,41,48,111,194,149,130,125,42,48,175,180,155,162,115,99,41,215,16,30,33,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Udupi,52,,54,56,128,145,156,130,129,48,48,174,176,121,152,158,119,51,289,28,35,38,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Uttara Kannada,54,,46,40,107,160,150,132,117,49,50,215,182,125,152,112,107,47,251,27,32,30,28,,,,,,,,,,,,,,,,,,,2024-03-25
+Karnataka,Vijayanagara,64,,44,44,85,152,129,122,111,44,48,178,157,127,115,110,89,45,245,16,26,25,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,T.Puram,55,,42,58,83,154,151,125,NR,43,52,223,170,131,130,114,99,63,267,18,35,31,31,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Ernakulam,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Kozhikode,45,,49,42,97,162,142,146,109,42,53,223,NR,131,NR,117,98,64,259,16,32,31,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Thrissur,53,,49,59,103,195,161,156,123,45,54,241,197,141,NR,122,108,69,259,16,41,36,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Palakkad,49,,44,48,92,167,145,123,96,42,50,215,160,135,NR,113,100,54,240,13,38,25,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Wayanad,46,,49,42,104,173,148,140,102,42,52,NR,166,140,NR,120,108,52,220,17,35,28,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Kasargod,48,,48,52,104,170,162,134,100,41,61,NR,NR,140,NR,110,98,46,260,16,33,25,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Kottayam,56,,41,45,129,174,128,128,131,44,56,NR,190,145,NR,120,99,59,225,13,40,29,38,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Pathanamthitta,55,,34,39,95,178,148,138,143,42,53,NR,218,190,NR,120,109,67,237,14,38,32,50,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Alapuzha,45,,46,64,96,163,157,146,116,42,52,NR,NR,137,NR,115,NR,63,201,12,37,26,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Kollam,45,,49,42,108,203,161,NR,108,44,52,224,NR,143,NR,122,114,68,230,16,43,33,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Idukki,54,,42,40,87,158,NR,128,86,43,60,NR,153,131,NR,116,97,59,180,13,41,32,37,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Kannur,50,,46,45,104,183,151,151,100,42,52,NR,NR,177,NR,115,95,57,258,16,32,23,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Kerala,Malapuram,46,,47,43,92,172,148,132,147,41,56,239,160,134,NR,120,104,51,230,14,36,29,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Puducherry,Puducherry,60,,41,36,87,162,124,115,89,41,48,189,144,132,NR,106,95,51,300,26,41,31,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Chennai,59,,44,42,86,168,145,122,93,42,40,170,148,112,NR,111,97,60,278,27,33,30,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Madurai,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Dindigul,65,,46,43,89,164,142,126,88,42,60,202,180,116,NR,116,105,55,277,19,35,30,18,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Thiruchirapalli,65,,45,65,89,159,142,124,107,43,43,196,170,123,NR,114,99,59,NR,26,35,33,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Coimbatore,46,,43,44,80,154,136,121,78,43,40,192,142,131,NR,112,97,56,253,26,36,26,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tirunelveli,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Cuddalore,66,,46,49,87,174,148,123,103,42,48,216,203,161,NR,110,90,54,313,24,35,30,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Dharmapuri,63,,44,40,82,155,135,117,83,41,43,222,NR,115,NR,122,101,50,270,25,30,30,20,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Vellore,71,,45,41,91,160,142,125,99,41,45,172,163,139,NR,109,87,53,267,26,32,27,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Ramanathapuram,62,,40,61,81,149,141,116,97,42,44,209,235,121,NR,125,95,51,273,27,41,31,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Erode,60,,48,43,90,151,136,122,85,42,45,188,183,111,NR,115,99,52,288,25,38,28,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Karur,47,,48,55,84,157,131,122,90,42,43,217,152,115,NR,114,90,51,298,12,40,35,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Perambalur,60,,NR,63,88,155,143,118,89,43,43,219,164,119,NR,115,89,51,NR,26,36,30,24,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Pudukkottai,65,,47,64,90,160,146,128,NR,44,45,NR,192,142,NR,112,97,52,NR,27,40,30,35,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Sivagangai,69,,47,62,89,159,149,127,100,42,44,215,213,142,NR,113,106,51,277,26,40,40,30,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Thanjavur,59,,46,40,88,173,148,130,80,43,44,200,170,132,NR,112,95,51,260,21,35,32,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,The nilgiris,75,,44,44,93,162,154,134,92,43,54,208,177,105,NR,115,95,62,213,27,50,31,17,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Thoothukudi,59,,45,57,84,156,145,125,86,44,54,232,190,125,NR,113,96,55,306,11,30,33,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Viluppuram,58,,49,39,89,160,129,127,96,42,50,167,162,114,NR,112,101,56,NR,26,32,32,22,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Virudhunagar,60,,42,63,83,151,134,121,78,43,45,189,149,127,NR,109,99,53,293,28,39,30,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Kanniyakumari,57,,39,53,84,148,136,119,132,41,41,190,180,120,NR,110,99,50,258,25,35,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Namakkal,67,,46,61,92,163,133,123,93,42,44,202,161,113,NR,109,95,55,NR,26,35,31,29,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tiruvannamalai,66,,49,60,86,162,141,110,89,44,65,182,173,114,NR,113,95,58,295,27,37,27,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tiruvarur,58,,62,62,83,173,129,124,NR,42,52,229,134,125,NR,112,88,52,NR,25,37,45,40,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tiruppur,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tenkasi,64,,46,59,85,158,154,119,NR,43,66,227,195,122,NR,115,99,56,275,22,36,31,31,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Nagapattinam,55,,44,61,89,175,130,121,107,43,50,215,213,121,NR,110,91,55,NR,20,33,23,27,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Krishnagiri,61,,42,38,87,163,138,120,87,40,44,195,NR,105,NR,110,90,50,503,26,30,25,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Ariyalur,64,,NR,64,82,156,147,125,90,43,44,208,177,122,NR,111,98,50,NR,26,40,33,26,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Kallakurichi,63,,48,63,90,161,130,130,107,42,47,185,173,109,NR,112,102,54,NR,26,35,33,23,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Kancheepuram,64,,49,63,87,165,144,127,94,42,40,186,157,122,NR,111,98,66,NR,26,33,27,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Salem,52,,45,45,85,150,135,120,98,44,45,187,157,117,NR,117,102,48,280,33,39,36,21,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Theni,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Chengalpattu,58,,45,60,85,175,153,135,95,44,40,203,185,122,NR,118,99,60,560,28,42,33,31,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Mayiladuthurai,60,,50,62,90,170,142,125,NR,44,44,233,165,173,NR,113,93,57,360,27,30,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Ranipet,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tirupattur,61,,41,44,83,155,141,127,99,42,72,181,218,157,NR,115,86,54,270,17,30,28,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Tamil Nadu,Tiruvallur,70,,44,60,88,177,137,137,95,43,40,207,173,123,NR,114,91,62,540,28,30,25,25,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Hyderabad,58,,38,39,81,143,119,109,91,39,52,147,148,92,103,104,92,51,266,18,19,19,19,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Karimnagar,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Warangal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Adilabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Suryapet,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Jadcherla,40,,30,50,75,165,125,110,95,39,57,170,178,126,NR,116,108,55,292,14,15,28,32,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Khammam,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Medchal,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Nizamabad,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Telangana,Sangareddy,NR,,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,NR,,,,,,,,,,,,,,,,,,,2024-03-25
+Commodity Name,Commodity Name,Rice,Rice,Wheat,Atta (Wheat),Gram Dal,Tur/Arhar Dal,Urad Dal,Moong Dal,Masoor Dal,Sugar,Milk @,Groundnut Oil (Packed),Mustard Oil (Packed),Vanaspati (Packed),Soya Oil (Packed),Sunflower Oil (Packed),Palm Oil (Packed),Gur,Tea Loose,Salt Pack (Iodised),Potato,Onion,Tomato,Bajra(whole),Jowar(whole),Maida(wheat),Ragi(whole),Suji(whole),Besan,Desi Ghee,Butter(Pasteurised),Eggs,Brinjal,Black Pepper(whole),Coriander(whole),Cummin Seed(whole),Red Chillies(whole),Turmeric(powder),Banana,GInger,Garlic,2024-03-25
+Average Price1,Average Price1,46.07,,31,36.59,85.55,151.51,127.09,119.54,94.51,44.47,57.91,189.45,135.16,126.47,121.39,122.55,101.34,53.95,282.8,21.87,25.51,32.28,32.06,,,,,,,,,,,,,,,,,,,2024-03-25
+Maximum Price1,Maximum Price1,75,,62,69,136,203,175,164,158,60,80,262,235,220,180,230,168,167,560,33,63,70,80,,,,,,,,,,,,,,,,,,,2024-03-25
+Minimum Price1,Minimum Price1,25,,21,27,60,87,85,85,70,38,40,124,110,91,98,104,83,37,157,10,11,14,12,,,,,,,,,,,,,,,,,,,2024-03-25
+Modal Price1,Modal Price1,40,,45,35,82.5,160,120,120,100,44,60,175,127.5,125,110,115,98.5,50,300,28,20,30,25,,,,,,,,,,,,,,,,,,,2024-03-25
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+"Department of Consumer Affairs ( Price Monitoring Division)Date 25/03/2024 Daily Retail Prices Of Essential Commodities  StateCentreRiceBroken RiceWheatAtta (Wheat)Gram DalTur/Arhar DalUrad DalMoong DalMasoor DalSugarMilk @Groundnut Oil (Packed)Mustard Oil (Packed)Vanaspati (Packed)Soya Oil (Packed)Sunflower Oil (Packed)Palm Oil (Packed)GurTea LooseSalt Pack (Iodised)PotatoOnionTomatoBajra (whole)Jowar (whole)Maida (wheat)Ragi (whole)Suji (whole)BesanDesi GheeButter (Pasteurised)Eggs BrinjalBlack Pepper (whole)Coriander (whole)Cummin Seed (whole)Red Chillies (whole)Turmeric (powder)BananaGingerGarlic  UnitQty1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 ltr1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg1 Kg100 gmDozen1 Kg100 gm250 gm100 gm100 gm50 gm1 Kg100 gm100 gm  Average PriceAverage Price46.07 3136.5985.55151.51127.09119.5494.5144.4757.91189.45135.16126.47121.39122.55101.3453.95282.821.8725.5132.2832.06 Maximum PriceMaximum Price75 6269136203175164158608026223522018023016816756033637080 Minimum PriceMinimum Price25 2127608785857038401241109198104833715710111412 Modal PriceModal Price40 453582.51601201201004460175127.512511011598.55030028203025 NORTH ZONENORTH ZONE  ChandigarhChandigarh42 32368013511511394NRNR190150128130145105NRNRNRNRNRNR DelhiDelhi40 2932831601451258844542091461241331401066024526253538 HaryanaHisar35 2729751451091087542571881171081141231024024025142532 KarnalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR PanchkulaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GurgaonNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Himachal PradeshShimla44 NR3785165143126915060214165131121NRNR5522028253540 Mandi42 NR34781611401268046472241591301211451194727028203436 Dharamshala28 NR3084153131127934540NR160136137NRNR4722028243050 Solan41 NR3283157135117854650214159128120134NR4922028223738 Una41 NR3182156131121854464NR141133117NRNR5022528233535 Bilaspur-hp44 NR3181157134118874658NR161130133NRNR4531827203342 Chamba36 NR3583156130120895055NR163140129NRNR4423528213540 Hamirpur-HP39 NR3183162132119894565NR161135NRNRNR4625928253238 Kullu40 NR3281167132111854640NR154129110141NR4224028204040 Sirmour37 2134791101301089645502281651351431551214132725293742 Kinnaur40 NR3579149131114854645NR145115117132NR4322927284050 Lahaul & Spiti40 NR40901651201001005070NR170150NRNRNR5548028405060 Jammu and KashmirSrinagar38 36501001301201401155045NR140135132163NR5029328304048 JammuNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR PoonchNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Kupwara36 2634901101101201006048NR1481451431481425030724224143 UdhampurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Shopian40 45451201251151201155049NR155145145145NR5034528253535 SambaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RambanNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RajouriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KishtwarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DodaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Baramulla35 3236901401201201005051NR1391311301421485236328303450 ReasiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KathuaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR PunjabAmritsar36 293872154115112904254190115115108118NR4526026202825 Ludhiana37 243287168140115954360210137122127135NR5032027223340 Bathinda40 2329851631401209744572181351221201371025429325193342 Barnala40 232785163125110854454208117112105120904231728193135 HoshiarpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Faridkot42 233287153132127924555233127122112132935231328222837 Mansa40 242890127110100984852NR125125130NRNR5528028203139 Sri Muktsar Sahib41 263182160120120924262203110113112117974624726223237 Dera Bassi38 2230861601201201104355NR128117120NRNR5324728193037 Sangrur42 2730811571161108145601621251171191261014222029203035 RoparNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Amargarh42 2630801601181208045601601151201201301004025028162530 Fatehgarh SahibNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Ferozepur42 253390190142124994360222123123120146985028128172625 Kapurthala34 25318312812212511544672131231351391381126226321193543 Uttar PradeshLucknow40 3034831451251208344662111301171201251164526528253040 KanpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR VaranasiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Agra44 2830851391071028445671781341301261241204024028193535 Jhansi43 2532781551041118145521911211111021211124321026182125 MeerutNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AllahabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GorakhpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SaharanpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BareillyNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AyodhyaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MoradabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AligarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Mirzapur (Vindhyanchal)NR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Banda38 2836781401151127842631971231151061631005216521212934 AzamgarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Gonda (Devipatan)NR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Amethi37 253875125921108844621891631341531901185025925224638 BarabankiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Bhadohi34 232965135951008943601901601451451851055023525183035 Chandauli30 263380140120118804260134120120105110905525026202930 FarrukhabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GhazipurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jaunpur44 273580142120122804362185140122118164905726028203038 UP-PratapgarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SambhalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Santkabir Nagar32 253276125115112964362183150145145175NR4425728144540 ShahjahanpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SitapurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SultanpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR UnnaoNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Ambedkar NagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AmrohaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BaghpatNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BijnorNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BudaunNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR EtahNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Fatehpur37 25417512015511510042642071471281351631204821519173235 GhaziabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR HardoiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jalaun33 2732841591081058942561841421521511701055223228183035 KaushambiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KushinagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Lakhimpur KheriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR PilibhitNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Sharwasti40 273385147127124844550147142115137NR1024420328192835 Siddharth Nagar40 2830801571201408245641661421261321651045023326203033 SonbhadraNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Rampur51 262981131110111874255162131126116143934525516222929 Bahraich36 2633701551301109642451551481371441271204525027193425 BastiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Etawah43 3035851661281029245651881331331301821154422330142926 MuzzafarnagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ChitrakootNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Hamirpur-UP45 273385160146111864470220135132107138934426526213340 Deoria43 29317213810411310545582041301231221531394622428212736 HapurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Bulandshahr40 253585140100100904470NR1251231231881004025026192220 Kanpur Dehat40 2430105140140107904566180125135135130955021028172840 HathrasNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Raebareli43 2933871481221229245672221321271331321125222227254243 Lalitpur36 23296713892949041531721321291261881343925825193025 Mohaba33 25308713798979046581501201121181721055019228202438 Gautam Budh NagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AuraiyaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Maharajganj34 2733781471201208044632031381151291511014621327212744 BalrampurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Kannauj38 2630801481001088244691751301201351821184124228203135 MathuraNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR FirozabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KasganjNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MainpuriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ShamliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Ballia32 2932841581111119843562001601481471471505024327132626 MauNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR UttarakhandDehradunNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR HaldwaniNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RudrapurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR HaridwarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR WEST ZONEWEST ZONE  ChhattisgarhRaipurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DurgNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AmbikapurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Bilaspur-CGNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JagdalpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DantewadaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DhamtariNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RajnandgaonNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Koriya38 33357514898113804276198131951241731104720027202520 DNH and DDSilvasa58 4343881611351319441661781401401141231025749027202220 DamanNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Diu47 37589017515313310044612201681391651381177036028222630 GoaPanajiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MargaoNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GujaratAhmedabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RajkotNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SuratNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BhujNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Selamba60 40449016014013010042681721351221201231204526715222830 Waghai42 40468014012013010543561921531431551351224925714283832 BodeliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR VapiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BilimoraNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR IdarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JhalodNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SongashNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Madhya PradeshBhopal38 303282152122112824360176135121106125NR5027012182118 IndoreNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Gwalior36 344382160120129904466214141121115125NR5423028122524 JabalpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Rewa42 24509110499116964653172157113142141NR4439319172420 Sagar41 252873148122108854159194133105109119944323322171819 Jhabua44 273588161122123944256187135129109138NR5330022293328 Hoshangabad47 2834861681141151014460185126106111122964540013253035 Shahdol33 32357017095105854275170130125115170NR4418025203040 UjjainNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Morena36 283085180120115100NRNR180110125125175100NRNRNRNRNRNR Anuppur35 303480150105120904550210130100110130904520010203020 Bhind39 33367012393959043601631231201251651203823015183840 Dhar45 28428315912411310542571821361251061331684922823202837 HardaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Katni35 2730801501201208045501901101101101251104518028202825 Khandwa32 24306915711211310841NR18115513899158NR50255NR212628 MandlaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RajgarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Sidhi36 26349514095959544602531251201151571404526028253030 Chattarpur30 263083190951309345502101271301151351195523019203035 NeemuchNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BurhanpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Narshinpur39 273975163120115854455195153110104143NR3928212172217 Raisen39 283080157120117904260187132110108NRNR4522028202730 SheopurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Agar malwa45 243280170128115954056NR132120107120NR4536516202440 Umaria43 323570130115115874460150125108118203NR4222018222825 ShajapurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Dewas42 24328215211511090415617312211398110NR4322511232529 KhargoneNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SingrauliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Chhindwara47 2532851551201208544552311591141271321324020010223028 Sehore38 253285155119110854250173125120110122NR4521111192935 MP-Ashoknagar41 2931701501251189042582501401381231401104021528203035 Balaghat39 353480148128120894052213154128115130NR5220010203020 GunaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RatlamNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Satna31 2535751401001008042602101281181301281034520028183323 VidishaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Alirajpur40 30359016011510510743652101431411151301005029710253725 BetulNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Damoh32 303280160120110854450195135125115125NR4920510202920 DindoriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NiwariNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SeoniNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR PannaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR TikamgarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MaharashtraMumbai43 485511320117516410749581941861461371511098031027312828 Nagpur52 455085155125125905263200150145109116896528327383642 Pune61 4250841681221318447691911511181151121104631627231426 Nashik40 424187159133123904154178170123102115965430026273030 Mangaon-Raigad44 4443841501331229244552051261161151101056330023202022 Dharni39 353582150120123884250182148124114137NR4929913282930 Latur57 3336881721391361023965205141951081111064520128252222 Akluj47 34388215712712110142501851281231161241025630525292529 Arni YavatmalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Chandrapur51 4444741621401251064567184162163108112NR5922728302215 Karad Satara46 3846841621481339841701861681301101141004928228302527 Ahemednagar59 44478415912911910040531641491191261281144422828242139 Khultabad59 303572145121119844048177NR131105121935630020293229 Islampur61 43488616013912010040691821761051251311054932330352226 Kankavli46 43449516214513110143551801721361081091005335520342819 Partur70 3340701601101101014055164198159110144984040910302720 Gondia55 4043781431111108141501561401071131151035121822222016 Jalgaon53 39409115613912911042602071521251071081226236827252528 Akola40 3338761541251151004365183141133102112905428526273037 RajasthanJaipurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JodhpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KotaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR UdaipurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BharatpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AjmerNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BikanerNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BundiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Rajsamand39 293378161117117884263172137122110125NR4928516242838 AlwarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Banswara38 263469138103103924153175145110162165NR4636323213125 Baran35 302770958987803950130138119127125NR3720014222235 BarmerNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BhilwaraNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Chhitorgarh47 26378815712011710044561881731411271271104532519203140 Churu32 283070879890823946172168145148169NR3830515253050 DholapurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Dungarpur37 2831651151241171214456NRNRNRNRNRNR5129328273737 HanumangarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JaisalmerNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JaloreNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JhalawarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JhunjhunuNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KarauliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NagaurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR PaliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR RJ-PratapgarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SikarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SirohiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Sri GanganagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR TonkNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Sawai MadhopurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR EAST ZONEEAST ZONE  BiharPatnaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BhagalpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Purnia36 313576136116109744551NR124102114NR984231413202839 DarbhangaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GayaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MuzzafarpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Saran41 2935821501261198145561461261271221451094826526194768 MungerNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SaharsaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Madhubani40 293377138124112804454154127128122152954930019173031 Rohtas (Sasaram)31 253180143124987844662201331031081151085223725213237 MotihariNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SamastipurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Katihar37 293278151124113764457NR133129130145NR4832619162828 Araria41 254081142142100824456NR130121121182924928023142844 Nawada38 2535861601221148344602271531201141701115028027193328 KhagariaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BankaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ArwalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Aurangabad35 2532741511201187844592221301461331971175219727223637 Begusarai37 273175124109104804353NR125121119NR964431913132918 Bhojpur Ara43 273282139124129744556225144162145198NR4936229202529 Buxar30 2730761401231237944601281481181181481174426028162919 GopalganjNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jamui38 283372139117114754357NR129111131NR1223825429173323 Jehanabad35 303475149127119764355NR137119121162NR4524425192827 KaimurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KishanganjNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Lakhisarai37 303573144110115864658NR148128138NR1284425626193844 Medhepura39 263477141127114744656NR129101114119974433912193342 NalandaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SheikhpuraNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SheoharNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SitamarhiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Siwan35 26307213910110973435418212496119185874420025222527 Supaul38 2732781601171137944511651251201351801005036514112424 Vaishali36 293272138118113744460150115101114160894520727142735 West Champaran41 2536811351151008542521661341621442031184729016213332 JharkhandRanchiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Gumla40 293485125105987043552091371101101981044027010162525 Sahibganj40 313474174100120904658211145123NRNRNR5238020182520 BokaroNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Lohardaga25 283672148118107734459NR1301281251521064420325122222 Simdega39 NR3577148123121774359NR13712512812611041NR27182430 Dhanbad38 3536821421281158046622101401221251221205030025182025 Jamshedpur (East Singbhum) 47 32341101271101049245582001471421651701104522025193535 GiridhiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SeraikellaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR West SinghbhumNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DaltonganjNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DeogharNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Ramgarh35 3336601511241127446NRNR1321231531901034427925283820 Pakur49 3537831501191181114659125132112113141995341328192034 Jamtara35 2834811511311218645601421261051261211014834828212531 Latehar37 233173134115107734562NR122154116124944222630233023 GoddaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Koderma38 3033801451281208045591491271051261501035020427222332 OdishaBhubaneshwar37 354280145121119804452NR132125NR112975222725242537 CuttackNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SambalpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Rourkela33 384177140119110754452NR129100108114974918027222318 BerhampurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jeypore43 393580145118115784352NR128107NR1121065021027242620 BalasoreNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Baripada37 3038801551201157945521681371031321151006023026202527 BalangirNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Angul35 NR3969139132101774454NR130NRNR114854337425174724 BoudhgarhNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Dhenkanal36 354075147120113804452180135123126115855537027203021 JagatsinghpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Kandhamal38 384283148132117805158NR135123NR1159053NR27213220 Keonjhar39 3843841531211211004550NR133104NR1171025136927193842 MalkangiriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NabarangpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Nayagarh38 NR3975145120120904452NR129117NR1119055NR26222624 NuapadaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Paralakhemundi GajapatiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Puri39 364179153121114814452NR133112NR115965327725213027 Rayagada38 333882160136120804752160138951441089147NR27262821 SonepurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BhadrakNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JharsugudaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KendraparaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JajpurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KalahandiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR West BengalKolkataNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SiliguriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Purulia33 NR318915212011282435112412593115125864729125172427 Kharagpur53 3538851501261149846542161351041191241025023827223020 RampurhatNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Malda43 2642731551151101054356NR140961221411196132021212523 RaiganjNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Alipurduar38 NR44751751101151104768NR120100110125985523810193938 AsansolNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Balurghat46 314078150124112954646NR124114105116864133710192825 Bankura38 NR34831511351501134659235128118110124914928027183019 Barasat43 354085125NR13511246602001331141131081105623530275843 Bardhaman48 NR38851531301201104454220122110106120975826025192629 Baruipur59 NR35891221251451194355NR1321221051201024322327253122 BerhamporeNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ChinsurahNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Cooch beharNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR HowrahNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jalapiguri37 2845851601101181074556NR1231251101231005030025203230 JhargramNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KalimpongNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Krishnagar36 NR377012310413810742441781131331161301144425319236861 TamlukNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NORTH EAST ZONENORTH EAST ZONE  Andaman and NicobarPort Blair49 NR6996164155138965473NR176198NR1321267432520454550 MayabunderNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Car Nicobar52 NR671011901591421086075262169160NR1391208528521506070 Arunachal pradeshItanagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NamsaiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Pasighat50 NR601001671401231036080167173137143190NR8032720306050 Tawang42 424295130140120120NRNRNRNRNRNRNRNRNRNRNRNRNRNR AssamGuwahatiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR BarpetaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR TinsukiaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR DhubriNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GoalparaNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR GolaghatNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Mangaldai49 33378711797116995070NR1611441411801356028014213025 Mushalpur41 343480142NR117874670NR1421421671581024621310192728 Udalguri40 273880140120110804970NR142130118153975025820153230 BajaliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Hojai47 NR368014585115854973NR1251001181271026023010183126 Jorhat48 3043961489312511447742431581521151621156521712212929 Bongaigaon38 NR3170115951091054572NR1401521491741095034810153025 Morigaon40 NR3981150110120954460NR1421401471501076023710153019 SonariNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Tamulpur49 363685140125119944768NR143114129NR995029010182730 Sivasagar50 NR4784132125131944978NR142130142NRNR67270101830NR Biswanath Chariali45 NR3075145NR1051004874NR143140175175NR5422512195236 Dibrugarh43 NR4186161125121944774NR142138126137NR5527323212845 Karimganj39 NR3783150133111804572NR132NR110127975523914212646 Majuli50 NR3892158881201004970NR135NR132NRNR5925615233868 Sonitpur Tezpur41 NR36691271081021004569226160172142171NR4629710182644 Haflong46 NR3678130NR120905572NR150NR130140NR8025030204040 AS-Lakhimpur38 NR338114797107914671NR138125123126NR6017515182833 Diphu42 NR3590157142126975074NR142NR1331631107623715203237 NalbariNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR South Salmara MankacharNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Kamrup39 NR3588175120115884674NR142NR1271421045926620193523 ManipurImphalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ChandelNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR JiribamNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KangpokpiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SenapatiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR TamenglongNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ThoubalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR UkhrulNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MeghalayaShillong45 3736901601231131004874NR125130112NRNR7030030253543 TuraNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jowai36 383690120110120904874NR120NR120230NR8036030204050 Sohra38 3939NR14014711787NRNRNRNRNRNRNRNRNRNRNRNRNRNR Mairang40 3837NRNRNR118905374NR120NR120NRNRNR34012224230 Nongpoh36 NR3687170130122885075NR132132126179NR7342315253743 Khliehriat45 403890155118122885074NR160137138NRNR4333330203043 WilliamnagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NongstoinNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Mawkyrwat38 3636NRNRNR122824974NR125NR112NRNRNR34516204645 MizoramAizawl50 405090157134133100508016918715413215414310052030375380 Lunglei50 404598NRNR1201055075NR190220150NRNR10052025406070 KolasibNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MamitNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Champhai50 3560NRNRNRNR1005080NR180NR130NRNR16752030607053 Serchhip45 NR45120NR1501501005080NR190200118NRNR10025030306772 Siaha50 45441201301101201005070NR214140159NR138NR54030376077 LawngtlaiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Hnahthial52 4545125160130130975379NR165140110NRNR12052030304870 KhawzawlNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SaitualNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NagalandKohima45 4055100170130140905075NR120140120190NRNR33020304560 Dimapur46 4035701201051208346802001502001702101658021015204440 Tuensang37 3855100NRNR12010050NRNR160NR165NRNRNR27520305050 Mokochung50 NR601301401701401005074NR120130140200NR9038015254060 Chumukedima40 NR35100140120100904080NR125160150200NR9032015204030 Mon40 NR5080NRNR1201005070NR130NR130NRNR6035020205050 Peren38 4040120NR1401201005072NR160NR168NRNR8034515257040 Phek40 50501001401401401005072NR160NR170NRNRNR35020306060 Tseminyu50 NR50NRNRNR1201005070NR120NR120NRNRNR36015254030 Wokha45 NR431201231251201005068NR160200180NRNRNR29015307060 Zunheboto50 NR50NR120NR1401004575NR150NR140NRNR6040018305050 Kiphire36 NR409095NR85905080NR130NR150NRNR7033518305550 LonglengNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Niuland36 NR40NR1501001201005070NR120NR140NRNR12035015203040 Shamator40 4360100120NR1101005065NR130NR140NR11010017520306060 Noklak40 506090100NRNR10550NRNR130NR130NRNRNRNR20256060 SikkimGangtok65 404085135128127955062NR159115121143NR6054717273535 GyalshingNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NamchiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SorengNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR ManganNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR TripuraAgartala39 NR4081122127107984970NR1371301171401077020012253040 Dharmanagar35 NR40891571351201104871NR1231301181581037425310203033 Belonia42 NR40NRNRNR1051074568NR139NR1131311057526510253040 TR-Udaipur37 NR36851451181131005072NR1221081101309357168102428NR SOUTH ZONESOUTH ZONE  Andhra PradeshVijaywada55 515592172147132964368165179118NR112896129719382638 Visakhapatnam55 37408315313812582435416514897NR113895828020242824 Kurnool70 4542881551361301104263154160111110110906346725332825 Tirupathi66 4343841821331221024449173173110139112886050323292821 Jammalamadugu60 4660801601461301244066170191110180115905419820353320 DharmavaramNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR OngoleNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR KarnatakaBengaluru60 43418616315111998434720514495127110945641317191612 Dharwad60 4563891661581291164148193161132115107935639328292412 Mangalore49 413977145132115903844166157142135108976037114386526 Mysore63 41611301611301299542432091511511421101106229622333123 Bengaluru (East Range)66 4538851621251218346461571771041281161026026415333230 Belagavi58 404082141128108844853173164102110116924826519313024 Kalaburagi68 454875174128133984159178155111144115854424318242523 Tumakuru64 434588159147125994249195162125125116966030022312620 Bellary60 40417714112612011841481931551041311131036222824312218 Dhavanagere63 4464871571431261104249168153116120113975927028302717 Shivamogga59 4540901571451281024448202152102132113894724325322818 Vijayapur63 4440911681611281094355213168128123112975328521301715 Ramanagara65 45499616214513512145481761891051521181005118818322020 Raichur62 45461191661331229144561781471241281201055915715333125 Chamarajanagar65 425690161139127954244199162119NR112976128923313023 Kolar47 444612214512512512539471581381511301201005133011253131 Haveri57 3942136185134134804062150159139140141924323814635717 Bagalkot54 4545721601361201093857191203112148143994442026294425 BidarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Koppal52 39428313113011513043431431731261651401064425612372217 Mandya54 444494157146129984247196198109170113984935418332418 Yadgir60 4536751601401201004060180170NRNR12010052NR28NRNRNR Chikkamagalur58 45401011681571331014449177162110110111936019017313021 Bangalore Rural62 3855911421401311104044180140107155127835024515252221 Chikkaballapur54 45388013712311287414216213091120105934741714343635 Chitradurga64 47568215416415215839471551781421471591074531331203725 Gadag70 45488416513012411442701721681261401221004532010303520 Hassan45 44567015011596883850160184106150145954923015263020 Kodagu58 41481111941491301254248175180155162115994121516303321 Udupi52 545612814515613012948481741761211521581195128928353828 Uttara Kannada54 464010716015013211749502151821251521121074725127323028 Vijayanagara64 4444851521291221114448178157127115110894524516262521 KeralaT.Puram55 425883154151125NR4352223170131130114996326718353131 ErnakulamNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Kozhikode45 4942971621421461094253223NR131NR117986425916323120 Thrissur53 49591031951611561234554241197141NR1221086925916413640 Palakkad49 444892167145123964250215160135NR1131005424013382524 Wayanad46 49421041731481401024252NR166140NR1201085222017352823 Kasargod48 48521041701621341004161NRNR140NR110984626016332525 Kottayam56 41451291741281281314456NR190145NR120995922513402938 Pathanamthitta55 3439951781481381434253NR218190NR1201096723714383250 Alapuzha45 4664961631571461164252NRNR137NR115NR6320112372623 Kollam45 4942108203161NR1084452224NR143NR1221146823016433340 Idukki54 424087158NR128864360NR153131NR116975918013413237 Kannur50 46451041831511511004252NRNR177NR115955725816322322 Malapuram46 4743921721481321474156239160134NR1201045123014362920 PuducherryPuducherry60 413687162124115894148189144132NR106955130026413122 Tamil NaduChennai59 444286168145122934240170148112NR111976027827333023 MaduraiNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Dindigul65 464389164142126884260202180116NR1161055527719353018 Thiruchirapalli65 4565891591421241074343196170123NR1149959NR26353323 Coimbatore46 434480154136121784340192142131NR112975625326362619 TirunelveliNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Cuddalore66 4649871741481231034248216203161NR110905431324353020 Dharmapuri63 444082155135117834143222NR115NR1221015027025303020 Vellore71 454191160142125994145172163139NR109875326726322722 Ramanathapuram62 406181149141116974244209235121NR125955127327413126 Erode60 484390151136122854245188183111NR115995228825382819 Karur47 485584157131122904243217152115NR114905129812403523 Perambalur60 NR6388155143118894343219164119NR1158951NR26363024 Pudukkottai65 476490160146128NR4445NR192142NR1129752NR27403035 Sivagangai69 4762891591491271004244215213142NR1131065127726404030 Thanjavur59 464088173148130804344200170132NR112955126021353222 The nilgiris75 444493162154134924354208177105NR115956221327503117 Thoothukudi59 455784156145125864454232190125NR113965530611303323 Viluppuram58 493989160129127964250167162114NR11210156NR26323222 Virudhunagar60 426383151134121784345189149127NR109995329328393023 Kanniyakumari57 3953841481361191324141190180120NR110995025825353025 Namakkal67 466192163133123934244202161113NR1099555NR26353129 Tiruvannamalai66 496086162141110894465182173114NR113955829527372723 Tiruvarur58 626283173129124NR4252229134125NR1128852NR25374540 TiruppurNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Tenkasi64 465985158154119NR4366227195122NR115995627522363131 Nagapattinam55 4461891751301211074350215213121NR1109155NR20332327 Krishnagiri61 423887163138120874044195NR105NR110905050326302525 Ariyalur64 NR6482156147125904344208177122NR1119850NR26403326 Kallakurichi63 4863901611301301074247185173109NR11210254NR26353323 Kancheepuram64 496387165144127944240186157122NR1119866NR26332725 Salem52 454585150135120984445187157117NR1171024828033393621 TheniNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Chengalpattu58 456085175153135954440203185122NR118996056028423331 Mayiladuthurai60 506290170142125NR4444233165173NR113935736027303025 RanipetNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Tirupattur61 414483155141127994272181218157NR115865427017302825 Tiruvallur70 446088177137137954340207173123NR114916254028302525 TelanganaHyderabad58 38398114311910991395214714892103104925126618191919 KarimnagarNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR WarangalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR AdilabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SuryapetNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Jadcherla40 305075165125110953957170178126NR1161085529214152832 KhammamNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR MedchalNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR NizamabadNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR SangareddyNR NRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNRNR Commodity NameCommodity NameRiceRiceWheatAtta (Wheat)Gram DalTur/Arhar DalUrad DalMoong DalMasoor DalSugarMilk @Groundnut Oil (Packed)Mustard Oil (Packed)Vanaspati (Packed)Soya Oil (Packed)Sunflower Oil (Packed)Palm Oil (Packed)GurTea LooseSalt Pack (Iodised)PotatoOnionTomatoBajra(whole)Jowar(whole)Maida(wheat)Ragi(whole)Suji(whole)BesanDesi GheeButter(Pasteurised)EggsBrinjalBlack Pepper(whole)Coriander(whole)Cummin Seed(whole)Red Chillies(whole)Turmeric(powder)BananaGIngerGarlic  Average Price1Average Price146.07 3136.5985.55151.51127.09119.5494.5144.4757.91189.45135.16126.47121.39122.55101.3453.95282.821.8725.5132.2832.06 Maximum Price1Maximum Price175 6269136203175164158608026223522018023016816756033637080 Minimum Price1Minimum Price125 2127608785857038401241109198104833715710111412 Modal Price1Modal Price140 453582.51601201201004460175127.512511011598.55030028203025 Source:- State civil supplies Dept.Note:- All India Consumption Weighted Average Prices of Oils w.e.f 23-Feb-2022 and Wheat and Atta w.e.f 25-Feb-2023 NR -> Not Reported Unit for Black Pepper (powder),Coriander (powder),Cummin Seed (powder),Red Chillies (powder),Turmeric (powder),Butter (Pasteurised) - Rs/100gm Unit for Eggs - Rs/Dozen Developed by:- National Informatics Centre(NIC)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+"Source:- State civil supplies Dept.Note:- All India Consumption Weighted Average Prices of Oils w.e.f 23-Feb-2022 and Wheat and Atta w.e.f 25-Feb-2023 NR -> Not Reported Unit for Black Pepper (powder),Coriander (powder),Cummin Seed (powder),Red Chillies (powder),Turmeric (powder),Butter (Pasteurised) - Rs/100gm Unit for Eggs - Rs/Dozen Developed by:- National Informatics Centre(NIC)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Source:- State civil supplies Dept.,Note:- All India Consumption Weighted Average Prices of Oils w.e.f 23-Feb-2022 and Wheat and Atta w.e.f 25-Feb-2023,NR -> Not Reported,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+"Unit for Black Pepper (powder),Coriander (powder),Cummin Seed (powder),Red Chillies (powder),Turmeric (powder),Butter (Pasteurised) - Rs/100gm","Unit for Black Pepper (powder),Coriander (powder),Cummin Seed (powder),Red Chillies (powder),Turmeric (powder),Butter (Pasteurised) - Rs/100gm",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+,Unit for Eggs - Rs/Dozen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+Developed by:- National Informatics Centre(NIC),Developed by:- National Informatics Centre(NIC),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2024-03-25
